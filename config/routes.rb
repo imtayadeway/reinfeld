@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root "main#index"
+  root "puzzle#index"
 end
