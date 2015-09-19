@@ -11,4 +11,8 @@
 
 class Puzzle < ActiveRecord::Base
   serialize :answer
+
+  def position
+    fen.match(%r{([1-8rnbqkp]+/){7}[1-8rnbqkp]+}i).to_s
+  end
 end

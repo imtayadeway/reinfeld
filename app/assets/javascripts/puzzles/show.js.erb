@@ -67,9 +67,11 @@ var updateStatus = function() {
   pgnEl.html(game.pgn());
 };
 
+var position = $("#board").attr("start-position");
+
 var cfg = {
   draggable: true,
-  position: 'start',
+  position: position,
   onDragStart: onDragStart,
   onDrop: onDrop,
   onSnapEnd: onSnapEnd
