@@ -10,7 +10,10 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'pgn'
-gem 'annotate'
+
+group :development do
+  gem 'annotate'
+end
 
 group :development, :test do
   gem 'pry'
