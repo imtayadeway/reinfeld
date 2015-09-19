@@ -11,3 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'pgn'
 gem 'annotate'
+
+group :development, :test do
+  gem 'rspec-rails'
+end

@@ -10,4 +10,5 @@
 #
 
 class Puzzle < ActiveRecord::Base
+  serialize :answer
 end
