@@ -49,4 +49,20 @@ RSpec.describe Puzzle, type: :model do
       expect(puzzle.previous).to be_nil
     end
   end
+
+  describe "#to_move" do
+    it "returns `:white` when it is white's move" do
+      fen = "3r2k1/1p5p/6p1/p2q1p2/P1Q5/1P5P/1P6/5RK1 w - - 0 1"
+      puzzle = build(:puzzle, :fen => fen)
+
+      expect(puzzle.to_move).to eq(:white)
+    end
+
+    it "returns `:black` when it is black's move" do
+      fen = "3r2k1/1p5p/6p1/p2q1p2/P1Q5/1P5P/1P6/5RK1 b - - 0 1"
+      puzzle = build(:puzzle, :fen => fen)
+
+      expect(puzzle.to_move).to eq(:black)
+    end
+  end
 end

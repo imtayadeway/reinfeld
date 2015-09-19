@@ -1,5 +1,5 @@
 <div id="board" start-position=<%= @puzzle.position %> style="width: 400px"></div>
-<p>Status: <span id="status"></span></p>
+<p><%= puzzle_status(@puzzle.to_move) %></p>
 <%= link_to "Previous", puzzle_path(@puzzle.previous) if @puzzle.previous %>
 <%= link_to "Next", puzzle_path(@puzzle.next) if @puzzle.next %>
 <%= javascript_include_tag "puzzles/show" %>
