@@ -48,7 +48,7 @@ var updateStatus = function() {
   }
 
   // draw?
-  else if (game.in_draw() === true) {
+    else if (game.in_draw() === true) {
     status = 'Game over, drawn position';
   }
 
@@ -68,14 +68,16 @@ var updateStatus = function() {
 };
 
 var position = $("#board").attr("start-position");
+var toMove = $("#board").attr("to-move");
 
 var cfg = {
   draggable: true,
   position: position,
+  orientation: toMove,
   onDragStart: onDragStart,
   onDrop: onDrop,
   onSnapEnd: onSnapEnd
 };
 board = ChessBoard('board', cfg);
-
+game.load($("#board").attr("fen"));
 updateStatus();

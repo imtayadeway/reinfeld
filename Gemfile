@@ -13,6 +13,7 @@ gem 'pgn'
 gem 'annotate'
 
 group :development, :test do
+  gem 'pry'
   gem 'rspec-rails'
 end
 

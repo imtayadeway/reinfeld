@@ -1,4 +1,4 @@
-<div id="board" start-position=<%= @puzzle.position %> style="width: 400px"></div>
+<div id="board" start-position="<%= @puzzle.position %>" fen="<%= @puzzle.fen %>" to-move="<%= @puzzle.to_move %>" style="width: 400px"></div>
 <p><%= puzzle_status(@puzzle.to_move) %></p>
 <%= link_to "Previous", puzzle_path(@puzzle.previous) if @puzzle.previous %>
 <%= link_to "Next", puzzle_path(@puzzle.next) if @puzzle.next %>
