@@ -12,4 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require chessjs/chess.js
+//= require chessboardjs/js/chessboard-0.3.0.js
