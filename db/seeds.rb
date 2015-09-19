@@ -1,7 +1,5 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
-#
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+Dir.glob(Rails.root.join("lib", "pgns", "*.pgn")).each do |pgn|
+  PGN.parse(File.read(pgn)).map do |game|
+    Puzzle.create!(:fen => game.tags["FEN"], :answer => YAML.dump(game.moves))
+  end
+end
