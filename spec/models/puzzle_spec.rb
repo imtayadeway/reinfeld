@@ -21,4 +21,34 @@ RSpec.describe Puzzle, type: :model do
       expect(puzzle.position).to eq(expected)
     end
   end
+
+  describe "#next" do
+    it "returns the next puzzle if there is one" do
+      puzzle1 = create(:puzzle)
+      puzzle2 = create(:puzzle)
+
+      expect(puzzle1.next).to eq(puzzle2)
+    end
+
+    it "returns nil when there is none" do
+      puzzle = create(:puzzle)
+
+      expect(puzzle.next).to be_nil
+    end
+  end
+
+  describe "#previous" do
+    it "returns the next puzzle if there is one" do
+      puzzle1 = create(:puzzle)
+      puzzle2 = create(:puzzle)
+
+      expect(puzzle2.previous).to eq(puzzle1)
+    end
+
+    it "returns nil when there is none" do
+      puzzle = create(:puzzle)
+
+      expect(puzzle.previous).to be_nil
+    end
+  end
 end

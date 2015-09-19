@@ -15,4 +15,14 @@ class Puzzle < ActiveRecord::Base
   def position
     fen.match(%r{([1-8rnbqkp]+/){7}[1-8rnbqkp]+}i).to_s
   end
+
+  def next
+    return nil if self.class.last == self
+    self.class.where("id > #{id}").first
+  end
+
+  def previous
+    return nil if self.class.first == self
+    self.class.where("id < #{id}").first
+  end
 end
