@@ -12,4 +12,5 @@
 !/log/.keep
 /tmp
 
-/db/*.sqlite3
+# Sensitive data in here
+/config/database.yml
