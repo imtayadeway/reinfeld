@@ -9,9 +9,15 @@ var onDragStart = function(source, piece, position, orientation) {
   if (game.game_over() === true ||
       (game.turn() === 'w' && piece.search(/^b/) !== -1) ||
       (game.turn() === 'b' && piece.search(/^w/) !== -1) ||
-      (solution.length < 1)) {
+      (solution.length === 0)) {
     return false;
   }
+};
+
+var makeComputerMove = function() {
+  if (solution.length === 0) return;
+  game.move(solution.shift());
+  board.position(game.fen());
 };
 
 var onDrop = function(source, target) {
@@ -33,9 +39,11 @@ var onDrop = function(source, target) {
   }
   solution.shift();
 
-  // solved
-  if (solution.length < 1) {
+  // solved or move
+  if (solution.length === 0) {
     alert("10 points!");
+  } else {
+    window.setTimeout(makeComputerMove, 250);
   }
 };
 
