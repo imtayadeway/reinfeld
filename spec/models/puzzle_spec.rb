@@ -1,12 +1,23 @@
+# == Schema Information
+#
+# Table name: puzzles
+#
+#  id         :integer          not null, primary key
+#  fen        :string
+#  solution   :string
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+
 require "rails_helper"
 
 RSpec.describe Puzzle, type: :model do
-  describe "#answer" do
+  describe "#solution" do
     it "can serialize and deserialize a list of moves" do
-      answer = %w(Rd1 Qxc4 Rxd8+ Kf7 bxc4)
-      puzzle = create(:puzzle, :answer => answer)
+      solution = %w(Rd1 Qxc4 Rxd8+ Kf7 bxc4)
+      puzzle = create(:puzzle, :solution => solution)
 
-      expect(puzzle.reload.answer).to eq(answer)
+      expect(puzzle.reload.solution).to eq(solution)
     end
   end
 

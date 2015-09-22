@@ -4,7 +4,7 @@
 #
 #  id         :integer          not null, primary key
 #  fen        :string
-#  answer     :string
+#  solution   :string
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
 #
@@ -12,7 +12,7 @@
 class Puzzle < ActiveRecord::Base
   FEN_REGEX = %r{(?<position>([1-8rnbqkp]+/){7}[1-8rnbqkp]+)\s(?<to_move>[wb])}i
 
-  serialize :answer
+  serialize :solution
 
   def position
     fen_elements[:position]
