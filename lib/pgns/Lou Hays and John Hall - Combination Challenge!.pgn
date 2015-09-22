@@ -6,7 +6,7 @@
 [Black "?"]
 [Result "1-0"]
 [SetUp "1"]
-[FEN "3rn1k1/p4ppp/1p4b1/2p1Q3/2P1P3/P4P2/1B1qBP1P/1R5K w - - 0 1"]
+[FEN "3rn1k1/pp3ppp/6b1/2p1Q3/2P1P3/P4P2/1B1qBP1P/1R5K w - - 0 1"]
 [PlyCount "7"]
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
@@ -17,31 +17,2536 @@
 [Site "?"]
 [Date "1992.??.??"]
 [Round "?"]
-[White "01"]
+[White "02"]
 [Black "?"]
-[Result "1-0"]
+[Result "*"]
 [SetUp "1"]
-[FEN "3rn1k1/p4ppp/1p4b1/2p1Q3/2P1P3/P4P2/1B1qBP1P/1R5K w - - 0 1"]
-[PlyCount "7"]
+[FEN "1r1q1k1r/Q4ppp/2B2n2/8/Pbbp4/1P4P1/2PP1P1P/R1B1K2R b KQ - 0 1"]
+[PlyCount "0"]
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
-1. Rd1 Qxe2 2. Qxg7+ Nxg7 3. Rxd8+ Ne8 4. Rxe8# *
+ *
 
 [Event "Combination Challenge!"]
 [Site "?"]
 [Date "1992.??.??"]
 [Round "?"]
-[White "01"]
+[White "03"]
 [Black "?"]
-[Result "1-0"]
+[Result "*"]
 [SetUp "1"]
-[FEN "3rn1k1/p4ppp/1p4b1/2p1Q3/2P1P3/P4P2/1B1qBP1P/1R5K w - - 0 1"]
-[PlyCount "7"]
+[FEN "3r1rk1/pp2qp1p/3N2p1/2pQP3/b1P2P2/8/PP4PP/2K2B1R b - - 0 1"]
+[PlyCount "0"]
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
-1. Rd1 Qxe2 2. Qxg7+ Nxg7 3. Rxd8+ Ne8 4. Rxe8# *
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "04"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Rr2k1/2R3pp/1q1r4/pp1p4/3PpP2/4P2P/PP5K/3Q4 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "05"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/3Q4/3p2rp/p1pPp3/2P1Pp2/P4R2/1q4PP/6RK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "06"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "07"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/ppnr2pp/4p3/4Q3/1q6/6P1/PP3PBP/2RR2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "08"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/pp2ppbp/5p2/q2N4/3Q1P2/8/PPP3PP/2KR3R w k - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "09"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/1pp4p/p1p2Pp1/3r1b2/1P2nP2/NQ6/P1P3PP/R1B1R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "10"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pQRq2pk/4p2p/3r1p2/3P4/P3P3/1P3PPP/6K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "11"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/ppp3pp/2b1p3/8/P1PPP3/2BQ4/5qPP/4R2K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "12"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/p2qbppp/4b3/3p2P1/1pnP1P2/3Q2N1/PP1B3P/1K1NRR2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "13"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R2br1k/5r1p/p2p1P2/6RQ/3p1P2/4p2B/q6P/5N1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "14"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/5pp1/pN2pb2/Q7/PR6/3q4/5PPP/5RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "15"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3bpp1/1p2p2p/q2pP3/3P4/1Rr2B2/P1PQ1PPP/2R3K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "16"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1pp3bp/3p2p1/2PPp3/1P2P3/2Q1B3/4q1PP/R5K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "17"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "18"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p4p1/2p4p/8/2QPp3/8/PP3qPP/2R4K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "19"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/3R1ppp/p3p1q1/2p5/2p5/P4Q2/1PP3PP/1K1R4 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "20"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppq2ppp/2p5/4bN2/4P3/6Q1/PP3PPP/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "21"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Rnk5/1p4pp/1Pp2pq1/2B1r3/1P6/7P/3r2PQ/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "22"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/1pp2p2/p2b4/4n1p1/N3q1P1/1B2B3/PP3RP1/4RQK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "23"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/ppp3pp/3b4/4Npq1/2B5/8/PPP2PPP/R2QR1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "24"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p1q1ppp/3p1b2/p2P4/2Q5/5N2/PP2RPPP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "25"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp5p/2p2n2/5N2/4qP2/2Q5/1PP4K/3R4 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "26"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/1p2rppp/3Np3/pB2n3/8/P6P/1P3PP1/3R1RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "27"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6kr/pp4p1/2n5/3qpNNp/2Qp4/2n5/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "28"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1r1k/6pp/5p2/5B1b/p1p5/q4P2/PrPQ2PP/4R2K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "29"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/1pp1R1pp/p7/q1P5/8/5P2/PPQ4P/5R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "30"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/3P4/2Q2p2/6n1/P1P5/2q3PP/R4RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "31"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/3b2p1/p6p/1pRpR3/1P1P4/P4pPq/5Qn1/1B4K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "32"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p3p2p/3r2b1/4Q3/1P3P2/P4qPP/2B1R2K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "33"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p2r1ppp/1pQ2bq1/3B4/4P3/2BR2Pb/PP3P1P/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "34"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/6pp/4q3/pb1pNp2/1n1P4/1Q2P1P1/1B1n1PBP/R5K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "35"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R2rq1k/2p3p1/Q2p1pPp/8/4P3/7P/P1r3P1/1R4K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "36"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/3P1ppp/p3q3/1pR1P3/2p5/Q5PP/P4P1K/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "37"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/2N2pkp/8/6b1/1p1NQ3/3P1qPb/PPR2P1P/4R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "38"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5ppp/8/8/8/4PQ2/r1q2PPP/RR4K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "39"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/p4r1R/1np2q2/2Np2p1/3P4/1P1QP3/5P2/2K5 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "40"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3p1p/2q2npB/8/3Q4/2P5/PP3PPP/R2B1RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "41"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1r2/R1p3pp/1p1q1p2/3Ppb2/8/1PQ2N2/2PP1PP1/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "42"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3r1p/3p2p1/3NP2q/2Pn4/1P4Q1/P2R2PP/4R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "43"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p1b1pp1/1p5p/3Pq3/1R6/P2Q1B2/1P4PP/R6K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "44"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/1p3pk1/4q1p1/1P2rn2/1B1p3p/7P/1PQ2PP1/7K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "45"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kb1r/p1qb1ppp/4pn2/1pn5/3B4/P4NP1/1PQNPP1P/R3KB1R b KQk - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "46"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/1bQ1qpp1/p3p3/2bp4/P2N3p/2PB4/1P3PPP/R1B1R1K1 w kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "47"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5r1p/1pqpQ1p1/p7/2P2r2/1P1R4/P5PP/3R3K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "48"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b4rk1/5ppp/6q1/rB2p3/Pp2P3/3QP3/1P4PP/2RR2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "49"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k5r1/pp4pp/5n2/qP2Q1N1/3Pp3/2r1P3/5PPP/R1R3K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "50"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1r/p3bpp1/2pNp2p/4q3/8/Q7/PPP3PP/1K1R4 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "51"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/3b2p1/3q1nQp/R7/2p1p3/2N4P/PP2R1P1/1B5K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "52"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p4pp/8/3Pp1R1/1q6/8/PP4PP/2Q4K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "53"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/q4ppp/p1Rnp3/8/1p6/1N3P2/PP3QPP/3R2K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "54"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/5p1p/pp2p1pB/2n1q3/2P3Q1/1P6/P1R2PPP/3R2K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "55"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/2pr1Q2/p2qp3/Pp2N3/1P1P4/2P3PP/7K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "56"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/1bq1kp2/p3p2p/8/PNp1r3/6P1/1P3P2/3R2K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "57"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5p1p/1p1rq1p1/1Q1n4/2R5/4PB2/5PPP/2R3K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "58"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4ppp/1q6/8/8/2R1P3/P3QPPP/6K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "59"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Rb2rk1/2P1r2p/6p1/P2Rpp2/P6P/4N1P1/5P2/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "60"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bn1rk1/pp3p1p/6p1/2bR2N1/2B2B2/q1P1P3/2Q2PPP/4K2R w K - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "61"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/p4p1p/1q4p1/2R2P2/4P3/2Q5/PP4PP/2R3K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "62"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4bk1r/Q4ppp/1p2q3/8/4B3/8/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "63"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn6/kp3p1p/pq6/N1Q5/P7/7P/5PP1/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "64"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b5/pp3Qpk/8/3pp2n/8/5P2/PP3q1P/R1B3RK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "65"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4p2/5npQ/4p1N1/5n2/2r3R1/P2q2PP/5R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "66"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p3bppp/1qp1b3/8/4P3/P1NP4/1P1Q1PPP/2KR3R b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "67"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/5Q1p/pp1P1b2/8/1P4RP/PBr3PK/4q3 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "68"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/pp2p1p1/4P3/PP2bP2/2B1b2p/6PP/6RK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "69"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/ppp2pp1/1b5p/1P6/R2PP3/7P/1P3rP1/2rr1NK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "70"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/1p3rp1/pbp4p/4Q3/4PqP1/2PP1N2/P4PP1/R3R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "71"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/b4pp1/q1pp1nr1/1p5p/1P1BP2P/3P1P2/4N1PQ/5RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "72"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p4pk/2b2pqp/8/8/P6P/3BRQP1/6K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "73"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/pp2kp2/3q1p1Q/3Pp3/6b1/1B6/P1P3PP/1K3R2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "74"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3k1/pbR1bppp/4r3/1Q2p3/8/4P1P1/P4PPK/1BBR4 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "75"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/p7/3Pn3/5p2/4rBqP/P4RP1/5QK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "76"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/4q1pp/3p4/p1p1n3/4Q3/1P4P1/PNP4P/3RR1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "77"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/pp4P1/4p2n/1q6/3pB1n1/P6Q/1PPB3r/2KR2R1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "78"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/1pp2qpp/p2b4/3p4/6b1/2P1B3/PP1Q1PPP/R3KN1R b KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "79"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2q1bp/5np1/4p3/4P1P1/2N1BB2/PPP4P/R2QK2R b KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "80"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/ppp2pPp/3b1q2/4Nn2/Q1pPrpb1/2P5/PP4PP/R1B2RNK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "81"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/3qbppp/p1p5/1p2P3/6b1/1BP1B1Q1/PP3P1P/R4RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "82"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/ppp2ppp/2n2n2/8/1bq5/1PN2NP1/P1QBPPBP/R3K2R b KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "83"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/3br1bp/p2p3q/P1pP1p2/2P1nP2/3Q3P/4N1B1/2B1RRK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "84"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pb3ppp/1p3q2/1Nb5/2p1BP2/P5P1/1PQ4P/R1B2R1K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "85"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/pppp1ppp/5n2/2bPp1B1/2P5/8/PP2PPPP/RN1QKBNR b KQkq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "86"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4p3/5q2/8/Pp1Q1P2/1P4PP/1K1R4 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "87"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq2k1/1p1npp1p/p2p2p1/3P4/bP2PP2/r2BB2P/P2R1QPK/5R2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "88"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1bpq1pp1/p6p/4P3/3bnP2/4B3/PPP1Q1PP/R4R1K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "89"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/p3ppbp/3pbnp1/7P/qP1BP1P1/5P2/1PPQ4/1NKR1B1R b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "90"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/1p6/p2qp1QP/P1Bpb3/1P3r2/2P5/1K6 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "91"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rkr/1b3pb1/3p3p/p2Np3/PpB1Q1Pq/1P6/2P4P/3R1RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "92"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p4pk/2b2pq1/7p/3B1P2/7P/4RQP1/7K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "93"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2bqk1/2p1rpbn/3p3p/1p4n1/3PP2N/1BP1B2P/1P1N1R1K/3Q1R2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "94"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/1b4rp/2q2n2/p1n5/4p2Q/1PN2N2/PBP1R3/K3R3 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "95"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/1b3pk1/5qp1/1P1p3p/p1pN3P/3nP1P1/PQR2PB1/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "96"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rq3/ppRr2kp/3Rp1p1/4Pp2/2Q2P2/8/PP4PP/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "97"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/R2b2qk/2p1p2p/1pPpPrp1/1P1Qp3/4P3/4N1PP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "98"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rn1/p5bk/b2pP2p/q2P1p2/1p2nP1N/3QB2P/PP4B1/3NRRK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "99"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2rk/p4p1p/3p1Pp1/3R4/2p1B2Q/8/1q4PP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "100"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/1pp1qppp/2n3n1/p3P3/2PN3P/P5P1/1P2PPB1/R2QK2R w KQk - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "101"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p4b1/3r3p/3q2pP/4Q3/8/4BPP1/1R4K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "102"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2b2/5k2/4bP1r/2pB1Q1p/pp6/8/PPP3PP/2K2R2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "103"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/p2r4/4p2R/3bP2P/1qp5/8/PPBQ1P2/1K1R4 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "104"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/6q1/p3p3/1p1b4/4p3/1P2B2P/P4PP1/2QR2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "105"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rkr1/1p1Rn1pp/p3p2B/4Qp2/8/8/PPq2PPP/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "106"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pp2pppp/3p4/3Pn3/4P1b1/5N2/PP3PPP/RNBQKB1R w KQkq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "107"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3ppp/1q3n2/3Pp3/3nP3/3P4/1P3QPP/3B1RKN b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "108"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp2bppp/2n2n2/4NRB1/3P4/PB5Q/1P4PP/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "109"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp1qpp1/1bnp3p/5PNQ/2BPP3/4n3/PP4PP/RN3RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "110"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2kb1r/1r1n1ppp/2Qpp3/8/N7/8/1PP2PPP/R1BR2K1 w k - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "111"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/2Np2pp/1pbPp2r/p7/n1P5/P1P2P1P/3Q1qP1/1R1R1B1K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "112"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qk2r/1pp1nppp/1p6/r7/8/5Q2/PP3PPP/R1B1R1K1 w k - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "113"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp2pppp/1q3n2/3p4/3n4/3BBQ1P/PPP2PP1/RN3RK1 w kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "114"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1Rbpnp/q1p1p1p1/4P3/1PP2QP1/P3B2P/4BP2/R5K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "115"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/p4ppp/bp2pn2/8/2BP4/P3P3/1B2QPPP/2R2RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "116"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R w k - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "117"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1bp2p2/1p1p1npp/3P4/PpP2P1B/3Q4/2B3PP/4RRK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "118"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/pb2qppp/2n1p3/4N3/Q1pP4/2B1P3/1P3PPP/R3K2R w KQkq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "119"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6r/k6P/P1P4R/K7/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "120"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nb1rk2/4q1pp/pn3p2/1p1p1N2/2pP1PQ1/1PP3P1/P5BP/R1B1rRK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "121"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/p1pb1pp1/1pnq3p/3BpPN1/4Q3/2PP2P1/P1P4P/R4RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "122"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1k1r/p1pbbp1p/3p1npN/2pN4/4P3/5Q2/PPP2PPP/R1B1K2R w KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "123"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/p6p/1p2q1p1/2pQnp2/2P2R2/2P5/6PP/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "124"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q1bppp/p3pn2/1pn3B1/8/P1N1PN2/BPQ2PPP/3RK2R w K - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "125"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4qbk1/1R5n/p2pr1p1/2pQpNPp/P1P1P3/2P2P2/3B4/5K2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "126"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp2qppp/2pb1n2/3p4/4P3/3B1N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "127"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p3r2k/2p1q1pp/1pPnNp1b/1P1P1P2/P5RQ/7P/1B4RK w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "128"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/ppp1qppp/5n2/2b1n1N1/2B3b1/1QN5/PB4PP/4RR1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "129"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1b3k1/pq3pp1/1pN1p2p/3n4/1P1PB2P/P7/5PP1/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "130"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1b1r1p2/p1q1pQp1/1p2P2p/8/1BP1NR2/PP1n2PP/5R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "131"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/1b3p1p/p1qp1np1/B1n1p3/2N1P3/1PN3PB/2P2P1P/3QR1K1 w k - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "132"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1bpk2b1/1p2p3/1qn3N1/1p1pPP2/3P3B/1PPKQ2R/r2N4 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "133"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/ppp1pppp/8/3Pn3/6b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "134"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbr2k1/1pq1bp1p/p1pNn1p1/2n1p3/2B1P2P/1NQ1BP2/PP4P1/1K1R3R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "135"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1p3ppp/p1q1pn2/8/P1B5/8/1PPNQPPP/R1B2RK1 w kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "136"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q1b1k1/p3bppp/N1p1pn2/1r6/4P3/P3B1PP/4QPB1/R1R3K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "137"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/1p3r2/p1p2rk1/P1Pp1pp1/3P2P1/4P2P/2B1K3/1R3R2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "138"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr2nr/1ppq2pp/p1pB4/4p3/6Q1/8/PP3PPP/RN1R2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "139"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1bp4p/p2p4/1p3rbk/4p3/PBP5/1P3PP1/3RR1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "140"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pbp1r2p/1p3q2/4nP2/1PP1p2p/P3P3/4B1R1/B3Q2K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "141"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/7p/1p4p1/p2q1p2/P1Q5/1P5P/1P6/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "142"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p3q2p/4n1p1/3BR3/3p2P1/8/P2Q3P/7K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "143"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k4/1pp2rpp/pn1b1p2/3n4/8/P4NB1/1PP3PP/2KRR3 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "144"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/pp3ppp/1bppbq2/4n3/3pPB2/1B1P2Q1/PPPN2PP/R4RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "145"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppp1qn1p/3pB1pr/3Pp3/2P1Pn2/PPB5/1Q4RP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "146"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/4R3/p1pp4/3p1bQ1/3q1P2/7P/P2B2P1/7K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "147"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1rk2/pp3ppQ/1np5/4q3/2B4N/4P3/PP3PP1/2R2K1R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "148"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp4p1/6r1/3p4/P1nPNpPq/2P4P/4Q2K/1R4R1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "149"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/1pbb1ppp/4p3/pP1nN3/P7/1B2P3/1B2KPPP/2R4R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "150"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3nrrk1/2nb3p/1p5b/p1p1pp2/4N2N/P1PP2PP/1PB4K/4RRB1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "151"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/5pp1/p1q2n1p/4pP2/2p1P1P1/2P5/2PNQ2P/R5RK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "152"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p2qp1p/p4R1Q/P1p5/2Prp3/7P/1P4P1/5R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "153"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p2nqppp/Qpp5/3p4/3Pn3/2N1PN2/PP3PPP/2R2RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "154"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/1p3ppp/p3p3/5b2/1Pp1n3/1P1pPQ2/5PPP/Rn1K1B1R b kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "155"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp1R2pp/2p5/4P3/1bP2P1P/1P2pPq1/P1Q1P3/5K1R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "156"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp1b1rp1/2p2n2/3p2qp/3P4/1P1QPPN1/P3R1BP/R5K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "157"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p3pp1/4p2p/3nP3/8/2PQ4/qP4PP/rNKRR3 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "158"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3b1r/pQpk2p1/2qnppB1/8/6PP/2N1B3/PPP2P2/2KR3R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "159"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/2pR1bkp/1r6/p1N2qp1/P1QP4/2P4P/5PP1/4R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "160"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n2kbnr/3q1ppp/2N1p3/2p5/Q1pP4/4P3/5PPP/1NB1KB1R w Kk - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "161"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2kr/1p3pnp/p5rQ/3N1p2/3P4/P5R1/1P3P1P/4R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "162"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p1p1qppn/1p2b2p/3r4/3N4/1PP4P/1P3BP1/R2QR1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "163"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k4rr1/pp5p/2b5/2P2p1Q/2pp1B2/2P2R1B/2P1q2P/5R1K b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "164"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1r1k/2r3np/p1p1P1b1/Pp1p1pN1/1P1Q1P2/3B3R/7P/6RK w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "165"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b2p1/2p4n/2Qp1p1R/3P4/3BP3/PP2NPq1/1K5R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "166"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3R2/pp4p1/2p3k1/8/8/2P1B2P/PPP3P1/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "167"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/ppp3pp/4bq2/2b1Np2/2B2P2/8/PPP1Q1PP/R1B1K2R w KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "168"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/3R1p1p/p3p1qp/1p6/3R4/P1P3P1/1P3Q1P/6K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "169"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2r1kp/q1pRbpp1/2Pn4/r7/P3P1P1/1Q1N1PBP/1R4K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "170"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4pk/6qp/1P1p4/r2N2r1/1RP1R3/P1Q4K/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
 
 [Event "Combination Challenge!"]
 [Site "?"]
@@ -72,6 +2577,486 @@
 [SourceDate "2002.08.06"]
 
 1... Qg3+ 2. Bxg3 hxg3+ 3. Kg4 Ne7 *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "173"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1q1pp1/7p/2nPPb2/n1BQ1B2/P1N4P/1P4P1/2KR3R b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "174"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2n1k1/4Rp1p/3p2pB/1b1Pn3/3QP3/7P/2r2PP1/1R4K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "175"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp4pp/4p3/2R3Q1/3n4/2q4r/P1P2PPP/5RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "176"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/2p2p2/p2p1n2/1p2p3/4P2p/1PPPPp1q/1P5P/R1N2QRK b kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "177"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p2ppbp/p2pb1p1/q7/P1rBPPn1/5B2/1PP1N1PP/R2QR1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "178"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p4pp/P7/2b5/P4n1N/1Q3P1q/R4P1P/4r1RK b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "179"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/b3q1kp/6p1/1Q3b2/1P3P2/6KP/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "180"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2pp1/7p/3P4/2P1Nnq1/P4bB1/1PP2PPP/RN2QRK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "181"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/8/4p3/pp1qPn2/5P2/PP2B3/2Q2K2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "182"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/2p1k1pp/1b1p1n2/pP2p2q/P1B1Pn2/B1P2bP1/R2N1P1P/4R1K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "183"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/Q5pp/4Nq1n/3B1p2/5P2/4B3/Pr2n1PP/3R1K2 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "184"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r1b1r/Rpp2ppp/4b3/1q2N3/5Q2/1PN5/2nP1PPP/2BKR3 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "185"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/4R1p1/ppq2pQp/8/8/1P4P1/PB3P1P/3b2K1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "186"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r2/rpp2pkp/3pq3/2pR2P1/2n1P1N1/2P2B2/1P3Q1P/1K5R b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "187"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/ppp1q1n1/3p2p1/3P1pP1/3Q1P1R/6N1/PPP5/2K4R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "188"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "189"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn4nr/pppq2bk/7p/5b1P/4NBQ1/3B4/PPP3P1/R3K2R w KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "190"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/P7/6P1/5P1P/2R1R1K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "191"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1r1k/p2pNppp/bp1Q4/2p1PN2/2B5/P1R5/5PPP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "192"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqnrk1/pp3ppp/1b1p4/3p2Q1/2n1P3/3B1P2/PB3P1P/R5RK w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "193"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/3pNpkp/3pn1p1/2pN3P/2PnP3/q3QP2/4BKP1/1R5R w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "194"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4rk/q1pb3p/1p1p1PpQ/2nPp3/2P1P3/2N2P2/Pp6/1K1R1BR1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "195"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qrbk1/ppp1r2n/3pP2p/3P4/2P4P/PP3Q2/1B6/R4R1K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "196"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1n1ppp/4p3/q2N2b1/1p1P3P/4PN2/P1Q2PP1/R3KB1R w KQ - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "197"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p1q1pppp/2n2n2/1p6/1PN3b1/P3PN2/1B3PPP/R2QKB1R w KQkq - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "198"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b2qr1k1/5ppp/pn6/1p1n1N2/3PR3/P2B4/1B3PPP/2Q3K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "199"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/R1p3p1/2bp1pq1/2p3np/4PB2/3PQ2P/1P4BK/5R2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "200"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/8/p5n1/1p3b2/2q5/P1N1B1Q1/1PPR2PP/5RK1 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "201"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/Npn2p2/1N1p4/R1pPp3/4P1q1/1P2Pb2/1PPK4/5Q2 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "202"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn4kr/ppq1pp1p/5bpB/5R2/2B5/8/PPP3PP/R2Q3K w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "203"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pr2qp1p/n3p1p1/B1n1N3/5P2/P3P3/4Q1PP/2RR2K1 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
+
+[Event "Combination Challenge!"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "204"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3nrk1/pp3p1p/2b1pBpQ/q1p1P3/6P1/3BP1R1/P3KP1P/q7 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1991.??.??"]
+[SourceDate "2002.08.06"]
+
+ *
 
 [Event "Combination Challenge!"]
 [Site "?"]
