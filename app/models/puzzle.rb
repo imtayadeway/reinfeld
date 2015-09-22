@@ -14,6 +14,8 @@ class Puzzle < ActiveRecord::Base
 
   serialize :solution
 
+  default_scope { where.not(:solution => nil) }
+
   def position
     fen_elements[:position]
   end
