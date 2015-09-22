@@ -50,8 +50,9 @@ RSpec.describe Puzzle, type: :model do
     it "returns the next puzzle if there is one" do
       puzzle1 = create(:puzzle)
       puzzle2 = create(:puzzle)
+      puzzle3 = create(:puzzle)
 
-      expect(puzzle2.previous).to eq(puzzle1)
+      expect(puzzle3.previous).to eq(puzzle2)
     end
 
     it "returns nil when there is none" do

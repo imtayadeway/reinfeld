@@ -27,7 +27,7 @@ class Puzzle < ActiveRecord::Base
 
   def previous
     return nil if self.class.first == self
-    self.class.where("id < #{id}").first
+    self.class.where("id < #{id}").last
   end
 
   def to_move
