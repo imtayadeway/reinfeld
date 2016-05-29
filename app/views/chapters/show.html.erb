@@ -1,0 +1,8 @@
+<h1><%= @chapter.name %></h1>
+<ul>
+  <% @puzzles.each do |puzzle| %>
+    <li>
+      <%= link_to puzzle.id, puzzle_path(puzzle) %>
+    </li>
+  <% end %>
+</ul>

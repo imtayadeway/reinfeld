@@ -32,31 +32,35 @@ RSpec.describe Puzzle, type: :model do
   end
 
   describe "#next" do
-    it "returns the next puzzle if there is one" do
-      puzzle1 = create(:puzzle)
-      puzzle2 = create(:puzzle)
+    it "returns the next puzzle if there is one in the chapter" do
+      chapter = Chapter.new(name: "Chapter 1")
+      puzzle1 = create(:puzzle, chapter: chapter)
+      puzzle2 = create(:puzzle, chapter: chapter)
 
       expect(puzzle1.next).to eq(puzzle2)
     end
 
     it "returns nil when there is none" do
-      puzzle = create(:puzzle)
+      chapter = Chapter.new(name: "Chapter 1")
+      puzzle = create(:puzzle, chapter: chapter)
 
       expect(puzzle.next).to be_nil
     end
   end
 
   describe "#previous" do
-    it "returns the next puzzle if there is one" do
-      puzzle1 = create(:puzzle)
-      puzzle2 = create(:puzzle)
-      puzzle3 = create(:puzzle)
+    it "returns the previous puzzle if there is one" do
+      chapter = Chapter.new(name: "Chapter 1")
+      _puzzle1 = create(:puzzle, chapter: chapter)
+      puzzle2 = create(:puzzle, chapter: chapter)
+      puzzle3 = create(:puzzle, chapter: chapter)
 
       expect(puzzle3.previous).to eq(puzzle2)
     end
 
     it "returns nil when there is none" do
-      puzzle = create(:puzzle)
+      chapter = Chapter.new(name: "Chapter 1")
+      puzzle = create(:puzzle, chapter: chapter)
 
       expect(puzzle.previous).to be_nil
     end

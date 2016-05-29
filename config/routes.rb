@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  root "puzzles#index"
-
-  resources :puzzles, only: [:index, :show]
+  root "books#index"
+  resources :books, only: [:index, :show]
+  resources :chapters, only: [:show]
+  resources :puzzles, only: [:show]
 end

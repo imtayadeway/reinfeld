@@ -10,6 +10,8 @@
 #
 
 class Puzzle < ActiveRecord::Base
+  belongs_to :chapter
+
   FEN_REGEX = %r{(?<position>([1-8rnbqkp]+/){7}[1-8rnbqkp]+)\s(?<to_move>[wb])}i
 
   serialize :solution
@@ -21,13 +23,13 @@ class Puzzle < ActiveRecord::Base
   end
 
   def next
-    return nil if self.class.last == self
-    self.class.where("id > #{id}").first
+    return nil if chapter.puzzles.solved.last == self
+    self.class.solved.where(:chapter => chapter).where("id > #{id}").first
   end
 
   def previous
-    return nil if self.class.first == self
-    self.class.where("id < #{id}").last
+    return nil if chapter.puzzles.solved.first == self
+    self.class.solved.where(:chapter => chapter).where("id < #{id}").last
   end
 
   def to_move
