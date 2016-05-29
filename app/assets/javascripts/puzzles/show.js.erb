@@ -3,6 +3,8 @@ var board,
 
 var solution = $("#board").attr("solution").split(":");
 
+var score = 10;
+
 // do not pick up pieces if the game is over
 // only pick up pieces for the side to move
 var onDragStart = function(source, piece, position, orientation) {
@@ -29,11 +31,16 @@ var onDrop = function(source, target) {
   });
 
   // illegal move
-  if (move === null) return 'snapback';
+  if (move === null) {
+    alert("Sorry, this is not a legal move!")
+    return 'snapback';
+  }
 
   // correct move
   var correctMove = solution[0];
   if (move.san !== correctMove) {
+    alert("Sorry, this is not the correct move!");
+    score--;
     game.undo();
     return 'snapback';
   }
@@ -41,7 +48,7 @@ var onDrop = function(source, target) {
 
   // solved or move
   if (solution.length === 0) {
-    alert("10 points!");
+    alert("You have solved this puzzle and get " + score + " points!");
   } else {
     window.setTimeout(makeComputerMove, 250);
   }
