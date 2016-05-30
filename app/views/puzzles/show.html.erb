@@ -1,5 +1,5 @@
-<h1><%= link_to @puzzle.chapter.book.name, book_path(@puzzle.chapter.book) %></h1>
-<h2><%= link_to @puzzle.chapter.name, chapter_path(@puzzle.chapter) %></h2>
+<h1><%= link_to @puzzle.book_name, book_path(@puzzle.book) %></h1>
+<h2><%= link_to @puzzle.chapter_name, chapter_path(@puzzle.chapter) %></h2>
 <div id="board" start-position="<%= @puzzle.position %>" fen="<%= @puzzle.fen %>" to-move="<%= @puzzle.to_move %>" solution="<%= @puzzle.solution.join(":") %>"style="width: 400px"></div>
 <p><%= puzzle_status(@puzzle.to_move) %></p>
 <%= link_to "Previous", puzzle_path(@puzzle.previous) if @puzzle.previous %>

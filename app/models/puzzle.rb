@@ -39,6 +39,19 @@ class Puzzle < ActiveRecord::Base
     end
   end
 
+  def chapter_name
+    chapter.name
+  end
+
+  def book_name
+    book.name
+  end
+
+  # TODO: belongs_to :book
+  def book
+    chapter.book
+  end
+
   private
 
   def fen_elements
