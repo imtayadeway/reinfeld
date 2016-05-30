@@ -4,6 +4,6 @@ class PuzzlesController < ApplicationController
   end
 
   def show
-    @puzzle = Puzzle.solved.find(params[:id])
+    @puzzle = Puzzle.find(params[:id])
   end
 end

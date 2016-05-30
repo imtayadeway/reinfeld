@@ -16,20 +16,18 @@ class Puzzle < ActiveRecord::Base
 
   serialize :solution
 
-  scope :solved, -> { where.not(:solution => nil) }
-
   def position
     fen_elements[:position]
   end
 
   def next
-    return nil if chapter.puzzles.solved.last == self
-    self.class.solved.where(:chapter => chapter).where("id > #{id}").first
+    return nil if chapter.puzzles.last == self
+    self.class.where(:chapter => chapter).where("id > #{id}").first
   end
 
   def previous
-    return nil if chapter.puzzles.solved.first == self
-    self.class.solved.where(:chapter => chapter).where("id < #{id}").last
+    return nil if chapter.puzzles.first == self
+    self.class.where(:chapter => chapter).where("id < #{id}").last
   end
 
   def to_move
