@@ -5,7 +5,9 @@ Dir.glob(Rails.root.join("lib", "pgns", "*.pgn")).each do |pgn|
     book = Book.find_or_create_by!(:name => File.basename(pgn, ".pgn"))
     chapter = book.chapters.find_or_create_by!(:name => game.tags["Site"])
 
-    chapter.puzzles.create!(
+    Puzzle.create!(
+      book: book,
+      chapter: chapter,
       fen: game.tags["FEN"],
       solution: game.moves,
     )

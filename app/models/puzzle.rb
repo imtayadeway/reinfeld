@@ -11,6 +11,7 @@
 
 class Puzzle < ActiveRecord::Base
   belongs_to :chapter
+  belongs_to :book
 
   FEN_REGEX = %r{(?<position>([1-8rnbqkp]+/){7}[1-8rnbqkp]+)\s(?<to_move>[wb])}i
 
@@ -43,11 +44,6 @@ class Puzzle < ActiveRecord::Base
 
   def book_name
     book.name
-  end
-
-  # TODO: belongs_to :book
-  def book
-    chapter.book
   end
 
   private
