@@ -1,0 +1,12 @@
+$(".board").each(function() {
+  var board
+  var position = $(this).attr("start-position");
+  var toMove = $(this).attr("to-move");
+
+  var cfg = {
+    position: position,
+    orientation: toMove,
+    showNotation: false
+  };
+  board = ChessBoard($(this).attr("id"), cfg);
+})
