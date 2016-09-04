@@ -896,7 +896,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Nxh7 Kxh7 2. Rh5+ Kg7 3.Be5+ f6 4.Rg5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -911,7 +911,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxc5 2.Qc5 Rc8 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -926,7 +926,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qa3+ Qe7 2.Bc6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -941,7 +941,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Rb1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -956,7 +956,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1 Bg4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -971,7 +971,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Ne6 fxe6 2.Rxg6+ Kf7 3.Rg7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -986,7 +986,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bg5 2.4 Bxf4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1001,7 +1001,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Qxg3 2. Kxg3 gxf6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1016,7 +1016,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Kh7 2. Be1 Kh6 3.Bc3 Kh5 4.Be1 Kg4 5.Bc3 hxg2+ 6.Rxg2+ Kh3 7.Be1 Bxg2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1031,7 +1031,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxd4 2.Rxd4 Bxd4 3.g3 Rc2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1046,7 +1046,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bxf2+ 2.Kf1 Bxe1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1061,7 +1061,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bxd4+ 2.Nxd4 Qb6 3.Qxd6 Nxe4 4.Qd7 Nd6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1076,7 +1076,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bxg2 2.Rxe8 Bc6+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1091,7 +1091,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Qh4 Bd7 2.Rxf6 Qxf6 3.d6+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1106,7 +1106,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rh6+ 2.Kg1 Rh1+ 3.Kxh1 Qh3+ 4.Kg1 Qxg2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1121,7 +1121,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Re1 2.Qxe1 Nxf3+ 3.Rxf3 Qxe1+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1136,7 +1136,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Nf3+ 2.Qxf3 Qxe1+ 3.Rxe1 Rxf3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1151,7 +1151,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Bh7+ Kxh7 2. g8=Q+ Kxg8 3. Qxh2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1166,7 +1166,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... d4 2.cxd4 2...Bb4 3.Qxb4 Qxf2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1181,7 +1181,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Nxg4 2.Qe2 Qh4+ 3. Bf2 Nxf2 4.Qxf2 Qxf2+ 5.Kxf2 Bg4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1196,7 +1196,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... R8xe5 2. dxe5 Qh4 3.Bxf4 Rxf4 4.Ne2 Bxe2 5.Rxf4 Ng3+ 6.Kg1 Bc5+ 7.Rf2 Qf4 8.hxg3 Bxf2+ 9.Kh2 Qh6# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1211,7 +1211,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. e6 Bxe6 2.Bd4 f6 3.Qg4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1226,7 +1226,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxe2+ 2.Kd1 Rxd2+ 3.Kxd2 Ne4+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1241,7 +1241,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Nc3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1256,7 +1256,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Qf5 2.Nc3 Rfe8 3.Re1 Rxe4 4.Nxe4 Re8 5.g4 Rxe4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1271,7 +1271,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1...Ne4 2.Be3 Bxe3 3.fxe3 Qh4+ 4.g3 Nxg3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1286,7 +1286,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1...Rd8 2.Qxf5 Rxd1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1301,7 +1301,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1...Rcc3 2.Qe2 Bb5 3.Rfd1 Qc7 4.Bd4 Rxd3 5.Rxd3 Qc4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1316,7 +1316,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Ng3+ 2.hxg3 Qh3+ 3.Kg1 Bxe3+ 4.Rf2 Qxg2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1331,7 +1331,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bh6 2.g5 Bxg5 3.f4 Bxf4 4.Be3 Bxe3 5. Qxe3 Qxc2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1346,7 +1346,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1...Rxb3+ 2.Bxb3 Qxb3+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1361,7 +1361,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qg6 Bxd5 2.Bxd5 Qe7 3.Rxf7 Rxf7 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1376,7 +1376,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Qxg2+ 2.Qxg2 Rxe2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1391,7 +1391,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Ng6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1406,7 +1406,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxe4 Ncxe4 2.Rxe4 Nxe4 3.Rxe4 Qxe4 4.Ng5 Qg6 5.Qxh7+ Qxh7 6.Nf7# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1421,7 +1421,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxd3 cxd3 2.Ne6+ fxe6 3.Rc7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1436,7 +1436,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Rdxd7 Rxd7 2.Qb5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1451,7 +1451,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxf5 exf5 2.e6 Qxd4 3.Nxd4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1466,7 +1466,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qxe4 fxe4 2. Bxe4+ Kh8 3.Ng6+ Kh7 4.Nxf8+ Kh8 5.Ng6+ Kh7 6 Ne5+ Kh8 7.Nf7# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1481,7 +1481,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qxh7+ Kxh7 2. Rh5# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1496,7 +1496,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxc6+ bxc6 2.Nxc6 Rxd1+ 3.Rxd1 Qd7 4.Rxd7 Kxd7 5.Nxa5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1511,7 +1511,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bc4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1526,7 +1526,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Re1 Rxf6 2.Bxe6+ Qxe6 3.Qh7+ Bg7 4.Qxh5+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1541,7 +1541,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Be4 2.Qxb4 Rxd1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1556,7 +1556,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Bd4 Qxd4 2.Qh6# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1571,7 +1571,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qf6# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1586,7 +1586,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxe5 Qa5+ 2.Bd2 Bxd1 3.Bxa5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1601,7 +1601,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rc2 2.Bxc2 Ne2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1616,7 +1616,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxf6 Bxf6 2.Qxh7+ Kxh7 3.Rh5+ Kg8 4.Ng6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1631,7 +1631,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. f6 Bg4 2.Qg6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1646,7 +1646,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Nc5 dxc5 2.Bf4 Bd6 3.Bxd6 Rb6 4.Qxd7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1661,7 +1661,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxf3 2.Qxf2 Rfxh3+ 3. Kg1 Rh1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1676,7 +1676,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bg5 Rxg5 2.Rad1 Qc8 3.Qe3 0-0 4.Qxg5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1691,7 +1691,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Qf4 Ne6 2.Qa4+ Qc6 3.Bb5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1706,7 +1706,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Bc5 Kf8 2.Qf6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1721,7 +1721,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxc4 2.Rxc4 Ne4 3.Qc2 Bxc4 4.Qxc4 Nd2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1736,7 +1736,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxd7 Rxd7 2. Rd1 Qe6 3. Bxd7+ Nxd7 4. Qb8+ Nxb8 5. Rd8# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1751,7 +1751,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Re6 fxe6 2.Qxg6+ Kh8 3.Bxf6+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1766,7 +1766,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. d5 exd5 2. Nxd6 Qd7 3. Na5 Qxa4 4. Rxa4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1781,7 +1781,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. c6 Rxh6 2. c7 Rc6 3. Rh6 Rxh6 4. c8=Q# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1796,7 +1796,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1.Ba3 Bxf5 2.Bxe7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1811,7 +1811,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. f6 hxg5 2.Qg6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1826,7 +1826,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. e5 dxe5 2.Nxe7 Kxe7 3.Bg5 Bf5 4.Nxf5+ gxf5 5. Qxf5 Qd6 6. Rd1 Qe6 7. Bxf6+ Qxf6 8.Rd7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1841,7 +1841,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Kf1 Kg7 2. Rf2 Kf6 3. Rfe2 h5 4. Rxe5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1856,7 +1856,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bb1 g6 2. Bxf6 Bxf6 3. Ne4 Be7 4. b4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1871,7 +1871,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Ne7+ Kf7 2. Nc6+ Kg8 3. Nd8 Qxd8 4. Qxe6+ Kh8 5. Qf7  *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1886,7 +1886,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. e5 Bxe5 2. Nxe5 Qxe5 3. Re1 Ne4 4.f3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1901,7 +1901,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxg6 Bxg6 2. Rxg6 Rxg6 3. Bxf5 Nxf4 4. Rxg6 Qxg6 5. Bxg6+ Kxg6 6. Qg4+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1916,7 +1916,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxf7+ Rxf7 2. Rxe5 Qxe5 3. Qxf7+ Kh8 4. Nce4 Qxb2 5. Nxf6 Qe2 6. Qg8+ Rxg8 7. Nf7# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1931,7 +1931,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Ne7+ Qxe7 2. Qxc8+ Qf8 3. Bh7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1946,7 +1946,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxe6 Nxf3 2. Qxg6+ Kh8 3. Qxh5+ Kg7 4. Nf5+ Kg8 5. Qg4+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1961,7 +1961,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxe5 dxe5 2. Qxd8# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1976,7 +1976,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxe6 Nxe6 2. Qg4 Qc6 3. Qxg7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -1991,7 +1991,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxe5 Bxd1 2. Bb5+ c6 3. dxc6 a6 4. c7+ axb5 5. cxd8=Q+ Rxd8 6. Nxd1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2006,7 +2006,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxf7 Kxf7 2. Nxc5 Bxc5 3. Bxc5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2021,7 +2021,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bb5 axb5 2. axb5 Qd7 3.Rxa8 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2036,7 +2036,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nc7 Qxc7 2. Qxb5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2051,7 +2051,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. gxf5+ Bxf5 2. Rxf5 Rxf5 3. Rf1 Rf8 4. Rf3 Rf6 5. Kf2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2066,7 +2066,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Be7 Qxg4 2. Rxd8# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2081,7 +2081,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. g4+ Kxg4 2.Be6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2096,7 +2096,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qg1 Re8 2. Bh5 Rd8 3.Qh2 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2111,7 +2111,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rd1 Qxc4 2. Rxd8+ Kf7 3.bxc4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2126,7 +2126,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxd5 2. Rxd5 Qb7 3. Qg2 Qb1+ 4. Qg1 Qe4+ 5. Qg2 Qxg2+ 6. Kxg2 Nf4+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2141,7 +2141,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. c4 Ne7 2. c5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2156,7 +2156,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxe5 Qxe5 2. Qxe5 dxe5 3. Bxe6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2171,7 +2171,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxf4 exf4 2.Bh8 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2186,7 +2186,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qh4+ Kg8 2. Qg3+ Kh8 3. Bc3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2201,7 +2201,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qg8+ Ke7 2. Qxf7+ Kd8 3. Ng6 Qxb2 4. Rd1+ Bd7 5. Qxe8+ Kxe8 6.Rh8# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2216,7 +2216,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Qe7 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2231,7 +2231,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nxd7 Rxd7 2. Bxd5 Rxd5 3. b6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2246,7 +2246,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nd6 Re7 2. Nhxf5 Bxf5 3.Nxf5 Re6 4.Bb3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2261,7 +2261,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxd2 2. Qxd2 Nxe4 3. Qg2 Nf2# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2276,7 +2276,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Re6 Qd8 2. Rg6 Rg8 3. Rxf7 Rd1+ 4. Kh2 Qb8+ 5. g3 Rd2+ 6. Kh1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2291,7 +2291,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qb7 Rfc8 2. Nxd5 Qd6 3. Rxc6 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2306,7 +2306,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Bg4 2. Qxg4 Nxf2+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2321,7 +2321,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxg7+ Kxg7 2. Rg1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2336,7 +2336,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... h4 2. Nf1 h3 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2351,7 +2351,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Nxc3 2. bxc3 Rxc3+ 3. Qxc3 Rxb1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2366,7 +2366,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Be4 Qxb7 2. Bxb7 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2381,7 +2381,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Qxd7 2. Nxd7 Bxc4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2396,7 +2396,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Qa8 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2411,7 +2411,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Ne7+ Qxe7 2. Rxe7 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2426,7 +2426,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nc6 Qd7 2. Ne7+ Qxe7 3. Qxd5 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2441,7 +2441,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rg4 2. Bxg4 Qxf1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2456,7 +2456,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nf7+ Rcxf7 2. exf7 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2471,7 +2471,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rxh6 gxh6 2. Rg1 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2486,7 +2486,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bf4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2501,7 +2501,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Nd7 Nxd7 2. Qxe6+ Qxe6 3. Bxe6+ Rf7 4. Bxf7+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2516,7 +2516,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Rg4 *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2531,7 +2531,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1. Bxd5 Bxd5 2. Qxf6+ *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
@@ -2546,7 +2546,7 @@
 [EventDate "1991.??.??"]
 [SourceDate "2002.08.06"]
 
- *
+1... Rxa2 2. Qxa2 Qh5+ 3. Rh3 Qe5+ 4. Kh1 Qe1+ 5. Kh2 Qg1# *
 
 [Event "Combination Challenge!"]
 [Site "The Pin"]
