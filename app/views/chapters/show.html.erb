@@ -3,9 +3,11 @@
 <ul>
   <% @puzzles.each do |puzzle| %>
     <li>
-      <%= link_to puzzle.id, puzzle_path(puzzle) %>
-      <div class="board" id="<%= puzzle.id %>" start-position="<%= puzzle.position %>" to-move="<%= puzzle.to_move %>" style="width: 180px"></div>
+      <div style="width: 180px">
+        <%= link_to puzzle.id, puzzle_path(puzzle), class: "board", id: puzzle.id, "start-position": puzzle.position, "to-move": puzzle.to_move %>
+      </div>
     </li>
+    </br>
   <% end %>
 </ul>
 <%= javascript_include_tag "chess/chapter" %>
