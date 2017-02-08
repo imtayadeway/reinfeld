@@ -1,5 +1,6 @@
 Dir.glob(Rails.root.join("lib", "pgns", "*.pgn")).each do |pgn|
   PGN.parse(File.read(pgn)).reverse_each do |game|
+    next unless game.tags["FEN"]
     next if game.moves.none?
 
     book = Book.find_or_create_by!(:name => File.basename(pgn, ".pgn"))

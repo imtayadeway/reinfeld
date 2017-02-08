@@ -1,0 +1,3981 @@
+[Event "Example 1"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3pbp/2p2np1/q1nPp1b1/2P1P3/2N2B2/PP1QN1PP/R3K2R b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+[TimeControl "240+2"]
+
+1... Nb3 2. axb3 Qxa1+ *
+
+[Event "Example 2"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/1pRRn2r/p3B3/4ppbp/7N/6P1/PP3P2/6K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2002.??.??"]
+
+1. Ng6+ Kg7 2. Nxe7 1-0
+
+[Event "Example 3"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k1r2/1b1pq2p/pp1n2p1/6Q1/3p3P/1B6/PPP2PP1/R4KN1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxf2+ 2. Kxf2 Ne4+ 3. Kf1 Nxg5 *
+
+[Event "Example 4"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/2p2ppp/p4n2/1pbPn3/7N/1PQ3P1/P1N1PP1P/3RKB1R b - - 0 1"]
+[PlyCount "5"]
+
+1... Bxf2+ 2. Kxf2 Ne4+ 3. Kg2 Nxc3 *
+
+[Event "Example 5"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6bp/p3q1N1/1p1pPr2/2pP4/P1P4P/2Q4K/6R1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxf5 Qxf5 2. Ne7+ Kh8 3. Nxf5 *
+
+[Event "Example 6"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5kr/p4ppp/1pb1q3/3Np3/4P3/2Q5/PPP3PP/3R1RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxc6 Qxc6 2. Ne7+ Kf8 3. Nxc6 *
+
+[Event "Example 7"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/1p3p2/4q1n1/2Pp1N2/1P6/8/5PK1/2Q5 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qh6+ Ke8 2. Ng7+ Ke7 3. Nxe6 1-0
+
+[Event "Example 8"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/2q2pp1/p3p2p/2N1P3/1PN4B/P7/6PP/5RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nd6+ Kf8 2. Nxe6+ Kg8 3. Nxc7 *
+
+[Event "Example 9"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/R6p/1p4p1/1P1bpn1q/1B2N3/4bP2/6PP/4QB1K w - - 0 1"]
+[PlyCount "1"]
+
+1. Nf6 *
+
+[Event "Example 10"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/pp4pp/2q5/2p5/6n1/3Q2P1/P1P2B1P/6K1 b - - 0 1"]
+[PlyCount "6"]
+
+1... Qh1+ 2. Kxh1 Nxf2+ 3. Kg2 Nxd3 4. cxd3 *
+
+[Event "Example 11"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/1br2kpp/p3pp2/1p6/1P1N4/P3PP2/3K2PP/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxg7+ Kxg7 2. Nxe6+ Kf7 3. Nxc7 *
+
+[Event "Example 12"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1nk1/2r1qppp/p3p3/1p1nP2Q/2pPN3/7R/PP3PPP/1B1R2K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1999.??.??"]
+
+1... Nf4 2. Nf6+ gxf6 3. Bxh7+ Kh8 *
+
+[Event "Example 13"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6Q1/Rbqk4/1pp5/3p1N2/1P6/6Pp/4rP1K/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxb7 Qxb7 2. Qf7+ Kc8 3. Nd6+ *
+
+[Event "Example 14"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q2r1p/2n5/pp1p4/b2P4/P1Q2NP1/2N2PK1/7R b - - 0 1"]
+[PlyCount "7"]
+[EventDate "1999.??.??"]
+
+1... Bxc2 2. Qxc2 Rxf3 3. Kxf3 Nxd4+ 4. Kg2 Nxc2 *
+
+[Event "Example 15"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/7p/6p1/8/1N1npP2/6P1/P3pK1P/1R6 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rxb4 2. Rxb4 e1=Q+ 3. Kxe1 Nc2+ 4. Kd2 Nxb4 *
+
+[Event "Example 16"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3Q2/p1q4k/6pp/8/3N4/2P4P/P1B2PP1/6K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bxg6+ Kxg6 2. Qf5+ Kg7 3. Ne6+ Kg8 4. Nxc7 *
+
+[Event "Example 17"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/1p4p1/p7/P2nr3/1q1p2Pp/7P/1BP4Q/1K1R4 b - - 0 1"]
+[PlyCount "5"]
+
+1... Re2 2. Qxe2 Nc3+ 3. Kc1 Nxe2+ *
+
+[Event "Example 18"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/7p/q2k2p1/1n1p4/R7/pKP3PP/3Q4 b - - 0 1"]
+[PlyCount "7"]
+
+1... Qxa3+ 2. Kxa3 a1=Q+ 3. Qxa1 Nxc2+ 4. Ka2 Nxa1 *
+
+[Event "Example 19"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/1p1nppbp/p5p1/4P3/6P1/2N1BNnP/PPP5/2KR2R1 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rxc3 2. bxc3 Ne2+ 3. Kd2 Nxg1 4. Nxg1 Bxe5 *
+
+[Event "Example 20"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/3nqN2/b3p1Q1/7p/p2pB2P/P2P2P1/8/6K1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Ng5 Qe8 2. Nxe6+ Ke7 3. Qxe8+ Kxe8 4. Nc7+ Kd8 5. Nxa6 *
+
+[Event "Example 21"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q3k/R6p/4Q1p1/3r4/2p5/1P5P/5PP1/6K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rd1+ 2. Kh2 Qb8+ 3. g3 Qxa7 *
+
+[Event "Example 22"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp1qrp2/3p1Qpp/2pP2N1/2P5/1P1n3P/P4PP1/5RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxf7 Rxf7 2. Qxg6+ Kf8 3. Qxd3 *
+
+[Event "Example 23"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1r1k/2p2pbp/1p2p1p1/8/6b1/Q1P3PP/3PPPB1/1RB1R1K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1... Bxe2 2. Rxe2 Qd3 *
+
+[Event "Example 24"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1rb2/pp3p2/2p1pN2/7q/2nP1BR1/2P2Q2/PP5P/1K6 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1... Qf5+ 2. Ne4 Nd2+ *
+
+[Event "Example 25"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qk1/pp1r1ppp/2n5/3N3Q/8/8/PP3PPP/2R3K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nf6+ gxf6 2. Qg4+ Kh8 3. Qxd7 *
+
+[Event "Example 26"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/ppp3pp/6q1/3P1p2/2P5/1P2r1rP/PQ2NK1R/R7 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rgf3+ 2. Ke1 Qg1+ 3. Kd2 Qxh2 *
+
+[Event "Example 27"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b4qk1/2p2pp1/r2p4/8/2PP1P2/2BQ4/6P1/R4K2 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rxa1+ 2. Bxa1 Bxg2+ 3. Kxg2 Qa8+ 4. Kg3 Qxa1 *
+
+[Event "Example 28"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R3rk1/p1p1q3/5Qp1/5p2/8/8/P1P1r1PP/1R4K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rxf8+ Qxf8 2. Qxg6+ Kh8 3. Qh5+ Kg8 4. Qxe2 *
+
+[Event "Example 29"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/ppp1qppp/8/3Q4/8/2N1n2P/PPP2PP1/R3KB1R w - - 0 1"]
+[PlyCount "7"]
+
+1. Bb5+ c6 2. Bxc6+ bxc6 3. Qxc6+ Qd7 4. Qxa8+ *
+
+[Event "Example 30"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp2ppp/2n1p3/2PpPn2/3P1P1b/2NBB3/PP3P1P/1R1Q1R1K w - - 0 1"]
+[PlyCount "7"]
+
+1. Bxf5 exf5 2. Qf3 Ne7 3. Qh3 Ng6 4. Qxf5 *
+
+[Event "Example 31"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3p2/5Qp1/2p5/p1q5/P2n2P1/7P/1R5K b - - 0 1"]
+[PlyCount "7"]
+
+1... Nf2+ 2. Kg1 Nh3+ 3. Kg2 Qe4+ 4. Kxh3 Qxb1 *
+
+[Event "Example 32"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1k5r/pp4p1/4q3/2bp3n/3P3p/5P2/P1Q1N1PP/R1B3K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1... Bxd4+ 2. Nxd4 Qe1# 0-1
+
+[Event "Example 33"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5p1p/R3b1p1/8/N7/5PP1/r6P/2R2K2 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bc4+ 2. Kg1 Bxa6 *
+
+[Event "Example 34"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/1p4p1/3Bpb2/2n5/4P3/1P4N1/P7/1K1R3R b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxd6 2. Rxd6 Be5 3. Rd2 Bxg3 *
+
+[Event "Example 35"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2rk1/pp1b2pp/4p3/4Q3/2B5/5P2/PPP3P1/1K1R4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1. Rxd7 Qxd7 2. Bxe6+ *
+
+[Event "Example 36"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2rk2/p5p1/2b2p2/4p3/2P3P1/1P1N1P1P/4R1K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... e3 2. fxe3 Bxe3+ 3. Rxe3 Rxe3 *
+
+[Event "Example 37"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5pk1/2pp1bp1/8/2q1P3/2N2P2/1BPQ2P1/1R4K1 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rxb2 2. Rxb2 Bxc3 3. Qc1 Qd4+ 4. Kh1 Bxb2 *
+
+[Event "Example 38"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/1p2bpk1/r2p1np1/P1nP4/5B2/1N3BP1/R1R2PK1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxc5 dxc5 2. d6 Bxd6 3. Bxb7 *
+
+[Event "Example 39"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppp1pbp/2n3p1/1B6/3Nn3/2N1B3/PPP2PPP/R2QR1K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1999.??.??"]
+
+1. Nxe4 Rxe4 2. Nxc6 bxc6 3. Bxc6 *
+
+[Event "Example 40"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2qb2kp/1p4pb/3Pp1N1/2P5/1Q2R1P1/1B3P2/6K1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1999.??.??"]
+
+1. Ne6+ Rxe6 2. dxe6 Bxe3 3. Qxe3 Bxe6 4. Bxe5+ *
+
+[Event "Example 41"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/q7/p2R2pk/P1PQp2p/4P2P/5Pp1/8/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qd2+ Kh7 2. Rd7+ *
+
+[Event "Example 42"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p3ppnp/1p4p1/8/3Pb1q1/R4NP1/4PPBP/2Q3K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne5 Qxe2 2. Re3 *
+
+[Event "Example 43"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nkr4/2p2p2/p3b2p/P1p1N3/q1PrP1P1/5R1P/1P1NQ3/1K1R4 b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxe4 2. Nxe4 Rxd1+ *
+
+[Event "Example 44"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6pp/p2r1b2/1p2p3/8/1PB3P1/P1R2PKP/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxe5 Rd8 2. Bxf6 gxf6 3. Rc6 *
+
+[Event "Example 45"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/pp3p2/2n1p2p/2b1Pbp1/2B5/2Nn1NBP/PP3PP1/1R4K1 b - - 0 1"]
+[PlyCount "7"]
+
+1... Ndxe5 2. Bxe5 Bxb1 3. Nxb1 Rd1+ 4. Kh2 Rxb1 *
+
+[Event "Example 46"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/7p/6p1/3N4/3npP2/P5P1/2r1pK1P/1R6 b - - 0 1"]
+[PlyCount "7"]
+
+1... e1=Q+ 2. Kxe1 Nf3+ 3. Kd1 Rd2+ 4. Kc1 Rxd5 0-1
+
+[Event "Example 47"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/p3kpp1/4p3/1p3q2/1P2N1N1/P4QP1/4P2P/6K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qxf3 2. exf3 f5 *
+
+[Event "Example 48"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp2ppp/8/2bNn3/8/6q1/PPPPQ1B1/R1B2K1R w - - 0 1"]
+[PlyCount "5"]
+
+1. d4 Bxd4 2. Bf4 Qg6 3. Ne7+ *
+
+[Event "Example 49"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/5n2/1q1p4/3Pp3/2P3QP/1rN3P1/2RKR3 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qd3+ 2. Qxd3 exd3 3. Nb4 d2 *
+
+[Event "Example 50"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbq1rk1/1pp1n1bp/5p2/p1NP2p1/5B2/6P1/PP3PBP/R2QR1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. d6 cxd6 2. Bxd6 *
+
+[Event "Example 51"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p4pp/p3b3/1qb5/4BB2/4P3/PP2Q1PP/2R2K1R b - - 0 1"]
+[PlyCount "1"]
+
+1... Bxe3 *
+
+[Event "Example 52"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp3p/2n3p1/8/4q3/2Q2N2/PP3PPP/R1B1K2R w - - 0 1"]
+[PlyCount "2"]
+[EventDate "1999.??.??"]
+
+1. Kd1 *
+
+[Event "Example 53"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p1p2bpk/3b1pN1/PP3P1K/3r3P/4R3/4R3 b - - 0 1"]
+[PlyCount "2"]
+[EventDate "1999.??.??"]
+
+1... Rf3 *
+
+[Event "Example 54"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3q2/3b2kp/p4np1/2p5/2P1N3/1PQ5/5PP1/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxf6 Qxf6 2. Re7+ Kf8 3. Qxf6+ *
+
+[Event "Example 55"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pp2k3/2q2p2/3Qb3/2B5/1P5R/P6P/7K w - - 0 1"]
+[PlyCount "3"]
+
+1. Rh7+ Ke8 2. Bb5 *
+
+[Event "Example 56"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/p4k2/1p3np1/2p1p3/2Pq2P1/3P4/7P/3R3K w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf1 e4 2. g5 *
+
+[Event "Example 57"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p2R2pp/2p5/8/1bP4P/4pPq1/P1Q1P3/5K1R w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxg7+ Qxg7 2. Rg1 *
+
+[Event "Example 58"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/3rq2k/1p1pp2p/1P2n1pP/3RP3/1P2B1Q1/3R2PK/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxe5 dxe5 2. Rxd7 *
+
+[Event "Example 59"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/p6r/p2P2p1/7k/1r5P/7K/P5P1/8 w - - 0 1"]
+[PlyCount "4"]
+
+1. g4+ Rxg4 2. Qf3 *
+
+[Event "Example 60"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5b2/8/1k5p/p2p1P2/PPb2RP1/KR6 b - - 0 1"]
+[PlyCount "4"]
+
+1... axb2+ 2. Rxb2+ Ka3 *
+
+[Event "Example 61"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "7k/p1b1q2p/5p2/8/2P1r3/1P3N1Q/6P1/3R3K w - - 0 1"]
+[PlyCount "3"]
+
+1. Qc8+ Qe8 2. Qxc7 0-1
+
+[Event "Example 62"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/pp1np1p1/1qp1p2p/8/3P4/3B4/PPPB1PPP/R2QK1NR w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh5+ Kd8 2. Ba5 *
+
+[Event "Example 63"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1b5p/q2p4/6P1/1p5P/1P3BQ1/5RK1/8 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxf3 2. Rxf3 Qe2+ 3. Qf2 Bxf3+ *
+
+[Event "Example 64"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/R1b4p/6pq/1p1Q4/8/1P1KP3/8/5R2 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ra8 Rxa8 2. Qxa8+ Kg7 3. Qf8# *
+
+[Event "Example 65"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r2k2/pp3ppp/1q2p1b1/2b1P3/Q7/1N6/PP2BPPP/2R2RK1 w - - 0 1"]
+[PlyCount "4"]
+
+1. Nxc5 Rxc5 2. Qa3 *
+
+[Event "Example 66"]
+[Site "?"]
+[Date "1999.08.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pb1/6p1/4p3/3nP3/3P2P1/5RBP/1r2NK2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Bf8 2. Re2 Bb4 3. Re3 Nc2 *
+
+[Event "Example 67"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3r1/1p6/p1p1q3/4p3/1P2P2p/P1NP4/4Q3/6RK b - - 0 1"]
+[PlyCount "5"]
+
+1... Qh3+ 2. Qh2 Qf3+ 3. Rg2 h3 *
+
+[Event "Example 68"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pppb1q2/4pP1Q/5B2/8/8/P5PP/R5K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bg6 Qxf6 2. Qh7+ Kf8 3. Rf1 *
+
+[Event "Example 69"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3Npp/2b5/4b1q1/8/1P5P/6PB/r4RQK b - - 0 1"]
+[PlyCount "5"]
+
+1... Qxg2+ 2. Qxg2 Rxf1+ 3. Bg1 Kxf7 *
+
+[Event "Example 70"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rb1/1p2Qnp1/7p/8/1PB2BP1/2q2PK1/4R3 w - - 0 1"]
+[PlyCount "6"]
+
+1. Bxf6 Bxf6 2. Bd5 Qc7 3. Qxf6 *
+
+[Event "Example 71"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k4/p1pb2p1/1n3p2/4pn2/2P1NBP1/8/P4P2/3RKB2 w - - 0 1"]
+[PlyCount "5"]
+
+1. gxf5 exf4 2. c5 Nc8 3. c6 *
+
+[Event "Example 72"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p3rb1/p3BqQ1/2p3R1/8/3P4/PPP3PP/7K w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1999.??.??"]
+
+1. Qxf6 Kh8 2. Rh5+ Kg8 3. Qg6 *
+
+[Event "Example 73"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q2k/1pb2Qp1/p1p4p/8/2B1r3/8/PP4PP/5R1K w - - 0 1"]
+[PlyCount "5"]
+
+1. Qf8+ Qxf8 2. Rxf8+ Kh7 3. Bd3 1-0
+
+[Event "Example 74"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3r2p/3R4/2p4k/Bn4pP/5PP1/1P6/1K6 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1999.??.??"]
+
+1. Bd1 Rg7 2. fxg4+ Rxg4 3. Rf6 *
+
+[Event "Example 75"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p1bq1pp/p1n1p3/5p2/8/3B1N2/PPPQ1PPP/R4RK1 w - - 0 4"]
+[PlyCount "7"]
+
+4. Bxf5 exf5 5. Rfe1 Be6 6. Rxe6 Qxe6 7. Re1 *
+
+[Event "Example 76"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/pp4pp/8/3bN3/8/4R2P/PPP2rP1/2K5 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rc3+ Kd8 2. Rd3 Ke7 3. Rxd5 Ke6 4. Ng4 Rf1+ 5. Rd1 *
+
+[Event "Example 77"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq2k1/pp3ppp/2n5/1B1p4/1b1Pr3/3Q1NB1/PPP2KPP/R6R b - - 0 1"]
+[PlyCount "11"]
+
+1... Nxd4 2. Nxd4 Bc5 3. c3 Qf6+ 4. Qf3 Bxd4+ 5. cxd4 Qxd4+ 6. Kf1
+Qxb2 *
+
+[Event "Example 78"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4bpp1/2b1p2p/1pP1P3/qP3QP1/8/7P/1R3BK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bxc5+ 2. bxc5 Qxf4 *
+
+[Event "Example 79"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p2pp1/2p4p/q3p3/4P3/P6P/1P1r1PP1/1Q3RK1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Qe1 *
+
+[Event "Example 80"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q1k/5p2/pnRr2p1/3Pp2p/4P3/5P1B/PP1Q4/1K6 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qb4 Rd8 2. Qxf8+ Rxf8 3. Rxb6 *
+
+[Event "Example 81"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1k1r/ppb3pp/2n1p3/1B1pPp2/5Q1P/1N3N2/PPP2PP1/R3K2R b - - 0 1"]
+[PlyCount "3"]
+
+1... Nxe5 2. Nxe5 Qd6 *
+
+[Event "Example 82"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1ppbb1pp/pnp1p3/4N3/8/8/PPP1QPPP/RNBR2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxd7 Nxd7 2. Qxe6+ Rf7 3. Rxd7 *
+
+[Event "Example 83"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/ppp3pp/2n2q2/8/2PN2b1/1N6/PP2PPPP/R1BQKB1R b KQkq - 0 1"]
+[PlyCount "7"]
+
+1... O-O-O 2. Be3 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nxd4 *
+
+[Event "Example 84"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1b1ppp/1bp5/4P3/4N3/5N2/PPP1QPPP/R2R2K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. e6 fxe6 2. Ne5 Rf4 3. g3 Rf7 4. Nxf7 *
+
+[Event "Example 85"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk1n1/2pn1pb1/p2p2p1/1p2p1B1/3PP2r/2N2PN1/PPPQ4/R3KB1R b - - 0 1"]
+[PlyCount "3"]
+
+1... Bh6 2. Rxh4 Bxg5 *
+
+[Event "Example 86"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2k4r/ppp2p2/q1n1r3/5b1p/3b1BpP/1PPN2P1/2KN3R/Q3RB2 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nb4+ 2. cxb4 Bxa1 0-1
+
+[Event "Example 87"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4pk1/3rp1p1/3n2Pp/2p4P/1rP4R/2K2P2/2N1R3 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nb4+ 2. cxb4 Rxh3 *
+
+[Event "Example 88"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/1pp1qppp/1p6/2n1Qb2/3P4/2P2N2/PP4PP/R1B1KB1R b - - 0 1"]
+[PlyCount "3"]
+
+1... Nb3 2. axb3 Rxa1 *
+
+[Event "Example 89"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3nr2p/2B3p1/1pp5/5p2/1PP5/5PP1/R5K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ra8+ Kg7 2. Ra7 Re1+ 3. Kh2 *
+
+[Event "Example 90"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kb1r/pp1b2pp/1q3p2/n2p4/3Pp2N/2P1B1PP/PP1QBP2/1R2K2R b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxc3 2. bxc3 Qxb1+ *
+
+[Event "Example 91"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2q2p1p/1p4p1/4p3/2P5/3bQNPP/1P3PB1/6K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxd3 e4 2. Qe2 exf3 3. Qxe8+ *
+
+[Event "Example 92"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/4ppk1/p1rpb1p1/8/B1PRP3/1P3PP1/6K1/1R6 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxc4 2. Rxc4 Bxc4 3. bxc4 Rxb1 *
+
+[Event "Example 93"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1bp1qp1p/1p1b2p1/p7/P1NPp1Q1/1P2P3/1BR2PPP/2R3K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nxb6 cxb6 2. Rxc8+ Rxc8 3. Rxc8+ Bxc8 4. Qxc8+ *
+
+[Event "Example 94"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/2pq2pp/bp3p2/p7/P1NPp3/1P2P3/2R1QPPP/2R3K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nxb6 cxb6 2. Qxa6 Rxa6 3. Rxc8+ Kf7 4. R8c7 *
+
+[Event "Diagram 95"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/6p1/pp5p/2bQ4/8/6P1/PP3PKP/2r5 w - - 0 1"]
+[PlyCount "9"]
+
+1. Qd8+ Kf7 2. Qc7+ Ke6 3. Qc6+ Ke5 4. b4 Be3 5. Qe8+ *
+
+[Event "Example 96"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r1k/1pp3pp/2n5/p1PB2q1/2P3b1/P3P3/1P4QP/R1B3K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bh3 2. Qxg5 Rf1# 0-1
+
+[Event "Example 97"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pq2bpp/8/2Pp4/3P4/1R2P3/r3B2P/3Q2K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Bh5 2. Bxh5 Qxh2+ 3. Kf1 Qf2# *
+
+[Event "Example 98"]
+[Site "?"]
+[Date "2002.08.19"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2R2/6p1/5n1k/5r1p/7P/2P3P1/1r6/5BK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bd3 Rd5 2. Rh8+ Nh7 3. Rxh7# *
+
+[Event "Example 99"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r1nk1/p1pr1ppp/1p6/8/3P1P2/2PBP1P1/P5KR/2R5 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxh7+ Nxh7 2. Rch1 Nf6 3. Rh8# 1-0
+
+[Event "Example 100"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/4n1pp/2q3n1/3p2N1/3B4/2P5/6PP/1Q2R1K1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rxe7 Nxe7 2. Qxh7+ Kf8 3. Qh8+ Ng8 4. Qxg7+ Ke8 5. Qf7# *
+
+[Event "Example 101"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1qb4k/p1r1Np1p/3Qp1p1/8/1P6/P7/5PPP/4R1K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1999.??.??"]
+
+1. Nd5 *
+
+[Event "Example 102"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p2p1ppp/4p3/2p2q2/4N1N1/3P1PPB/P1P2K1P/R2Q4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ngf6+ gxf6 2. Bxf5 *
+
+[Event "Example 103"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rr1k1/1b3ppp/pp2p3/2b1P3/P4B2/2N5/1P1R1nPP/6K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nd3+ 2. Kf1 Rxd8 *
+
+[Event "Example 104"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/3q2pp/p7/1p1pPN2/2pn2Q1/8/PP4PP/2R2RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nh6+ Kh8 2. Qxd7 *
+
+[Event "Example 105"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1ppp/2n2n2/2b1p1B1/2P5/P1NP4/1P2PPPP/R2QKBNR b - - 0 1"]
+[PlyCount "3"]
+
+1... Bxf2+ 2. Kxf2 Ng4+ *
+
+[Event "Example 106"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/P6p/6p1/8/1n2pP2/6P1/1R2pK1P/8 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nd3+ 2. Kxe2 Rxb2+ *
+
+[Event "Example 107"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2ppbp/2np1np1/2p5/2P5/1P1P1NP1/P2NPPBP/R1BQ1RK1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Ne4 2. Rb1 Nc3 3. Qc2 Nxb1 *
+
+[Event "Example 108"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp5p/5r2/1kP2N2/3K2P1/5R1P/PP4b1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nd6+ Rxd6+ 2. cxd6 Bxf3 3. d7 *
+
+[Event "Example 109"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1NR4/1p3q1p/p1p3k1/4Qn2/5P2/8/PPP5/6K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nd6 Nxd6 2. Qg5# 1-0
+
+[Event "Example 110"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rq3rk1/pp4p1/4b3/2bNpp1Q/2B4P/8/PPP3P1/2KR3R w - - 0 1"]
+[PlyCount "7"]
+
+1. Ne7+ Bxe7 2. Bxe6+ Rf7 3. Qxf7+ Kh8 4. Qh5# *
+
+[Event "Example 111"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R1Nb3/4p3/6pp/1n1B4/4PK1P/6P1/2r5 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rb8+ Kh7 2. Rh8+ Kg6 3. Ne5+ Kf5 4. e4+ Kf6 5. Nd3+ e5 6.  Bxe5+
+Ke6 7. Rh6+ Kd7 8. Nxc1 *
+
+[Event "Example 112"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b1r2p1/p6p/1p2qN2/3bP3/3Q4/P5PP/1B1R3K b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1999.??.??"]
+
+1... Bg1 *
+
+[Event "Example 113"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5p1p/pp3Bp1/2p1b3/P1bp4/8/1PP2R2/4R1K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bh2+ 2. Kxh2 Rxe1 *
+
+[Event "Example 114"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/2pbbppp/p4n2/3N1P2/8/8/PPP1N1PP/R1BQ1RK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nxd5 2. Qxd5 Bb5 *
+
+[Event "Example 115"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1b3k1/p3qp1p/1p4p1/8/1P6/4PN2/P3nPPP/5K2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qd8 2. Kxe2 Ba6+ 3. Ke1 Qxa8 *
+
+[Event "Example 116"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/4pn2/6B1/8/3B4/PPPQ1PPP/2KR3R w - - 0 1"]
+[PlyCount "3"]
+
+1. Bb5+ c6 2.  Qxd8# 1-0
+
+[Event "Example 117"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/Q5pp/1Bq5/P2pb3/8/5R1P/2p1nPP1/2R2K2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qe8 2. Kxe2 Bb8+ 3. Re3 Bxa7 *
+
+[Event "Example 118"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr2k/1p3p1p/1npB2pQ/4Pp2/5P2/8/5PKP/3R4 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1999.??.??"]
+
+1. e6 f6 2. Bf8 Rxf8 3. Rxd8 Rxd8 4. e7 *
+
+[Event "Example 119"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/3Qbp1p/3P2p1/4B3/2p1P3/1n1B4/6PP/5R1K w - - 0 1"]
+[PlyCount "13"]
+
+1. Bxc4 Qxd7 2. Bxf7+ Kf8 3. Bxb3+ Bf6 4. Rxf6+ Kg7 5. Rf7+ Kh6 6. Rxd7 Rxe5 7.
+Bd5 *
+
+[Event "Example 120"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k3p/b7/3pP3/1prN4/3K4/2R3PP/8 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rc3+ 2. Kd2 Rd3+ 3. Kc1 Rxd4 *
+
+[Event "Example 121"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4N2k/2b5/P7/2r4P/6p1/5p2/3R1K2 b - - 0 1"]
+[PlyCount "3"]
+
+1... Bb5 2. Kg2 Rc2 *
+
+[Event "Example 122"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p2R4/8/3Pp2p/6p1/4b3/P4QPP/4N1K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxf2 2. g3 Rf7+ *
+
+[Event "Example 123"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/3k4/3p4/bpr5/8/3K2PP/2N5 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rc2+ 2. Kd1 Rc7+ 3. Kd2 Rxh7 *
+
+[Event "Example 124"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k2r/ppR5/2pp1B2/1b1N3p/3P2pP/2P5/PP1K2P1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Re7+ Kf8 2. Bg7+ Kg8 3. Nf6# 1-0
+
+[Event "Example 125"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/Bp1q1pbp/3p2p1/3P1b2/2R5/1Q4P1/PP3P1P/6KB b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxc4 2. Qxc4 b5 *
+
+[Event "Example 126"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk5p/4r3/1P6/3KN3/5p2/R5bP/8 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxe4+ 2. Kxe4 f2+ 3. Ke3 f1=Q *
+
+[Event "Example 127"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r1b1r/pp4pp/3P4/2R5/4bBP1/7P/PPP5/2K3NR w - - 0 1"]
+[PlyCount "5"]
+
+1. d7+ Ka8 2. Rc8+ Rxc8 3. dxc8=Q# *
+
+[Event "Example 128"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rq1rbnk1/1p4pp/3bpp2/p2P4/5B1P/P4N2/BP1Q1PP1/R2R2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. dxe6 Bxf4 2. e7+ Bf7 3. Qxd8 *
+
+[Event "Example 129"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1b4pp/p7/1P6/2B1p3/2P1Q1Pq/1P5P/R6K b - - 0 1"]
+[PlyCount "5"]
+
+1... Rf2 2. Qxf2 e3+ 3. Kg1 exf2+ *
+
+[Event "Example 130"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1r1k1/4b1r1/6R1/4Pp1Q/P1pB4/2P5/6P1/6K1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rxg7+ Kxg7 2. e6+ Bf6 3. Qf7+ Kh6 4. Qxf6+ Kh5 5. Qxf5+ Kh6 6. Be3+ Kg7 7.
+Qf7+ Kh8 8. Bd4# *
+
+[Event "Example 131"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1b1r/pp4pp/2p2k2/3p4/4Q3/8/PPP2PPP/R1B1R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qh4+ g5 2. Qxg5+ Kf7 3. Qxd8 *
+
+[Event "Example 132"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/2q5/1p1k2p1/2pp3p/8/1P4PP/PB4P1/2Q3K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Be5+ Kxe5 2. Qf4+ Ke6 3. Qxc7 *
+
+[Event "Example 133"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K2/3kP3/8/8/1q6/8/4Q3/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qb5+ Qxb5 2. e8=Q+ Kd6 3. Qxb5 *
+
+[Event "Example 134"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/R4p2/2b1k1p1/4P2p/p2Q3P/5qP1/7K/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qd6+ Kf5 2. Rxf7+ Ke4 3. Qxc6+ 1-0
+
+[Event "Example 135"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/2N2kp1/2b5/p3K2P/4P3/5r2/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nd8 g5 2. h5 g4 3. Rf7+ Kg5 4. Rxf2 *
+
+[Event "Example 136"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p1k4/6p1/4n3/1B2PK2/P2r3R/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rh6+ Ke5 2. Re6+ Kf5 3. Rxe4 *
+
+[Event "Example 137"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/P4p1p/8/4p3/1b2P3/7P/6P1/R1R4K w - - 0 1"]
+[PlyCount "7"]
+
+1. Rc8+ Rxc8 2. a8=Q Rxa8 3. Rxa8+ Ke7 4. Rxh8 *
+
+[Event "Example 138"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7B/2p2k1p/1p1p4/3P4/1PP5/3b4/Q4KPP/2q5 b - - 0 1"]
+[PlyCount "7"]
+
+1... Qf4+ 2. Ke1 Qf1+ 3. Kd2 Qe2+ 4. Kc3 Qxa2 *
+
+[Event "Example 139"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2q2r/pp2pkbQ/7R/4P3/5P2/2N5/PP6/R3K3 w - - 0 1"]
+[PlyCount "7"]
+
+1. e6+ Kf8 2. Qxh8+ Bxh8 3. Rxh8+ Kg7 4. Rxe8 *
+
+[Event "Example 140"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1P2RK2/4R3/8/7q/5k2/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Re2+ Kf1 2. Re1+ Kf2 3. R6e2+ Kf3 4. Re3+ Kg4 5. Rxh3 *
+
+[Event "Example 141"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/1P2R3/8/4R2P/8/7K/5k2/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Re2+ Kf1 2. Re1+ Kf2 3. R7e2+ Kf3 4. Rf1+ Kxe2 5. Rxf8 *
+
+[Event "Example 142"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2qN1k1p/8/2p1pP2/2P5/8/2Q3P1/6K1 w - - 0 1"]
+[PlyCount "9"]
+
+1. f6 Qxd7 2. Qxh7+ Ke6 3. Qxd7+ Kxd7 4. g4 Ke6 5. g5 1-0
+
+[Event "Example 143"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2qr2k1/4bpp1/2p4p/1pP5/1P2PP2/2NB4/7P/3R1RK1 b - - 0 1"]
+[PlyCount "1"]
+
+1... Qh3 *
+
+[Event "Example 144"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1r4p1/2pq3p/1p2p3/4P3/2Nn4/1P4PP/2RRQ2K w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxd3 Qxd3 2. Rd1 Qc4 3. Rxd8+ *
+
+[Event "Example 145"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1b4pp/5n2/2n2R2/2pqP3/8/PPB1Q1PP/R1B3K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Be3 Qxb2 2. Rb1 Qc3 3. Bxc5 *
+
+[Event "Example 146"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2p1qppp/1bB5/3QP2n/1r4R1/4BP2/5P1P/R6K w - - 0 1"]
+[PlyCount "5"]
+
+1. Bg5 Rxd5 2. Bxe7 Ra5 3. Rd1 *
+
+[Event "Example 147"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p6p/1p4p1/2p4q/2P5/1P2Pn2/P3Q2P/1NB2B1K b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1999.??.??"]
+
+1... Nxh2 2. Qxh5 Rxf1+ 3. Kxh2 gxh5 *
+
+[Event "Example 148"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/ppbb1p2/2n4p/3p1p1N/8/3BPN2/PP3PPP/2R2RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nf6+ Kg7 2. Nxd7 Rxd7 3. Bxf5 *
+
+[Event "Example 149"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/n2B2k1/2b3pp/8/1b6/1P6/5PPP/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ra1 Bc5 2. Bxc6 Nxc6 3. Rc1 *
+
+[Event "Example 150"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p1b1pp1/p2b3p/8/4P3/2Nq3P/1P1N1PP1/3Q1RK1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nf3 Qxd1 2. Rxd1 Re6 3. e5 Bxe5 4. Nxe5 Rxe5 5. Rxd7 *
+
+[Event "Example 151"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kr6/pp4p1/5b2/2P1p3/2Nn3P/1RN3P1/1P6/4K3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nb6+ axb6 2. Ra3# *
+
+[Event "Example 152"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppq3b1/2n3p1/5p2/2P1pP2/2P1K1N1/2Q1B3/1R6 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qxf4+ 2. Kxf4 Bh6# *
+
+[Event "Example 153"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1r2/pp2p2k/4pb1B/2n4Q/3pN3/3P4/PP4P1/R3K2R w - - 0 1"]
+[PlyCount "3"]
+
+1. Bg5+ Kg8 2. Qh8+ *
+
+[Event "Example 154"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/p1qn1pp1/1p2pb1p/7P/2Pp4/B1P1QP2/P1B1KP2/4R2R w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxe6+ fxe6 2. Bg6# *
+
+[Event "Example 155"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q3q2/4R3/8/4R2P/8/7K/5k2/8 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qf3+ 2. Kh4 Qg3# *
+
+[Event "Example 156"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/6np/3N1N2/1p1Bq1n1/6p1/3Q3b/4PP1P/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxh7+ Nxh7 2. Nf7# *
+
+[Event "Example 157"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/6p1/1bBnp3/1p2N3/p2P2Pk/4K3/PP3N2/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. Kf4 g5+ 2. Kf3 *
+
+[Event "Example 158"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/1p1Q2pp/p1n2q2/8/8/2R5/PPB2PPP/5RK1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qxf2+ 2. Rxf2 Re1+ 3. Rf1 Rexf1# 0-1
+
+[Event "Example 159"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q6/1P2R3/8/4R2P/8/7K/8/6k1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rg7+ Kf2 2. Rf7+ Kg1 3. Re1# *
+
+[Event "Example 160"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5kr/5ppp/p2R2N1/8/8/Q7/PPP2qbP/1K5R w - - 0 1"]
+[PlyCount "5"]
+
+1. Rd8+ Rxd8 2. Qf8+ Rxf8 3. Ne7# *
+
+[Event "Example 161"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2r1k1/p4pp1/2N2b2/3Q4/8/8/PP5P/KR6 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qxb2+ 2. Rxb2 Re1+ 3. Qd1 Rxd1# *
+
+[Event "Example 162"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/1ppb1Rp1/6Bp/8/8/5Q2/P5PP/6K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxg7+ Kxg7 2. Qf7+ Kh8 3. Qh7# *
+
+[Event "Example 163"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/p2nq1pp/2p1B3/1p6/3P3N/1Q6/P4PPP/5RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ng6+ hxg6 2. Qh3+ Qh4 3. Qxh4# *
+
+[Event "Example 164"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4QN2/5p2/p2R2pk/8/7r/8/PPP2qbP/1K6 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rxg6+ Kh5 2. Qe5+ *
+
+[Event "Example 165"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2Q/3N1k1n/2PP3p/3q1b2/1p6/2p5/6P1/5RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxh7+ Ke6 2. Qg6+ Bxg6 3. Rf6# *
+
+[Event "Example 166"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p4p1k/1p2pP1p/n2pP3/q2p2PN/P1P5/2PQ4/5RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Rf5 exf5 2. Nxf5 *
+
+[Event "Example 167"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p3N1b1/6pp/8/5p1P/1Q1BP3/1P4PK/4q3 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qg8+ Rxg8 2. Nxg6+ Kh7 3. Ne5+ Kh8 4. Nf7# *
+
+[Event "Example 168"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/p3q3/4R3/2pP4/2P2b2/1P6/P1Q3P1/4R2K b - - 0 1"]
+[PlyCount "7"]
+
+1... Qh4+ 2. Kg1 Bh2+ 3. Kh1 Bg3+ 4. Kg1 Qh2# *
+
+[Event "Example 169"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/5ppk/7p/3BpP2/3b4/1P4QP/r5PK/3q4 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qg6+ fxg6 2. Bg8+ Kh8 3. Bf7+ Kh7 4. Bxg6# *
+
+[Event "Example 170"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1bbk1/1p4rp/4pQ2/1P6/3B2P1/3B4/2P4R/6K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bxh7+ Rxh7 2. Rxh7 Kxh7 3. Qh8+ Kg6 4. Qh5# *
+
+[Event "Example 171"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pppb2pp/8/3Q2N1/1P1P1P2/P5K1/1B3PPP/n2q4 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nf7+ Kg8 2. Nh6+ Kh8 3. Qg8+ Rxg8 4. Nf7# *
+
+[Event "Example 172"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4qQrk/1p2P2p/3B1pp1/3p1p2/5P2/8/5PKP/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qxf6+ Rg7 2. Qf8+ Qxf8 3. exf8=Q+ Rg8 4. Be5# *
+
+[Event "Example 173"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R5rk/8/5p1p/2pB2q1/2P3n1/8/6PP/Q5K1 b - - 0 1"]
+[PlyCount "7"]
+
+1... Qe3+ 2. Kh1 Nf2+ 3. Kg1 Nd1+ 4. Kh1 Qe1# *
+
+[Event "Example 174"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp6/q5pp/1Q2Np1k/5P2/P5PK/1Pr4P/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. g4+ fxg4+ 2. Nxg4+ Qxb5 3. Nf6# *
+
+[Event "Example 175"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/2p1bp1p/3p1p2/pB2p3/Pp2P3/5n1q/1PPP1PRP/RNB4K b - - 0 1"]
+[PlyCount "7"]
+[EventDate "1999.??.??"]
+
+1... Bf8 2. Bd7 Kxd7 3. d4 Rg8 4. Bg5 Rxg5 *
+
+[Event "Example 176"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4kr2/p5Qp/1pp3pN/3b2P1/1P2q2P/P7/3B1P2/5K2 b - - 0 1"]
+[PlyCount "9"]
+
+1... Qh1+ 2. Ke2 Bc4+ 3. Ke3 Qf3+ 4. Kd4 Qd3+ 5. Ke5 Qd5# 0-1
+
+[Event "Example 177"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p4p1/4q3/5Qp1/2b3B1/P1R1P2P/2P3PK/3r4 b - - 0 1"]
+[PlyCount "7"]
+
+1... Qd6+ 2. g3 Qd2+ 3. Be2 Qxe2+ 4. Qf2 Qxf2# *
+
+[Event "Example 178"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/6k1/2p2p2/6pK/p5PP/P7/4q3/8 b - - 0 1"]
+[PlyCount "17"]
+
+1... Qa2 2. Qd7+ Qf7+ 3. Qxf7+ Kxf7 4. hxg5 c5 5. gxf6 c4 6. g5 c3
+7. g6+ Kxf6 8. Kh6 c2 9. g7 c1=Q+ *
+
+[Event "Example 179"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p5pp/1pQ1R3/4P3/8/4B3/q4rPP/4R1K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Qe2 2. Rxe2 Rf1# *
+
+[Event "Example 180"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/pb3p1k/4p1p1/4P3/1qpRQ3/8/P4PP1/5RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh4+ Kg8 2. Qf6 *
+
+[Event "Example 181"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/ppp1Rppp/5n2/8/3N1P2/P1Nb2Q1/1PP3P1/2K5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Ne6 fxe6 2. Qxg7# *
+
+[Event "Example 182"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1N1p2B1/4p3/1R5p/1b4n1/5KPB/2r4P/8 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rf2+ 2. Ke4 d5+ 3. Rxd5 exd5+ *
+
+[Event "Example 183"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqrk2/p2n1p2/1p1p1n1N/8/1PPP3p/P2Q4/6PP/2R2RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qh7 Nxh7 2. Rxf7# *
+
+[Event "Example 184"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/RB5p/1p2q1p1/1PpQ4/2P2p2/3P3r/P3PP2/1R3K2 b - - 0 1"]
+[PlyCount "3"]
+
+1... f3 2. Qxf3 Rxf3 *
+
+[Event "Example 185"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2Nk1/7p/p2n2p1/2Np4/7q/2PB3P/P4rP1/3R2QK b - - 0 1"]
+[PlyCount "5"]
+
+1... Bxh3 2. Qh2 Rxg2 3. Qxd6 Rxa2 *
+
+[Event "Example 186"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/5rkp/B1PQ4/3p1P1n/7K/5P1P/3r4/8 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rd4+ 2. Kg5 Nf6 3. f4 Ne4+ 4. Kg4 Nxd6 0-1
+
+[Event "Example 187"]
+[Site "?"]
+[Date "2002.08.29"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4bppp/2N1pn1P/1p6/8/1P2P1P1/1B3PK1/R7 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nxe7+ Rxe7 2. Bxf6 gxf6 3. Ra8+ Re8 4. Rxe8# *
+
+[Event "Example 188"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1qr1rnk1/1p3p2/p1p3p1/4b1P1/4B3/2B1P2R/PPQ1KP2/7R w - - 0 1"]
+[PlyCount "7"]
+
+1. Rh8+ Kg7 2. f4 Bxc3 3. Qxc3+ f6 4. Qxf6# *
+
+[Event "Example 189"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1R1b1k/ppp1qp1p/4p3/nP2PpN1/P4P2/2N5/2P2QPP/6K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qh4 f6 2. Rxf8+ Kg7 3. Qxh7+ Kxf8 4. Qh8# *
+
+[Event "Example 190"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/1p3p1p/5p2/1p2p3/8/1P6/1PPq1PPP/Q4RK1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Rd1 Qxc2 2. Qa8+ Ke7 3. Qxb7+ Ke6 4. Qd7# *
+
+[Event "Example 191"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3p2/2b1pbp1/q3P2Q/6Rp/2N5/PPP3P1/1K5R w - - 0 1"]
+[PlyCount "7"]
+
+1. Rxg6+ fxg6 2. Qxg6+ Bg7 3. Qxe6+ Kh8 4. Rxh4+ *
+
+[Event "Example 192"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/pp3ppp/2pQb3/8/4P3/2N5/PPP2qPP/2KR1B1R w - - 0 1"]
+[PlyCount "7"]
+
+1. Nb5 cxb5 2. Bxb5+ Bd7 3. Bxd7+ Kd8 4. Bc8+ *
+
+[Event "Example 193"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1r1k/5pp1/2pp2np/1p5R/4P3/1B1P2P1/1PPQ2KP/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rxh6+ gxh6 2. Qxh6+ Kg8 3. Qxg6+ Kh8 4. Bxf7 Rxf7 5. Qxf7 *
+
+[Event "Example 194"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/2p3Rn/p3q3/4p1p1/2P1P3/3P2QP/Pr6/6K1 b - - 0 1"]
+[PlyCount "9"]
+
+1... Qb6+ 2. Kh1 Qf6 3. Rxh7 Qf1+ 4. Qg1 Qf3+ 5. Qg2 Qxg2# *
+
+[Event "Example 195"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1pp3pp/p2b4/2p2p2/5n1q/2PPNP1P/PP1B1P2/R4QK1 b - - 0 1"]
+[PlyCount "9"]
+
+1... Nxh3+ 2. Kg2 Nf4+ 3. Kg1 Ne2+ 4. Qxe2 Qh2+ 5. Kf1 Qh1# *
+
+[Event "Example 196  "]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pp3qpp/1kn1Rn2/5P2/8/3Q4/PPN2P1P/R5K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1999.??.??"]
+
+1. Qb3+ Ka5 2. Rxc6 Qxb3 3.  axb3+ Kb5 4. Nd4+ Kb4 5. Rc4# *
+
+[Event "Example 197"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pR5p/3p1rpk/1Q2pn2/P2r4/2qN2P1/5PKP/3R4 b - - 0 1"]
+[PlyCount "11"]
+
+1... Ne3+ 2. Kg1 Qc2 3. Rf1 Rxd3 4. Qd7 Qxf2+ 5. Rxf2 Rd1+
+6. Rf1 Rfxf1# *
+
+[Event "Example 198"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4pp/pqn1p3/3pn3/3P4/N4N2/PP1QB1PP/R4RK1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nxe5 Nxe5 2. Rxf8+ Kxf8 3. Qf4+ Nf7 4. Rf1 *
+
+[Event "Example 199"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2rk1/3n1p2/p2q2pQ/2rPN2p/B1p5/2P1R2P/1P4P1/5RK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+1. Nxf7 Rxf7 2. Rxf7 Kxf7 3. Qh7+ Kf8 4. Qh8+ Kf7 5. Qe8+ Kg7 6. Re7+ Kh6 7.
+Re6 *
+
+[Event "Example 200"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7p/6p1/8/1N2pP2/P3pnP1/3rR2P/5K2 b - - 0 1"]
+[PlyCount "15"]
+
+1... Nxh2+ 2. Ke1 Nf3+ 3. Kf1 Rd1+ 4. Kg2 Rg1+ 5. Kh3 Rh1+ 6. Kg2
+Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
+
+[Event "Example 201"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2bRr1k1/p1P3b1/1p1B1np1/6Np/7P/2N5/PP3P2/2K5 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nd5 Nxd5 2. Rxe8+ *
+
+[Event "Example 202"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3nq1bp/p4np1/1p2p1B1/4P3/2P2Q1P/PPK3P1/3R4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxd7 Qxd7 2. Bxf6 Bxf6 3. Qxf6 *
+
+[Event "Example 203"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5rk1/1p4pp/2pb4/4P3/1P1P2nq/3Q4/6BP/1R3NK1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxf1+ 2. Kxf1 Qf2# 0-1
+
+[Event "Example 204"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move "]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/2p3pp/p1n1qn2/1pbp4/8/1BPQ4/PP1N1PPP/R1B2RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ne4 Qxe4 2. Qxe4 Nxe4 3. Bxd5+ *
+
+[Event "Example 205"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1p1k4/1p1rbQ2/5p2/7P/P7/1P4P1/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxe6 Rxe6 2. Qf7+ Kd6 3. Qxg8 *
+
+[Event "Example 206"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/1pbRr1pp/5q2/pQ3p2/1P3P2/P4B1P/6P1/1RB3K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qb6+ 2. Qxb6 Bxb6+ 3. Kh2 Rxd7 *
+
+[Event "Example 207"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q4p/6p1/p2pP3/1n3P1P/nBpN1NP1/P3Q3/2R1K2R w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxb4 axb4 2. Bxd5+ Kg7 3. Bxa8 *
+
+[Event "Example 208"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Qb1kr3/p2n3p/4q2n/1B1NP1p1/3P4/6K1/PPP3PP/5R2 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxd7 Kxd7 2. Qb7+ Kd8 3. Qxb8+ *
+
+[Event "Example 209"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1q2/pp1bnBpk/7p/7Q/8/2B5/PP4PP/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxe7 Qxe7 2. Qg6+ Kh8 3. Qxh6# *
+
+[Event "Example 210"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qk2r/3nbppp/1p2n3/1N6/1P1Q1B2/P7/3N2PP/4R2K w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxe6 fxe6 2. Qxg7 Rf8 3. Nc7+ *
+
+[Event "Example 211"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p3qp2/1np5/2b1pP2/4P1nr/1BN2Q2/PP3P2/3R1K1R w - - 0 1"]
+[PlyCount "5"]
+
+1. f6 Qxf6 2. Qxf6+ Nxf6 3. Rxh4+ *
+
+[Event "Example 212"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/1pp1q2n/2np1p2/1B2pQ2/3PP3/2P2PB1/1P3K2/7R w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxc6 bxc6 2. Rxh7+ Qxh7 3. Qxf6+ *
+
+[Event "Example 213"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r2p2/1RB1p1p1/P6p/1P3P1P/2N1k1K1/3r2P1/5b2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxc6 2. Rxc6 Rxg2+ 3. Kh3 Kf3 *
+
+[Event "Example 214"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp2pp1/2nq3p/1B2n3/2P4B/P3RN2/1P3PPP/R2Q2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxe5 Nxe5 2. Qxd6 cxd6 3. Be7 *
+
+[Event "Example 215"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5k2/p2b4/2rbp3/8/5q1p/2N4P/P1Q2PB1/2R2K2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rxc3 2. Qxc3 Bb5+ 3. Ke1 Bb4 0-1
+
+[Event "Example 216"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2pn1ppp/2qbp3/2N3r1/2QP4/2N1P1P1/5P1P/1R4K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxd7 Qxd7 2. Ne4 Rd5 3. Nxd6 *
+
+[Event "Example 217"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4bp1p/k3n1p1/B1p1P3/bpP2P2/1N3K2/3N2PP/8 b - - 0 1"]
+[PlyCount "7"]
+
+1... Bxb3 2. Nxb3 Nd4+ 3. Nxd4 cxd4 4. Bxb4 Bxb4 *
+
+[Event "Example 218"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1rb1r/ppppqp1p/2n5/5b2/3PnBpP/2PN4/PP1NQ1P1/1K2RB1R b - - 0 1"]
+[PlyCount "9"]
+
+1... Nxd2+ 2. Bxd2 Qxe2 3. Bxe2 Rxe2 4. Rxe2 Bxd3+ 5. Kc1 Bxe2 *
+
+[Event "Example 219"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Rb2rk1/2P1r3/6p1/P3pp2/8/4N2P/5PK1/3R4 w - - 0 1"]
+[PlyCount "9"]
+
+1. Rxc8 Rxc8 2. Rd8+ Re8 3. Rxe8+ Rxe8 4. Nd5 Kf7 5. Nb6 *
+
+[Event "Example 220"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bk3r/1pR1R2p/p2P1n2/5pp1/3p1N2/1P4P1/P4PB1/6K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+1. Rxc8+ Kxc8 2. Rc7+ Kb8 3. Rxb7+ Kc8 4. Ne6 Ne4 5. Bxe4 fxe4 6. Rc7+
+Kb8 7. Nxd4 *
+
+[Event "Example 221"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/bq5p/p1n1PN2/1p6/4Q3/PP4PP/5BK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bxa6 Qxa6 2. Qxc5 *
+
+[Event "Example 222"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/3p2p1/2p4q/4P2P/5P2/1rPQ2P1/4R2K b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1999.??.??"]
+
+1... Rxc2 2. Qxc2 Qxh4+ 3. Kg1 Qxe1+ *
+
+[Event "Example 223"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p1r2bk1/5p2/2p1q2p/6p1/1PR1P3/P4QPP/2RB2K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxd1+ 2. Rxd1 Qxc3 *
+
+[Event "Example 224"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/6p1/4b2p/1PpN1pq1/3nP3/3QN2P/P3BPP1/6K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... fxe4 2. Qxe4 Nxe2+ 3. Kf1 Bxd5 *
+
+[Event "Example 225"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4p1p/Q5pP/3q4/3P4/8/5P2/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qf6 Qxd4 2. Qxd4 Rxd4 3. Re8# *
+
+[Event "Example 226"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/1pn2p2/2p1bnrp/4B3/6p1/6N1/1PQ3PP/4RRK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxc7 Qxc7 2. Rxe6 fxe6 3. Qxg6+ *
+
+[Event "Example 227"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/p1n1rBp1/1p3b2/3P4/q1P4Q/8/3B1RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxf5 gxf5 2. Qh8+ Kf7 3. Bh5# *
+
+[Event "Example 228"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1r/5p2/4nnpp/3pN3/2pP4/2P1RPB1/2K3PP/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nxg6+ fxg6 2. Rxe6 Kf7 3. Rxf6+ Kxf6 4. Be5+ Kf7 5. Bxh8 *
+
+[Event "Example 229"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bB2k1/1ppr2pp/p1pn2q1/8/4N3/5P2/PPP2QPP/3RR1K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Bxc7 Nxe4 2. fxe4 Rxc7 3. Rd8+ Qe8 4. Rxe8# *
+
+[Event "Example 230"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp2pp1/2q4p/2n5/2P4B/P3RN2/1P3PPP/R2Q2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Be7 Re8 2. Bxc5 Rxe3 3. Bxe3 *
+
+[Event "Example 231"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pp3p1p/4b3/q5p1/1Q6/2P1P1B1/n4PPP/R3KB1R b - - 0 1"]
+[PlyCount "3"]
+
+1... Rd1+ 2. Rxd1 Nxb4 *
+
+[Event "Example 232"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1k/8/5PQ1/p1pp3p/P7/5qBP/1P6/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bd6 Bxd6 2. Qg7# *
+
+[Event "Example 233"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1b1k/1p3Qpp/4N3/5p2/8/1P4P1/P1P1q3/2K1R3 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxf8+ Rxf8 2. Rxe2 *
+
+[Event "Example 234"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/pp3p2/4p1p1/2R4p/3qQ2P/8/PP3PP1/2R3K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rc8+ Rxc8 2. Rxc8+ Kxc8 3. Qxd4 *
+
+[Event "Example 235  "]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/1pq4p/p1p5/3p1B2/8/7Q/PPP2b1P/2BR3K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1. Bf4 Qg7 2. Be5 *
+
+[Event "Example 236"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/p2b1pbp/6p1/2RPp3/2Q1P1q1/1P1N2P1/P6P/4K1NR b - - 0 1"]
+[PlyCount "3"]
+
+1... Bb5 2. Qxb5 Qxe4+ *
+
+[Event "Example 237"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r1k/4q1np/3N1N2/1p1BP1n1/6p1/3Q3b/4PP1P/4R1K1 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nf7+ Rxf7 2. Bxf7 Qxf7 3. Qd8+ Ne8 4. Qxe8+ Qxe8 5.  Nxe8 1-0
+
+[Event "Example 238"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q6/5k1p/1p1rp1p1/1Pp5/4QP2/6PP/2P2K2/3R4 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qe5 Rd8 2. Rd7+ Rxd7 3. Qxb8 *
+
+[Event "Example 239"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7p/6p1/8/P2npP2/6P1/1R2pK1P/2r1N3 b - - 0 1"]
+[PlyCount "7"]
+
+1... e3+ 2. Kxe3 Rxe1 3. Kxd4 Rd1+ 4. Ke3 e1=Q+ *
+
+[Event "Example 240"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B2q1rk1/p1p2ppp/8/2bQP3/4n3/8/PPP2PPP/RNB2bK1 b - - 0 1"]
+[PlyCount "7"]
+
+1... Bc4 2. Qxc4 Qd1+ 3. Qf1 Bxf2+ 4. Kh1 Qxf1# *
+
+[Event "Example 241"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q4bk1/5p2/p4n1p/1p6/1n2P1b1/1QN1BN1P/PP4K1/3R4 b - - 0 1"]
+[PlyCount "3"]
+
+1... Be6 2. Nd5 Nxe4 *
+
+[Event "Example 242"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r3/2p3kp/3p1qp1/8/2PQ4/1P2R3/6PP/4R1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Re7+ Rxe7 2. Rxe7+ Kh6 3. Qxf6 *
+
+[Event "Example 243"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rn2/4q2k/3p1b1p/3Pp3/4Nr2/1PN3RQ/7P/6RK w - - 0 1"]
+[PlyCount "5"]
+
+1. Ne2 Rxe4 2. Qf5+ Kh8 3. Rg8# *
+
+[Event "Example 244"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5pbp/p5p1/1pr1n3/8/5N1P/PP3PPB/3R1RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxe5 Bxe5 2. b4 Rc4 3. Nxe5 *
+
+[Event "Example 245"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2rk1/pp3p1p/3pqnp1/PP3N2/4PNQ1/3P4/5PPP/R4RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nxe6 Nxg4 2. Ne7+ Kh8 3. Nxf8 *
+
+[Event "Example 246"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/4bk2/p3p2p/2n2pp1/2RN4/P3PP2/1P2K1PP/3N4 w - - 0 1"]
+[PlyCount "7"]
+
+1. Nc6 Rd5 2. e4 fxe4 3. fxe4 Rxd1 4. Kxd1 *
+
+[Event "Example 247"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4k3/5p2/p3b3/q3n3/1RPQP3/2K5/P3B3/8 b - - 0 1"]
+[PlyCount "7"]
+
+1... Nc6 2. Qb6 Qa3+ 3. Rb3 Qc1+ 4. Kd3 Bxc4# 0-1
+
+[Event "Example 248"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/1pp3pq/p4p2/6pN/4P1Pn/4Q1KP/PPP2P2/3R4 b - - 0 1"]
+[PlyCount "7"]
+
+1... g6 2. Nxf6 Nf5+ 3. Kh2 Nxe3 4. Nxh7 Nxd1 *
+
+[Event "Example 249"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kn1R/4bpp1/p7/3N1bq1/2p5/P1N1Q3/1PP5/1K6 w - - 0 1"]
+[PlyCount "9"]
+
+1. Nc7+ Kd7 2. Qxg5 Bxg5 3. Rxf8 Kxc7 4. Rxf7+ Bd7 5. Rxg7 *
+
+[Event "Example 250"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r2/5Rbk/p2p2pp/1p1B2q1/2n1P3/1Q1R2NP/PP4P1/6K1 b - - 0 1"]
+[PlyCount "9"]
+
+1... Rxf7 2. Bxf7 Ne5 3. Rc3 Rxc3 4. bxc3 Nxf7 5. Qxf7 Qxg3 *
+
+[Event "Example 251"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p2q2pp/2pP1p2/2r1p3/P7/7P/3Q1PP1/3R2K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Qb4 *
+
+[Event "Example 252"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r4/k4pp1/pp3q2/2pPR3/P7/2P1N2P/5PPQ/6K1 w - - 0 1"]
+[PlyCount "1"]
+
+1. Re6 *
+
+[Event "Example 253"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pQp2p1p/6p1/6N1/8/3PP1P1/4KP2/b7 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1999.??.??"]
+
+1. Qh1 *
+
+[Event "Example 254"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5bk1/5ppp/p2q4/Q2R1b2/8/PN2B1PP/2P2P1K/1r6 b - - 0 1"]
+[PlyCount "3"]
+
+1... Be4 2. Rxd6 Rh1# 0-1
+
+[Event "Example 255"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/ppq2pp1/1np3N1/2b5/8/1QP4P/PP1B1PP1/R5K1 b - - 0 1"]
+[PlyCount "1"]
+
+1... Qg3 *
+
+[Event "Example 256"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/4bppp/pq3n1B/1p2p3/2nNP3/P1N3Q1/1PP1B1PP/R2R3K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1999.??.??"]
+
+1... Nh5 2. Bxh5 Qxh6 *
+
+[Event "Example 257"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/2p2kp1/7p/3q4/4NP2/5B2/7P/7K b - - 0 1"]
+[PlyCount "5"]
+
+1... Qd3 2. Be2 Qb1+ 3. Kg2 Kxe8 *
+
+[Event "Example 258"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp2ppbp/5Pp1/q2p4/3P2P1/P3B3/1Pr1Q2P/1K1R3R w - - 0 1"]
+[PlyCount "5"]
+
+1. Rd2 Rxd2 2. Bxd2 Qb6 3. fxg7 *
+
+[Event "Example 259"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4bk1/1pq2pnp/p4P2/3Pp3/5n2/5B2/PPPQ3P/R3K1R1 b Q - 0 1"]
+[PlyCount "5"]
+
+1... Qb6 2. O-O-O Qxf6 3. Rxg7+ Bxg7 *
+
+[Event "Example 260"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k1r2/p1p3pp/1p3n2/1R6/3q4/1Q5P/PPP3P1/4R2K w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1999.??.??"]
+
+1. Qf3 Rb8 2. Rd1 Nd7 3. Qxf8+ Nxf8 4. Rxd4+ *
+
+[Event "Example 261"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r1n1k1/2p2ppp/p1B5/1p2q3/3R3b/8/PPQ2P1P/3R2K1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Bd7 Rd8 2. Rxh4 Rxd7 3. Qxh7+ Kf8 4. Rxd7 Qg5+ 5. Kh1 Qc1+ 6. Kg2
+Qc6+ 7. Qe4 Qxd7 8. Rh8# 1-0
+
+[Event "Example 262"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b1pp1/8/P2QPpNp/8/2R5/1q3PPP/3R2K1 w - - 0 1"]
+[PlyCount "15"]
+
+1. Qf3 Rfd8 2. Qxh5 Qxc3 3. Qxf7+ Kh8 4. Qh5+ Kg8 5. Qh7+ Kf8 6. Qh8+
+Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
+
+[Event "Example 263"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/1Q3ppp/p3nn2/1p6/8/P1N2P2/1PB2P1P/R1B1K2R b - - 0 1"]
+[PlyCount "3"]
+
+1... Nc5 2. Qa7 Ra8 *
+
+[Event "Example 264"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2nrk1/1p1b1pbp/p2p1qp1/PnpP4/2N1PB2/2NB3P/1P1Q1PP1/R4RK1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bg5 Qd4 2. Ne2 *
+
+[Event "Example 265"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/5p2/p3b1p1/2N1Pq2/3R4/2P1Q3/6P1/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. g4 Qc2 2. Rd2 *
+
+[Event "Example 266"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p7/3p4/2qN4/4P3/2P5/1P4K1/5B2 w - - 0 1"]
+[PlyCount "3"]
+
+1. b4 Qc8 2. Ne7+ *
+
+[Event "Example 267"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qrbk1/3b1pp1/p4n1p/npppp3/P3P3/2PPB1NP/1PBN1PP1/R2QR1K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... d4 2. cxd4 cxd4 *
+
+[Event "Example 268"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/6p1/pq2p3/2br2Pr/PpR1Q3/5N2/1P3PK1/2R5 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qg6 Rh7 2. Qe8+ Bf8 3. Qxf8# 1-0
+
+[Event "Example 269"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/1N1k1pp1/1r2p1n1/1P1p3p/7P/2Q3P1/5P2/6K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qc5 Rxb7 2. Qc6+ Ke7 3. Qxb7+ *
+
+[Event "Example 270"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp2bpk1/q1p3p1/P3P3/2nP2P1/2NQ2K1/8/R1B5 w - - 0 1"]
+[PlyCount "5"]
+
+1. Ra4 Nxa5 2. Qxa6 bxa6 3.  Rxa5 *
+
+[Event "Example 271"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/4b3/b4pp1/p2p2np/5P1Q/4P2P/1P3K1B/3B2N1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Ne4+ 2. Kg2 f5 3. Qe1 Bb4 *
+
+[Event "Example 272"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/5pb1/p1p3pp/1p2p3/3qP3/1n1PNP2/PP2QBPP/R4RK1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nd5 Qa4 2. axb3 Qxb3 3. Ra3 *
+
+[Event "Example 273"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rbb2rk1/pp4pp/2n1pn2/1N1p4/3P4/3BBN2/1q3PPP/R2Q1RK1 w - - 0 1"]
+[PlyCount "7"]
+
+1. Ra4 a6 2. Bc1 axb5 3. Rxa8 Qc3 4. Bxb5 *
+
+[Event "Example 274"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2p1bk2/2p1n3/1p2Ppp1/8/2B2N2/1PP3PP/4R1K1 b - - 0 1"]
+[PlyCount "3"]
+
+1... b4 2. Bd4 g4 *
+
+[Event "Example 275"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4N3/3p1p2/6pp/4k2P/6P1/6K1/8 w - - 0 1"]
+[PlyCount "3"]
+
+1. g4 hxg4 2. h5 *
+
+[Event "Example 276"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/6k1/p5r1/R6R/5P2/6PK/8/8 b - - 0 1"]
+[PlyCount "3"]
+
+1... Rxh5+ 2. Rxh5 Rh6 *
+
+[Event "Example 277"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/n5pp/1p2K3/pP6/P4p1P/5N2/8/8 b - - 0 1"]
+[PlyCount "3"]
+
+1... Nxb5 2. axb5 a4 *
+
+[Event "Example 278"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p2q2pp/1p1Prp2/8/8/1P2Q2P/5PP1/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qxe6+ Qxe6 2. d7 Qxd7 3. Rxd7 *
+
+[Event "Example 279"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2knB3/2n4p/3p1BpP/3P1pP1/2K2P2/8/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Bxg6 hxg6 2. Bxd8 Kxd8 3. h7 *
+
+[Event "Example 280"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R3b3/4Pk2/5P2/4B3/5K2/p3r3/8 b - - 0 1"]
+[PlyCount "7"]
+
+1... Re3+ 2. Kxe3 Bc5+ 3. Kd3 Bxa7 4. Kc2 a1=Q *
+
+[Event "Example 281"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p1p1nppp/3q4/8/4Q3/1p6/PPP2PPP/RN3K2 b - - 0 1"]
+[PlyCount "5"]
+
+1... Qa6+ 2. c4 Qxa2 3. Rxa2 bxa2 *
+
+[Event "Example 282"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2k5/2p5/6pb/pP2P3/4R3/2PN1p1P/2K5 b - - 0 1"]
+[PlyCount "5"]
+
+1... Rd8 2. Rd3 Rxd3 3. cxd3 Be2 *
+
+[Event "Example 283"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/p2P4/bp2PK2/7p/8/8/6P1/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. e7+ Kxd7 2. Kf7 Bc4+ 3. Kf8 *
+
+[Event "Example 284"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2Q2r1k/1P4pp/3q4/p7/8/8/3b1PPP/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxd2 Qb4 2. Qxf8+ Qxf8 3. Rc2 1-0
+
+[Event "Example 285"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk2pp1p/r4rp1/R1PP4/1n6/6PB/5P1P/R5K1 w - - 0 1"]
+[PlyCount "7"]
+
+1. c6+ Kb6 2. Rxa6+ Nxa6 3. Rxa6+ Kxa6 4. c7 *
+
+[Event "Example 286"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/2p1p3/2PPP3/1k6/3K4/8 b - - 0 1"]
+[PlyCount "7"]
+
+1... Kxc4 2. dxe5 Kb5 3. e6 Kc6 4. e5 g5 *
+
+[Event "Example 287"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6R1/kp6/p4n2/P4p1r/3q2p1/7p/Q6P/7K w - - 0 1"]
+[PlyCount "4"]
+
+1. Qf2 Qxf2 2. Ra8+ Kxa8 1/2-1/2
+
+[Event "Example 288"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6q1/p7/8/8/k1R5/P1PP4/P2K4/1N3B2 b - - 0 1"]
+[PlyCount "4"]
+
+1... Qxc4 2. dxc4 a5 3. c5 *
+
+[Event "Example 289"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/4b1p1/2pp4/1p1k4/1P2p3/4K3/6q1 w - - 0 1"]
+[PlyCount "4"]
+
+1. h8=Q+ Ke4 2. Qh1+ Qxh1 *
+
+[Event "Example 290"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3kb3/8/3P2r1/P1Q2p2/5P2/8/7P/7K b - - 0 1"]
+[PlyCount "4"]
+
+1... Bc6+ 2. Qxc6 Rg1+ 3. Kxg1 *
+
+[Event "Example 291"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/4q2p/3p3k/3P2R1/4PKPP/r4P2/8 b - - 0 1"]
+[PlyCount "4"]
+
+1... Rxf2+ 2. Kxf2 Qxe3+ 3. Kxe3 *
+
+[Event "Example 292"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1p5/1bBk4/pK6/8 w - - 0 1"]
+[PlyCount "2"]
+
+1. Ka1 Kxc3 *
+
+[Event "Example 293"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2R5/6p1/6Pp/4n2K/2r5/7P/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. h3 Nd6 2. Rh7+ Kg8 3. Rg7+ Kf8 4. Rf7+ Ke8 5. Re7+ Kd8 6. Rd7+ Kxd7 *
+
+[Event "Example 294"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/4qpp1/8/2Q1KP2/8 w - - 0 1"]
+[PlyCount "7"]
+
+1. Qxe4+ Kxe4 2. f3+ gxf3+ 3. Kf2 Ke5 4. Kxf3 *
+
+[Event "Example 295"]
+[Site "?"]
+[Date "2002.09.11"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p4p/1pr1p2k/2b3pN/2N2pP1/1P5P/P3P3/5K2 w - - 0 1"]
+[PlyCount "10"]
+
+1. Ne5 Rd6 2. Nf7+ Kg6 3. Ne5+ Kh6 4. Nf7+ Kg6 5. Ne5+ Kh6 *
+
+[Event "Example 296"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1N6/2p4k/2ppb1pp/2q1r3/8/5Q1P/4rPP1/R4RK1 w - - 0 1"]
+[PlyCount "11"]
+
+1. Nd7 Bxd7 2. Qf7+ Kh8 3. Qf8+ Kh7 4. Qf7+ Kh8 5. Qf8+ Kh7 6. Qf7+ *
+
+[Event "Example 297"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1pqb3p/p3pBp1/3p1rP1/5b1R/1PN1Q3/1PP4P/1K4R1 w - - 0 1"]
+[PlyCount "12"]
+
+1. Rxh7 Bxe3 2. Rh8+ Kf7 3.  Rh7+ Kf8 4. Rh8+ Kf7 5. Rh7+ Kf8
+6. Rh8+ Kf7 *
+
+[Event "Example 298"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/Q1R1bpp1/1p2p2p/1q6/1P2r3/P4PB1/6PP/5RK1 b - - 0 1"]
+[PlyCount "11"]
+
+1... Qxf1+ 2. Kxf1 Rd1+ 3. Kf2 Rd2+ 4. Kf1 Rd1+ 5. Kf2 Rd2+ 6. Kf1
+Rd1+ *
+
+[Event "Example 299"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/7p/1Qp2p2/3p4/3PnN1P/PP3qPK/8 w - - 0 1"]
+[PlyCount "12"]
+
+1. Qe8+ Kh7 2. Ng5+ hxg5 3. Qh5+ Kg8 4. Qe8+ Kh7 5. Qh5+ Kg8 6. Qe8+ Kh7 *
+
+[Event "Example 300"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R4pp/3p1pk1/1P1P1r2/4Q1P1/1Bq5/7P/5nK1 b - - 0 1"]
+[PlyCount "15"]
+
+1... Qc5+ 2. Kh1 Ng3+ 3. hxg3 Qc1+ 4. Kg2 Qd2+ 5. Kh3 Qh6+ 6. Kg2 Qd2+
+7. Kh3 Qh6+ 8. Kg2 Qd2+ *
+
+[Event "Example 301"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Black to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q5k/r2P4/2p1PpQp/2P2P1P/6R1/r4PP1/6K1/8 b - - 0 1"]
+[PlyCount "12"]
+
+1... Ra2+ 2. Kh3 Rh2+ 3. Kxh2 Ra2+ 4. Kh3 Rh2+ 5. Kxh2 Qb2+ 6. Kh3 Qg2+ 7. Kxg2
+*
+
+[Event "Example 302"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/r2B4/1k1B4/8/8/1K6/8/8 w - - 0 1"]
+[PlyCount "9"]
+
+1. Be5 Rh4 2. Bg3 Rd4 3. Bf2 Raxd7 4. Kc3 Kc5 5. Be3 *
+
+[Event "Example 303"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3r3/8/kp1B2R1/2P1R2P/8/5qPK/8 w - - 0 1"]
+[PlyCount "8"]
+
+1. Rxe7 Qxh4+ 2. Kg1 Qxg5 3. Rxa7+ Kb4 4. Rb7 Qe3+ *
