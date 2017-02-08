@@ -1,5 +1,5 @@
 [Event "Example 1"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -14,7 +14,7 @@
 1... Nb3 2. axb3 Qxa1+ *
 
 [Event "Example 2"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -28,7 +28,7 @@
 1. Ng6+ Kg7 2. Nxe7 1-0
 
 [Event "Example 3"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -41,7 +41,7 @@
 1... Rxf2+ 2. Kxf2 Ne4+ 3. Kf1 Nxg5 *
 
 [Event "Example 4"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -54,7 +54,7 @@
 1... Bxf2+ 2. Kxf2 Ne4+ 3. Kg2 Nxc3 *
 
 [Event "Example 5"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -67,7 +67,7 @@
 1. Qxf5 Qxf5 2. Ne7+ Kh8 3. Nxf5 *
 
 [Event "Example 6"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -80,7 +80,7 @@
 1. Qxc6 Qxc6 2. Ne7+ Kf8 3. Nxc6 *
 
 [Event "Example 7"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -93,7 +93,7 @@
 1. Qh6+ Ke8 2. Ng7+ Ke7 3. Nxe6 1-0
 
 [Event "Example 8"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -106,7 +106,7 @@
 1. Nd6+ Kf8 2. Nxe6+ Kg8 3. Nxc7 *
 
 [Event "Example 9"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -119,7 +119,7 @@
 1. Nf6 *
 
 [Event "Example 10"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -132,7 +132,7 @@
 1... Qh1+ 2. Kxh1 Nxf2+ 3. Kg2 Nxd3 4. cxd3 *
 
 [Event "Example 11"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -145,7 +145,7 @@
 1. Rxg7+ Kxg7 2. Nxe6+ Kf7 3. Nxc7 *
 
 [Event "Example 12"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -159,7 +159,7 @@
 1... Nf4 2. Nf6+ gxf6 3. Bxh7+ Kh8 *
 
 [Event "Example 13"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -172,7 +172,7 @@
 1. Rxb7 Qxb7 2. Qf7+ Kc8 3. Nd6+ *
 
 [Event "Example 14"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -186,7 +186,7 @@
 1... Bxc2 2. Qxc2 Rxf3 3. Kxf3 Nxd4+ 4. Kg2 Nxc2 *
 
 [Event "Example 15"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -199,7 +199,7 @@
 1... Rxb4 2. Rxb4 e1=Q+ 3. Kxe1 Nc2+ 4. Kd2 Nxb4 *
 
 [Event "Example 16"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -212,7 +212,7 @@
 1. Bxg6+ Kxg6 2. Qf5+ Kg7 3. Ne6+ Kg8 4. Nxc7 *
 
 [Event "Example 17"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -225,7 +225,7 @@
 1... Re2 2. Qxe2 Nc3+ 3. Kc1 Nxe2+ *
 
 [Event "Example 18"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -238,7 +238,7 @@
 1... Qxa3+ 2. Kxa3 a1=Q+ 3. Qxa1 Nxc2+ 4. Ka2 Nxa1 *
 
 [Event "Example 19"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -251,7 +251,7 @@
 1... Rxc3 2. bxc3 Ne2+ 3. Kd2 Nxg1 4. Nxg1 Bxe5 *
 
 [Event "Example 20"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -264,7 +264,7 @@
 1. Ng5 Qe8 2. Nxe6+ Ke7 3. Qxe8+ Kxe8 4. Nc7+ Kd8 5. Nxa6 *
 
 [Event "Example 21"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -277,7 +277,7 @@
 1... Rd1+ 2. Kh2 Qb8+ 3. g3 Qxa7 *
 
 [Event "Example 22"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -290,7 +290,7 @@
 1. Nxf7 Rxf7 2. Qxg6+ Kf8 3. Qxd3 *
 
 [Event "Example 23"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -304,7 +304,7 @@
 1... Bxe2 2. Rxe2 Qd3 *
 
 [Event "Example 24"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -318,7 +318,7 @@
 1... Qf5+ 2. Ne4 Nd2+ *
 
 [Event "Example 25"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -331,7 +331,7 @@
 1. Nf6+ gxf6 2. Qg4+ Kh8 3. Qxd7 *
 
 [Event "Example 26"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -344,7 +344,7 @@
 1... Rgf3+ 2. Ke1 Qg1+ 3. Kd2 Qxh2 *
 
 [Event "Example 27"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -357,7 +357,7 @@
 1... Rxa1+ 2. Bxa1 Bxg2+ 3. Kxg2 Qa8+ 4. Kg3 Qxa1 *
 
 [Event "Example 28"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -370,7 +370,7 @@
 1. Rxf8+ Qxf8 2. Qxg6+ Kh8 3. Qh5+ Kg8 4. Qxe2 *
 
 [Event "Example 29"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -383,7 +383,7 @@
 1. Bb5+ c6 2. Bxc6+ bxc6 3. Qxc6+ Qd7 4. Qxa8+ *
 
 [Event "Example 30"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -396,7 +396,7 @@
 1. Bxf5 exf5 2. Qf3 Ne7 3. Qh3 Ng6 4. Qxf5 *
 
 [Event "Example 31"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -409,7 +409,7 @@
 1... Nf2+ 2. Kg1 Nh3+ 3. Kg2 Qe4+ 4. Kxh3 Qxb1 *
 
 [Event "Example 32"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -423,7 +423,7 @@
 1... Bxd4+ 2. Nxd4 Qe1# 0-1
 
 [Event "Example 33"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -436,7 +436,7 @@
 1... Bc4+ 2. Kg1 Bxa6 *
 
 [Event "Example 34"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -449,7 +449,7 @@
 1... Rxd6 2. Rxd6 Be5 3. Rd2 Bxg3 *
 
 [Event "Example 35"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -463,7 +463,7 @@
 1. Rxd7 Qxd7 2. Bxe6+ *
 
 [Event "Example 36"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -476,7 +476,7 @@
 1... e3 2. fxe3 Bxe3+ 3. Rxe3 Rxe3 *
 
 [Event "Example 37"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -489,7 +489,7 @@
 1... Rxb2 2. Rxb2 Bxc3 3. Qc1 Qd4+ 4. Kh1 Bxb2 *
 
 [Event "Example 38"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -502,7 +502,7 @@
 1. Nxc5 dxc5 2. d6 Bxd6 3. Bxb7 *
 
 [Event "Example 39"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -516,7 +516,7 @@
 1. Nxe4 Rxe4 2. Nxc6 bxc6 3. Bxc6 *
 
 [Event "Example 40"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -530,7 +530,7 @@
 1. Ne6+ Rxe6 2. dxe6 Bxe3 3. Qxe3 Bxe6 4. Bxe5+ *
 
 [Event "Example 41"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -543,7 +543,7 @@
 1. Qd2+ Kh7 2. Rd7+ *
 
 [Event "Example 42"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -556,7 +556,7 @@
 1. Ne5 Qxe2 2. Re3 *
 
 [Event "Example 43"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -569,7 +569,7 @@
 1... Rxe4 2. Nxe4 Rxd1+ *
 
 [Event "Example 44"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -582,7 +582,7 @@
 1. Bxe5 Rd8 2. Bxf6 gxf6 3. Rc6 *
 
 [Event "Example 45"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -595,7 +595,7 @@
 1... Ndxe5 2. Bxe5 Bxb1 3. Nxb1 Rd1+ 4. Kh2 Rxb1 *
 
 [Event "Example 46"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -608,7 +608,7 @@
 1... e1=Q+ 2. Kxe1 Nf3+ 3. Kd1 Rd2+ 4. Kc1 Rxd5 0-1
 
 [Event "Example 47"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -621,7 +621,7 @@
 1... Qxf3 2. exf3 f5 *
 
 [Event "Example 48"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -634,7 +634,7 @@
 1. d4 Bxd4 2. Bf4 Qg6 3. Ne7+ *
 
 [Event "Example 49"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -647,7 +647,7 @@
 1... Qd3+ 2. Qxd3 exd3 3. Nb4 d2 *
 
 [Event "Example 50"]
-[Site "?"]
+[Site "The Fork"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -660,7 +660,7 @@
 1. d6 cxd6 2. Bxd6 *
 
 [Event "Example 51"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -673,7 +673,7 @@
 1... Bxe3 *
 
 [Event "Example 52"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -687,7 +687,7 @@
 1. Kd1 *
 
 [Event "Example 53"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -701,7 +701,7 @@
 1... Rf3 *
 
 [Event "Example 54"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -714,7 +714,7 @@
 1. Nxf6 Qxf6 2. Re7+ Kf8 3. Qxf6+ *
 
 [Event "Example 55"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -727,7 +727,7 @@
 1. Rh7+ Ke8 2. Bb5 *
 
 [Event "Example 56"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -740,7 +740,7 @@
 1. Rf1 e4 2. g5 *
 
 [Event "Example 57"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -753,7 +753,7 @@
 1. Rxg7+ Qxg7 2. Rg1 *
 
 [Event "Example 58"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -766,7 +766,7 @@
 1. Qxe5 dxe5 2. Rxd7 *
 
 [Event "Example 59"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -779,7 +779,7 @@
 1. g4+ Rxg4 2. Qf3 *
 
 [Event "Example 60"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -792,7 +792,7 @@
 1... axb2+ 2. Rxb2+ Ka3 *
 
 [Event "Example 61"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -805,7 +805,7 @@
 1. Qc8+ Qe8 2. Qxc7 0-1
 
 [Event "Example 62"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -818,7 +818,7 @@
 1. Qh5+ Kd8 2. Ba5 *
 
 [Event "Example 63"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -831,7 +831,7 @@
 1... Rxf3 2. Rxf3 Qe2+ 3. Qf2 Bxf3+ *
 
 [Event "Example 64"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -844,7 +844,7 @@
 1. Ra8 Rxa8 2. Qxa8+ Kg7 3. Qf8# *
 
 [Event "Example 65"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -857,7 +857,7 @@
 1. Nxc5 Rxc5 2. Qa3 *
 
 [Event "Example 66"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.08.??"]
 [Round "?"]
 [White "Black to move"]
@@ -870,7 +870,7 @@
 1... Bf8 2. Re2 Bb4 3. Re3 Nc2 *
 
 [Event "Example 67"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -883,7 +883,7 @@
 1... Qh3+ 2. Qh2 Qf3+ 3. Rg2 h3 *
 
 [Event "Example 68"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -896,7 +896,7 @@
 1. Bg6 Qxf6 2. Qh7+ Kf8 3. Rf1 *
 
 [Event "Example 69"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -909,7 +909,7 @@
 1... Qxg2+ 2. Qxg2 Rxf1+ 3. Bg1 Kxf7 *
 
 [Event "Example 70"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -922,7 +922,7 @@
 1. Bxf6 Bxf6 2. Bd5 Qc7 3. Qxf6 *
 
 [Event "Example 71"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -935,7 +935,7 @@
 1. gxf5 exf4 2. c5 Nc8 3. c6 *
 
 [Event "Example 72"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -949,7 +949,7 @@
 1. Qxf6 Kh8 2. Rh5+ Kg8 3. Qg6 *
 
 [Event "Example 73"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -962,7 +962,7 @@
 1. Qf8+ Qxf8 2. Rxf8+ Kh7 3. Bd3 1-0
 
 [Event "Example 74"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -976,7 +976,7 @@
 1. Bd1 Rg7 2. fxg4+ Rxg4 3. Rf6 *
 
 [Event "Example 75"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -989,7 +989,7 @@
 4. Bxf5 exf5 5. Rfe1 Be6 6. Rxe6 Qxe6 7. Re1 *
 
 [Event "Example 76"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1002,7 +1002,7 @@
 1. Rc3+ Kd8 2. Rd3 Ke7 3. Rxd5 Ke6 4. Ng4 Rf1+ 5. Rd1 *
 
 [Event "Example 77"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1016,7 +1016,7 @@
 Qxb2 *
 
 [Event "Example 78"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1029,7 +1029,7 @@ Qxb2 *
 1... Bxc5+ 2. bxc5 Qxf4 *
 
 [Event "Example 79"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1042,7 +1042,7 @@ Qxb2 *
 1. Qe1 *
 
 [Event "Example 80"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1055,7 +1055,7 @@ Qxb2 *
 1. Qb4 Rd8 2. Qxf8+ Rxf8 3. Rxb6 *
 
 [Event "Example 81"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1068,7 +1068,7 @@ Qxb2 *
 1... Nxe5 2. Nxe5 Qd6 *
 
 [Event "Example 82"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1081,7 +1081,7 @@ Qxb2 *
 1. Nxd7 Nxd7 2. Qxe6+ Rf7 3. Rxd7 *
 
 [Event "Example 83"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1094,7 +1094,7 @@ Qxb2 *
 1... O-O-O 2. Be3 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nxd4 *
 
 [Event "Example 84"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1107,7 +1107,7 @@ Qxb2 *
 1. e6 fxe6 2. Ne5 Rf4 3. g3 Rf7 4. Nxf7 *
 
 [Event "Example 85"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1120,7 +1120,7 @@ Qxb2 *
 1... Bh6 2. Rxh4 Bxg5 *
 
 [Event "Example 86"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1133,7 +1133,7 @@ Qxb2 *
 1... Nb4+ 2. cxb4 Bxa1 0-1
 
 [Event "Example 87"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1146,7 +1146,7 @@ Qxb2 *
 1... Nb4+ 2. cxb4 Rxh3 *
 
 [Event "Example 88"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1159,7 +1159,7 @@ Qxb2 *
 1... Nb3 2. axb3 Rxa1 *
 
 [Event "Example 89"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1172,7 +1172,7 @@ Qxb2 *
 1. Ra8+ Kg7 2. Ra7 Re1+ 3. Kh2 *
 
 [Event "Example 90"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1185,7 +1185,7 @@ Qxb2 *
 1... Rxc3 2. bxc3 Qxb1+ *
 
 [Event "Example 91"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1198,7 +1198,7 @@ Qxb2 *
 1. Qxd3 e4 2. Qe2 exf3 3. Qxe8+ *
 
 [Event "Example 92"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1211,7 +1211,7 @@ Qxb2 *
 1... Rxc4 2. Rxc4 Bxc4 3. bxc4 Rxb1 *
 
 [Event "Example 93"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1224,7 +1224,7 @@ Qxb2 *
 1. Nxb6 cxb6 2. Rxc8+ Rxc8 3. Rxc8+ Bxc8 4. Qxc8+ *
 
 [Event "Example 94"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1237,7 +1237,7 @@ Qxb2 *
 1. Nxb6 cxb6 2. Qxa6 Rxa6 3. Rxc8+ Kf7 4. R8c7 *
 
 [Event "Diagram 95"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1250,7 +1250,7 @@ Qxb2 *
 1. Qd8+ Kf7 2. Qc7+ Ke6 3. Qc6+ Ke5 4. b4 Be3 5. Qe8+ *
 
 [Event "Example 96"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1263,7 +1263,7 @@ Qxb2 *
 1... Bh3 2. Qxg5 Rf1# 0-1
 
 [Event "Example 97"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1276,7 +1276,7 @@ Qxb2 *
 1... Bh5 2. Bxh5 Qxh2+ 3. Kf1 Qf2# *
 
 [Event "Example 98"]
-[Site "?"]
+[Site "The Pin"]
 [Date "2002.08.19"]
 [Round "?"]
 [White "White to move"]
@@ -1289,7 +1289,7 @@ Qxb2 *
 1. Bd3 Rd5 2. Rh8+ Nh7 3. Rxh7# *
 
 [Event "Example 99"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1302,7 +1302,7 @@ Qxb2 *
 1. Bxh7+ Nxh7 2. Rch1 Nf6 3. Rh8# 1-0
 
 [Event "Example 100"]
-[Site "?"]
+[Site "The Pin"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1315,7 +1315,7 @@ Qxb2 *
 1. Rxe7 Nxe7 2. Qxh7+ Kf8 3. Qh8+ Ng8 4. Qxg7+ Ke8 5. Qf7# *
 
 [Event "Example 101"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1329,7 +1329,7 @@ Qxb2 *
 1. Nd5 *
 
 [Event "Example 102"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1342,7 +1342,7 @@ Qxb2 *
 1. Ngf6+ gxf6 2. Bxf5 *
 
 [Event "Example 103"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1355,7 +1355,7 @@ Qxb2 *
 1... Nd3+ 2. Kf1 Rxd8 *
 
 [Event "Example 104"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1368,7 +1368,7 @@ Qxb2 *
 1. Nh6+ Kh8 2. Qxd7 *
 
 [Event "Example 105"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1381,7 +1381,7 @@ Qxb2 *
 1... Bxf2+ 2. Kxf2 Ng4+ *
 
 [Event "Example 106"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1394,7 +1394,7 @@ Qxb2 *
 1... Nd3+ 2. Kxe2 Rxb2+ *
 
 [Event "Example 107"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1407,7 +1407,7 @@ Qxb2 *
 1... Ne4 2. Rb1 Nc3 3. Qc2 Nxb1 *
 
 [Event "Example 108"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1420,7 +1420,7 @@ Qxb2 *
 1. Nd6+ Rxd6+ 2. cxd6 Bxf3 3. d7 *
 
 [Event "Example 109"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1433,7 +1433,7 @@ Qxb2 *
 1. Nd6 Nxd6 2. Qg5# 1-0
 
 [Event "Example 110"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1446,7 +1446,7 @@ Qxb2 *
 1. Ne7+ Bxe7 2. Bxe6+ Rf7 3. Qxf7+ Kh8 4. Qh5# *
 
 [Event "Example 111"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1460,7 +1460,7 @@ Qxb2 *
 Ke6 7. Rh6+ Kd7 8. Nxc1 *
 
 [Event "Example 112"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1474,7 +1474,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1... Bg1 *
 
 [Event "Example 113"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1487,7 +1487,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1... Bh2+ 2. Kxh2 Rxe1 *
 
 [Event "Example 114"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1500,7 +1500,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1... Nxd5 2. Qxd5 Bb5 *
 
 [Event "Example 115"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1513,7 +1513,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1... Qd8 2. Kxe2 Ba6+ 3. Ke1 Qxa8 *
 
 [Event "Example 116"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1526,7 +1526,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1. Bb5+ c6 2.  Qxd8# 1-0
 
 [Event "Example 117"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1539,7 +1539,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1... Qe8 2. Kxe2 Bb8+ 3. Re3 Bxa7 *
 
 [Event "Example 118"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1553,7 +1553,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 1. e6 f6 2. Bf8 Rxf8 3. Rxd8 Rxd8 4. e7 *
 
 [Event "Example 119"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1567,7 +1567,7 @@ Ke6 7. Rh6+ Kd7 8. Nxc1 *
 Bd5 *
 
 [Event "Example 120"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1580,7 +1580,7 @@ Bd5 *
 1... Rc3+ 2. Kd2 Rd3+ 3. Kc1 Rxd4 *
 
 [Event "Example 121"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1593,7 +1593,7 @@ Bd5 *
 1... Bb5 2. Kg2 Rc2 *
 
 [Event "Example 122"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1606,7 +1606,7 @@ Bd5 *
 1... Rxf2 2. g3 Rf7+ *
 
 [Event "Example 123"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1619,7 +1619,7 @@ Bd5 *
 1... Rc2+ 2. Kd1 Rc7+ 3. Kd2 Rxh7 *
 
 [Event "Example 124"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1632,7 +1632,7 @@ Bd5 *
 1. Re7+ Kf8 2. Bg7+ Kg8 3. Nf6# 1-0
 
 [Event "Example 125"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1645,7 +1645,7 @@ Bd5 *
 1... Rxc4 2. Qxc4 b5 *
 
 [Event "Example 126"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1658,7 +1658,7 @@ Bd5 *
 1... Rxe4+ 2. Kxe4 f2+ 3. Ke3 f1=Q *
 
 [Event "Example 127"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1671,7 +1671,7 @@ Bd5 *
 1. d7+ Ka8 2. Rc8+ Rxc8 3. dxc8=Q# *
 
 [Event "Example 128"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1684,7 +1684,7 @@ Bd5 *
 1. dxe6 Bxf4 2. e7+ Bf7 3. Qxd8 *
 
 [Event "Example 129"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1697,7 +1697,7 @@ Bd5 *
 1... Rf2 2. Qxf2 e3+ 3. Kg1 exf2+ *
 
 [Event "Example 130"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1711,7 +1711,7 @@ Bd5 *
 Qf7+ Kh8 8. Bd4# *
 
 [Event "Example 131"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1724,7 +1724,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qh4+ g5 2. Qxg5+ Kf7 3. Qxd8 *
 
 [Event "Example 132"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1737,7 +1737,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Be5+ Kxe5 2. Qf4+ Ke6 3. Qxc7 *
 
 [Event "Example 133"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1750,7 +1750,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qb5+ Qxb5 2. e8=Q+ Kd6 3. Qxb5 *
 
 [Event "Example 134"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1763,7 +1763,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qd6+ Kf5 2. Rxf7+ Ke4 3. Qxc6+ 1-0
 
 [Event "Example 135"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1776,7 +1776,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nd8 g5 2. h5 g4 3. Rf7+ Kg5 4. Rxf2 *
 
 [Event "Example 136"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1789,7 +1789,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rh6+ Ke5 2. Re6+ Kf5 3. Rxe4 *
 
 [Event "Example 137"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1802,7 +1802,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rc8+ Rxc8 2. a8=Q Rxa8 3. Rxa8+ Ke7 4. Rxh8 *
 
 [Event "Example 138"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1815,7 +1815,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qf4+ 2. Ke1 Qf1+ 3. Kd2 Qe2+ 4. Kc3 Qxa2 *
 
 [Event "Example 139"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1828,7 +1828,7 @@ Qf7+ Kh8 8. Bd4# *
 1. e6+ Kf8 2. Qxh8+ Bxh8 3. Rxh8+ Kg7 4. Rxe8 *
 
 [Event "Example 140"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1841,7 +1841,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Re2+ Kf1 2. Re1+ Kf2 3. R6e2+ Kf3 4. Re3+ Kg4 5. Rxh3 *
 
 [Event "Example 141"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1854,7 +1854,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Re2+ Kf1 2. Re1+ Kf2 3. R7e2+ Kf3 4. Rf1+ Kxe2 5. Rxf8 *
 
 [Event "Example 142"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1867,7 +1867,7 @@ Qf7+ Kh8 8. Bd4# *
 1. f6 Qxd7 2. Qxh7+ Ke6 3. Qxd7+ Kxd7 4. g4 Ke6 5. g5 1-0
 
 [Event "Example 143"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1880,7 +1880,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qh3 *
 
 [Event "Example 144"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1893,7 +1893,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rxd3 Qxd3 2. Rd1 Qc4 3. Rxd8+ *
 
 [Event "Example 145"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1906,7 +1906,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Be3 Qxb2 2. Rb1 Qc3 3. Bxc5 *
 
 [Event "Example 146"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1919,7 +1919,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Bg5 Rxd5 2. Bxe7 Ra5 3. Rd1 *
 
 [Event "Example 147"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1933,7 +1933,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Nxh2 2. Qxh5 Rxf1+ 3. Kxh2 gxh5 *
 
 [Event "Example 148"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1946,7 +1946,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nf6+ Kg7 2. Nxd7 Rxd7 3. Bxf5 *
 
 [Event "Example 149"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1959,7 +1959,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Ra1 Bc5 2. Bxc6 Nxc6 3. Rc1 *
 
 [Event "Example 150"]
-[Site "?"]
+[Site "Discoveries and Skewers"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1972,7 +1972,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nf3 Qxd1 2. Rxd1 Re6 3. e5 Bxe5 4. Nxe5 Rxe5 5. Rxd7 *
 
 [Event "Example 151"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -1985,7 +1985,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nb6+ axb6 2. Ra3# *
 
 [Event "Example 152"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -1998,7 +1998,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qxf4+ 2. Kxf4 Bh6# *
 
 [Event "Example 153"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2011,7 +2011,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Bg5+ Kg8 2. Qh8+ *
 
 [Event "Example 154"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2024,7 +2024,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qxe6+ fxe6 2. Bg6# *
 
 [Event "Example 155"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2037,7 +2037,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qf3+ 2. Kh4 Qg3# *
 
 [Event "Example 156"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2050,7 +2050,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qxh7+ Nxh7 2. Nf7# *
 
 [Event "Example 157"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2063,7 +2063,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Kf4 g5+ 2. Kf3 *
 
 [Event "Example 158"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2076,7 +2076,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qxf2+ 2. Rxf2 Re1+ 3. Rf1 Rexf1# 0-1
 
 [Event "Example 159"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2089,7 +2089,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rg7+ Kf2 2. Rf7+ Kg1 3. Re1# *
 
 [Event "Example 160"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2102,7 +2102,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rd8+ Rxd8 2. Qf8+ Rxf8 3. Ne7# *
 
 [Event "Example 161"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2115,7 +2115,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qxb2+ 2. Rxb2 Re1+ 3. Qd1 Rxd1# *
 
 [Event "Example 162"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2128,7 +2128,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rxg7+ Kxg7 2. Qf7+ Kh8 3. Qh7# *
 
 [Event "Example 163"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2141,7 +2141,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Ng6+ hxg6 2. Qh3+ Qh4 3. Qxh4# *
 
 [Event "Example 164"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2154,7 +2154,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rxg6+ Kh5 2. Qe5+ *
 
 [Event "Example 165"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2167,7 +2167,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qxh7+ Ke6 2. Qg6+ Bxg6 3. Rf6# *
 
 [Event "Example 166"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2180,7 +2180,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rf5 exf5 2. Nxf5 *
 
 [Event "Example 167"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2193,7 +2193,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qg8+ Rxg8 2. Nxg6+ Kh7 3. Ne5+ Kh8 4. Nf7# *
 
 [Event "Example 168"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2206,7 +2206,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qh4+ 2. Kg1 Bh2+ 3. Kh1 Bg3+ 4. Kg1 Qh2# *
 
 [Event "Example 169"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2219,7 +2219,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qg6+ fxg6 2. Bg8+ Kh8 3. Bf7+ Kh7 4. Bxg6# *
 
 [Event "Example 170"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2232,7 +2232,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Bxh7+ Rxh7 2. Rxh7 Kxh7 3. Qh8+ Kg6 4. Qh5# *
 
 [Event "Example 171"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2245,7 +2245,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nf7+ Kg8 2. Nh6+ Kh8 3. Qg8+ Rxg8 4. Nf7# *
 
 [Event "Example 172"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2258,7 +2258,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qxf6+ Rg7 2. Qf8+ Qxf8 3. exf8=Q+ Rg8 4. Be5# *
 
 [Event "Example 173"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2271,7 +2271,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qe3+ 2. Kh1 Nf2+ 3. Kg1 Nd1+ 4. Kh1 Qe1# *
 
 [Event "Example 174"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2284,7 +2284,7 @@ Qf7+ Kh8 8. Bd4# *
 1. g4+ fxg4+ 2. Nxg4+ Qxb5 3. Nf6# *
 
 [Event "Example 175"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2298,7 +2298,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Bf8 2. Bd7 Kxd7 3. d4 Rg8 4. Bg5 Rxg5 *
 
 [Event "Example 176"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2311,7 +2311,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qh1+ 2. Ke2 Bc4+ 3. Ke3 Qf3+ 4. Kd4 Qd3+ 5. Ke5 Qd5# 0-1
 
 [Event "Example 177"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2324,7 +2324,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qd6+ 2. g3 Qd2+ 3. Be2 Qxe2+ 4. Qf2 Qxf2# *
 
 [Event "Example 178"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2338,7 +2338,7 @@ Qf7+ Kh8 8. Bd4# *
 7. g6+ Kxf6 8. Kh6 c2 9. g7 c1=Q+ *
 
 [Event "Example 179"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2351,7 +2351,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qe2 2. Rxe2 Rf1# *
 
 [Event "Example 180"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2364,7 +2364,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qh4+ Kg8 2. Qf6 *
 
 [Event "Example 181"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2377,7 +2377,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Ne6 fxe6 2. Qxg7# *
 
 [Event "Example 182"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2390,7 +2390,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Rf2+ 2. Ke4 d5+ 3. Rxd5 exd5+ *
 
 [Event "Example 183"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2403,7 +2403,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qh7 Nxh7 2. Rxf7# *
 
 [Event "Example 184"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2416,7 +2416,7 @@ Qf7+ Kh8 8. Bd4# *
 1... f3 2. Qxf3 Rxf3 *
 
 [Event "Example 185"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2429,7 +2429,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Bxh3 2. Qh2 Rxg2 3. Qxd6 Rxa2 *
 
 [Event "Example 186"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2442,7 +2442,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Rd4+ 2. Kg5 Nf6 3. f4 Ne4+ 4. Kg4 Nxd6 0-1
 
 [Event "Example 187"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "2002.08.29"]
 [Round "?"]
 [White "White to move"]
@@ -2455,7 +2455,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nxe7+ Rxe7 2. Bxf6 gxf6 3. Ra8+ Re8 4. Rxe8# *
 
 [Event "Example 188"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2468,7 +2468,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rh8+ Kg7 2. f4 Bxc3 3. Qxc3+ f6 4. Qxf6# *
 
 [Event "Example 189"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2481,7 +2481,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qh4 f6 2. Rxf8+ Kg7 3. Qxh7+ Kxf8 4. Qh8# *
 
 [Event "Example 190"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2494,7 +2494,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rd1 Qxc2 2. Qa8+ Ke7 3. Qxb7+ Ke6 4. Qd7# *
 
 [Event "Example 191"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2507,7 +2507,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rxg6+ fxg6 2. Qxg6+ Bg7 3. Qxe6+ Kh8 4. Rxh4+ *
 
 [Event "Example 192"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2520,7 +2520,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nb5 cxb5 2. Bxb5+ Bd7 3. Bxd7+ Kd8 4. Bc8+ *
 
 [Event "Example 193"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2533,7 +2533,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Rxh6+ gxh6 2. Qxh6+ Kg8 3. Qxg6+ Kh8 4. Bxf7 Rxf7 5. Qxf7 *
 
 [Event "Example 194"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2546,7 +2546,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Qb6+ 2. Kh1 Qf6 3. Rxh7 Qf1+ 4. Qg1 Qf3+ 5. Qg2 Qxg2# *
 
 [Event "Example 195"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2559,7 +2559,7 @@ Qf7+ Kh8 8. Bd4# *
 1... Nxh3+ 2. Kg2 Nf4+ 3. Kg1 Ne2+ 4. Qxe2 Qh2+ 5. Kf1 Qh1# *
 
 [Event "Example 196  "]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2573,7 +2573,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Qb3+ Ka5 2. Rxc6 Qxb3 3.  axb3+ Kb5 4. Nd4+ Kb4 5. Rc4# *
 
 [Event "Example 197"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2587,7 +2587,7 @@ Qf7+ Kh8 8. Bd4# *
 6. Rf1 Rfxf1# *
 
 [Event "Example 198"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2600,7 +2600,7 @@ Qf7+ Kh8 8. Bd4# *
 1. Nxe5 Nxe5 2. Rxf8+ Kxf8 3. Qf4+ Nf7 4. Rf1 *
 
 [Event "Example 199"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2615,7 +2615,7 @@ Qf7+ Kh8 8. Bd4# *
 Re6 *
 
 [Event "Example 200"]
-[Site "?"]
+[Site "The Mating Attack"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2629,7 +2629,7 @@ Re6 *
 Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 
 [Event "Example 201"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2642,7 +2642,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Nd5 Nxd5 2. Rxe8+ *
 
 [Event "Example 202"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2655,7 +2655,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Rxd7 Qxd7 2. Bxf6 Bxf6 3. Qxf6 *
 
 [Event "Example 203"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2668,7 +2668,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Rxf1+ 2. Kxf1 Qf2# 0-1
 
 [Event "Example 204"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move "]
@@ -2681,7 +2681,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Ne4 Qxe4 2. Qxe4 Nxe4 3. Bxd5+ *
 
 [Event "Example 205"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2694,7 +2694,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Rxe6 Rxe6 2. Qf7+ Kd6 3. Qxg8 *
 
 [Event "Example 206"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2707,7 +2707,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Qb6+ 2. Qxb6 Bxb6+ 3. Kh2 Rxd7 *
 
 [Event "Example 207"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2720,7 +2720,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Nxb4 axb4 2. Bxd5+ Kg7 3. Bxa8 *
 
 [Event "Example 208"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2733,7 +2733,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Bxd7 Kxd7 2. Qb7+ Kd8 3. Qxb8+ *
 
 [Event "Example 209"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2746,7 +2746,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Rxe7 Qxe7 2. Qg6+ Kh8 3. Qxh6# *
 
 [Event "Example 210"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2759,7 +2759,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Rxe6 fxe6 2. Qxg7 Rf8 3. Nc7+ *
 
 [Event "Example 211"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2772,7 +2772,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. f6 Qxf6 2. Qxf6+ Nxf6 3. Rxh4+ *
 
 [Event "Example 212"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2785,7 +2785,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Bxc6 bxc6 2. Rxh7+ Qxh7 3. Qxf6+ *
 
 [Event "Example 213"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2798,7 +2798,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Rxc6 2. Rxc6 Rxg2+ 3. Kh3 Kf3 *
 
 [Event "Example 214"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2811,7 +2811,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Nxe5 Nxe5 2. Qxd6 cxd6 3. Be7 *
 
 [Event "Example 215"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2824,7 +2824,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Rxc3 2. Qxc3 Bb5+ 3. Ke1 Bb4 0-1
 
 [Event "Example 216"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2837,7 +2837,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Nxd7 Qxd7 2. Ne4 Rd5 3. Nxd6 *
 
 [Event "Example 217"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2850,7 +2850,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Bxb3 2. Nxb3 Nd4+ 3. Nxd4 cxd4 4. Bxb4 Bxb4 *
 
 [Event "Example 218"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2863,7 +2863,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1... Nxd2+ 2. Bxd2 Qxe2 3. Bxe2 Rxe2 4. Rxe2 Bxd3+ 5. Kc1 Bxe2 *
 
 [Event "Example 219"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2876,7 +2876,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 1. Rxc8 Rxc8 2. Rd8+ Re8 3. Rxe8+ Rxe8 4. Nd5 Kf7 5. Nb6 *
 
 [Event "Example 220"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2891,7 +2891,7 @@ Rh2+ 7. Kf1 Nd2+ 8. Ke1 Rh1# *
 Kb8 7. Nxd4 *
 
 [Event "Example 221"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2904,7 +2904,7 @@ Kb8 7. Nxd4 *
 1. Bxa6 Qxa6 2. Qxc5 *
 
 [Event "Example 222"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2918,7 +2918,7 @@ Kb8 7. Nxd4 *
 1... Rxc2 2. Qxc2 Qxh4+ 3. Kg1 Qxe1+ *
 
 [Event "Example 223"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2931,7 +2931,7 @@ Kb8 7. Nxd4 *
 1... Rxd1+ 2. Rxd1 Qxc3 *
 
 [Event "Example 224"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -2944,7 +2944,7 @@ Kb8 7. Nxd4 *
 1... fxe4 2. Qxe4 Nxe2+ 3. Kf1 Bxd5 *
 
 [Event "Example 225"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2957,7 +2957,7 @@ Kb8 7. Nxd4 *
 1. Qf6 Qxd4 2. Qxd4 Rxd4 3. Re8# *
 
 [Event "Example 226"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2970,7 +2970,7 @@ Kb8 7. Nxd4 *
 1. Bxc7 Qxc7 2. Rxe6 fxe6 3. Qxg6+ *
 
 [Event "Example 227"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2983,7 +2983,7 @@ Kb8 7. Nxd4 *
 1. Rxf5 gxf5 2. Qh8+ Kf7 3. Bh5# *
 
 [Event "Example 228"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -2996,7 +2996,7 @@ Kb8 7. Nxd4 *
 1. Nxg6+ fxg6 2. Rxe6 Kf7 3. Rxf6+ Kxf6 4. Be5+ Kf7 5. Bxh8 *
 
 [Event "Example 229"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3009,7 +3009,7 @@ Kb8 7. Nxd4 *
 1. Bxc7 Nxe4 2. fxe4 Rxc7 3. Rd8+ Qe8 4. Rxe8# *
 
 [Event "Example 230"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3022,7 +3022,7 @@ Kb8 7. Nxd4 *
 1. Be7 Re8 2. Bxc5 Rxe3 3. Bxe3 *
 
 [Event "Example 231"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3035,7 +3035,7 @@ Kb8 7. Nxd4 *
 1... Rd1+ 2. Rxd1 Nxb4 *
 
 [Event "Example 232"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3048,7 +3048,7 @@ Kb8 7. Nxd4 *
 1. Bd6 Bxd6 2. Qg7# *
 
 [Event "Example 233"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3061,7 +3061,7 @@ Kb8 7. Nxd4 *
 1. Qxf8+ Rxf8 2. Rxe2 *
 
 [Event "Example 234"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3074,7 +3074,7 @@ Kb8 7. Nxd4 *
 1. Rc8+ Rxc8 2. Rxc8+ Kxc8 3. Qxd4 *
 
 [Event "Example 235  "]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3088,7 +3088,7 @@ Kb8 7. Nxd4 *
 1. Bf4 Qg7 2. Be5 *
 
 [Event "Example 236"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3101,7 +3101,7 @@ Kb8 7. Nxd4 *
 1... Bb5 2. Qxb5 Qxe4+ *
 
 [Event "Example 237"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3114,7 +3114,7 @@ Kb8 7. Nxd4 *
 1. Nf7+ Rxf7 2. Bxf7 Qxf7 3. Qd8+ Ne8 4. Qxe8+ Qxe8 5.  Nxe8 1-0
 
 [Event "Example 238"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3127,7 +3127,7 @@ Kb8 7. Nxd4 *
 1. Qe5 Rd8 2. Rd7+ Rxd7 3. Qxb8 *
 
 [Event "Example 239"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3140,7 +3140,7 @@ Kb8 7. Nxd4 *
 1... e3+ 2. Kxe3 Rxe1 3. Kxd4 Rd1+ 4. Ke3 e1=Q+ *
 
 [Event "Example 240"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3153,7 +3153,7 @@ Kb8 7. Nxd4 *
 1... Bc4 2. Qxc4 Qd1+ 3. Qf1 Bxf2+ 4. Kh1 Qxf1# *
 
 [Event "Example 241"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3166,7 +3166,7 @@ Kb8 7. Nxd4 *
 1... Be6 2. Nd5 Nxe4 *
 
 [Event "Example 242"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3179,7 +3179,7 @@ Kb8 7. Nxd4 *
 1. Re7+ Rxe7 2. Rxe7+ Kh6 3. Qxf6 *
 
 [Event "Example 243"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3192,7 +3192,7 @@ Kb8 7. Nxd4 *
 1. Ne2 Rxe4 2. Qf5+ Kh8 3. Rg8# *
 
 [Event "Example 244"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3205,7 +3205,7 @@ Kb8 7. Nxd4 *
 1. Bxe5 Bxe5 2. b4 Rc4 3. Nxe5 *
 
 [Event "Example 245"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3218,7 +3218,7 @@ Kb8 7. Nxd4 *
 1. Nxe6 Nxg4 2. Ne7+ Kh8 3. Nxf8 *
 
 [Event "Example 246"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3231,7 +3231,7 @@ Kb8 7. Nxd4 *
 1. Nc6 Rd5 2. e4 fxe4 3. fxe4 Rxd1 4. Kxd1 *
 
 [Event "Example 247"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3244,7 +3244,7 @@ Kb8 7. Nxd4 *
 1... Nc6 2. Qb6 Qa3+ 3. Rb3 Qc1+ 4. Kd3 Bxc4# 0-1
 
 [Event "Example 248"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3257,7 +3257,7 @@ Kb8 7. Nxd4 *
 1... g6 2. Nxf6 Nf5+ 3. Kh2 Nxe3 4. Nxh7 Nxd1 *
 
 [Event "Example 249"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3270,7 +3270,7 @@ Kb8 7. Nxd4 *
 1. Nc7+ Kd7 2. Qxg5 Bxg5 3. Rxf8 Kxc7 4. Rxf7+ Bd7 5. Rxg7 *
 
 [Event "Example 250"]
-[Site "?"]
+[Site "Undermining the Defense"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3283,7 +3283,7 @@ Kb8 7. Nxd4 *
 1... Rxf7 2. Bxf7 Ne5 3. Rc3 Rxc3 4. bxc3 Nxf7 5. Qxf7 Qxg3 *
 
 [Event "Example 251"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3296,7 +3296,7 @@ Kb8 7. Nxd4 *
 1. Qb4 *
 
 [Event "Example 252"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3309,7 +3309,7 @@ Kb8 7. Nxd4 *
 1. Re6 *
 
 [Event "Example 253"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3323,7 +3323,7 @@ Kb8 7. Nxd4 *
 1. Qh1 *
 
 [Event "Example 254"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3336,7 +3336,7 @@ Kb8 7. Nxd4 *
 1... Be4 2. Rxd6 Rh1# 0-1
 
 [Event "Example 255"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3349,7 +3349,7 @@ Kb8 7. Nxd4 *
 1... Qg3 *
 
 [Event "Example 256"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3363,7 +3363,7 @@ Kb8 7. Nxd4 *
 1... Nh5 2. Bxh5 Qxh6 *
 
 [Event "Example 257"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3376,7 +3376,7 @@ Kb8 7. Nxd4 *
 1... Qd3 2. Be2 Qb1+ 3. Kg2 Kxe8 *
 
 [Event "Example 258"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3389,7 +3389,7 @@ Kb8 7. Nxd4 *
 1. Rd2 Rxd2 2. Bxd2 Qb6 3. fxg7 *
 
 [Event "Example 259"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3402,7 +3402,7 @@ Kb8 7. Nxd4 *
 1... Qb6 2. O-O-O Qxf6 3. Rxg7+ Bxg7 *
 
 [Event "Example 260"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3416,7 +3416,7 @@ Kb8 7. Nxd4 *
 1. Qf3 Rb8 2. Rd1 Nd7 3. Qxf8+ Nxf8 4. Rxd4+ *
 
 [Event "Example 261"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3430,7 +3430,7 @@ Kb8 7. Nxd4 *
 Qc6+ 7. Qe4 Qxd7 8. Rh8# 1-0
 
 [Event "Example 262"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3444,7 +3444,7 @@ Qc6+ 7. Qe4 Qxd7 8. Rh8# 1-0
 Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 
 [Event "Example 263"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3457,7 +3457,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Nc5 2. Qa7 Ra8 *
 
 [Event "Example 264"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3470,7 +3470,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Bg5 Qd4 2. Ne2 *
 
 [Event "Example 265"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3483,7 +3483,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. g4 Qc2 2. Rd2 *
 
 [Event "Example 266"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3496,7 +3496,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. b4 Qc8 2. Ne7+ *
 
 [Event "Example 267"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3509,7 +3509,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... d4 2. cxd4 cxd4 *
 
 [Event "Example 268"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3522,7 +3522,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Qg6 Rh7 2. Qe8+ Bf8 3. Qxf8# 1-0
 
 [Event "Example 269"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3535,7 +3535,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Qc5 Rxb7 2. Qc6+ Ke7 3. Qxb7+ *
 
 [Event "Example 270"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3548,7 +3548,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Ra4 Nxa5 2. Qxa6 bxa6 3.  Rxa5 *
 
 [Event "Example 271"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3561,7 +3561,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Ne4+ 2. Kg2 f5 3. Qe1 Bb4 *
 
 [Event "Example 272"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3574,7 +3574,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Nd5 Qa4 2. axb3 Qxb3 3. Ra3 *
 
 [Event "Example 273"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3587,7 +3587,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Ra4 a6 2. Bc1 axb5 3. Rxa8 Qc3 4. Bxb5 *
 
 [Event "Example 274"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3600,7 +3600,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... b4 2. Bd4 g4 *
 
 [Event "Example 275"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3613,7 +3613,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. g4 hxg4 2. h5 *
 
 [Event "Example 276"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3626,7 +3626,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Rxh5+ 2. Rxh5 Rh6 *
 
 [Event "Example 277"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3639,7 +3639,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Nxb5 2. axb5 a4 *
 
 [Event "Example 278"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3652,7 +3652,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Qxe6+ Qxe6 2. d7 Qxd7 3. Rxd7 *
 
 [Event "Example 279"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3665,7 +3665,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Bxg6 hxg6 2. Bxd8 Kxd8 3. h7 *
 
 [Event "Example 280"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3678,7 +3678,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Re3+ 2. Kxe3 Bc5+ 3. Kd3 Bxa7 4. Kc2 a1=Q *
 
 [Event "Example 281"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3691,7 +3691,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Qa6+ 2. c4 Qxa2 3. Rxa2 bxa2 *
 
 [Event "Example 282"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3704,7 +3704,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Rd8 2. Rd3 Rxd3 3. cxd3 Be2 *
 
 [Event "Example 283"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3717,7 +3717,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. e7+ Kxd7 2. Kf7 Bc4+ 3. Kf8 *
 
 [Event "Example 284"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3730,7 +3730,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Rxd2 Qb4 2. Qxf8+ Qxf8 3. Rc2 1-0
 
 [Event "Example 285"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3743,7 +3743,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. c6+ Kb6 2. Rxa6+ Nxa6 3. Rxa6+ Kxa6 4. c7 *
 
 [Event "Example 286"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3756,7 +3756,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Kxc4 2. dxe5 Kb5 3. e6 Kc6 4. e5 g5 *
 
 [Event "Example 287"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3769,7 +3769,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Qf2 Qxf2 2. Ra8+ Kxa8 1/2-1/2
 
 [Event "Example 288"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3782,7 +3782,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Qxc4 2. dxc4 a5 3. c5 *
 
 [Event "Example 289"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3795,7 +3795,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. h8=Q+ Ke4 2. Qh1+ Qxh1 *
 
 [Event "Example 290"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3808,7 +3808,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Bc6+ 2. Qxc6 Rg1+ 3. Kxg1 *
 
 [Event "Example 291"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3821,7 +3821,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1... Rxf2+ 2. Kxf2 Qxe3+ 3. Kxe3 *
 
 [Event "Example 292"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3834,7 +3834,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Ka1 Kxc3 *
 
 [Event "Example 293"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3847,7 +3847,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. h3 Nd6 2. Rh7+ Kg8 3. Rg7+ Kf8 4. Rf7+ Ke8 5. Re7+ Kd8 6. Rd7+ Kxd7 *
 
 [Event "Example 294"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3860,7 +3860,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Qxe4+ Kxe4 2. f3+ gxf3+ 3. Kf2 Ke5 4. Kxf3 *
 
 [Event "Example 295"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "2002.09.11"]
 [Round "?"]
 [White "White to move"]
@@ -3873,7 +3873,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Ne5 Rd6 2. Nf7+ Kg6 3. Ne5+ Kh6 4. Nf7+ Kg6 5. Ne5+ Kh6 *
 
 [Event "Example 296"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3886,7 +3886,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 1. Nd7 Bxd7 2. Qf7+ Kh8 3. Qf8+ Kh7 4. Qf7+ Kh8 5. Qf8+ Kh7 6. Qf7+ *
 
 [Event "Example 297"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3900,7 +3900,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 6. Rh8+ Kf7 *
 
 [Event "Example 298"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3914,7 +3914,7 @@ Ke7 7. Qxg7+ Ke8 8. Qf7# 1-0
 Rd1+ *
 
 [Event "Example 299"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3927,7 +3927,7 @@ Rd1+ *
 1. Qe8+ Kh7 2. Ng5+ hxg5 3. Qh5+ Kg8 4. Qe8+ Kh7 5. Qh5+ Kg8 6. Qe8+ Kh7 *
 
 [Event "Example 300"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3941,7 +3941,7 @@ Rd1+ *
 7. Kh3 Qh6+ 8. Kg2 Qd2+ *
 
 [Event "Example 301"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "Black to move"]
@@ -3955,7 +3955,7 @@ Rd1+ *
 *
 
 [Event "Example 302"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
@@ -3968,7 +3968,7 @@ Rd1+ *
 1. Be5 Rh4 2. Bg3 Rd4 3. Bf2 Raxd7 4. Kc3 Kc5 5. Be3 *
 
 [Event "Example 303"]
-[Site "?"]
+[Site "Assorted Tactics"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "White to move"]
