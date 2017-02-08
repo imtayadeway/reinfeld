@@ -1,5 +1,5 @@
 [Event "PROBLEMS OPENING"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "001 XXXXXXXXXXXXXXXXXXXXXXXXX"]
@@ -13,7 +13,7 @@
  *
 
 [Event "Moscow-ch"]
-[Site "Moscow"]
+[Site "The Opening"]
 [Date "1946.??.??"]
 [Round "?"]
 [White "002 Bondarevsky, Igor"]
@@ -33,7 +33,7 @@ Nd2 a5 35. Kf2 Nd4 36. Bxd4 cxd4 37. Ke2 Kxf6 38. Kd3 Ke5 39. Kc2 a4 40. bxa4
 c5 41. a5 c4 42. a6 d3+ 0-1
 
 [Event "Candidats sf1"]
-[Site "Linares"]
+[Site "The Opening"]
 [Date "1992.??.??"]
 [Round "8"]
 [White "003 Short, Nigel"]
@@ -52,7 +52,7 @@ Qb8 22. Bxd5 Rxb2 23. Qc4 Rc2 24. Qg4 Qc7 25. Nd4 Rc3 26. Nc6 Re8 27. Bd4 Rc2
 fxe8=Q Bxe8 35. Bxc5 Bxc5 36. Qe6 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "0041 Avance ...g5"]
@@ -66,7 +66,7 @@ fxe8=Q Bxe8 35. Bxc5 Bxc5 36. Qe6 1-0
 Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. Bd3 b6 12. O-O g5 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "0042 Avance ...g5"]
@@ -80,7 +80,7 @@ Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. Bd3 b6 12. O-O g5 *
 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 
 [Event "North Bay"]
-[Site "?"]
+[Site "The Opening"]
 [Date "1997.??.??"]
 [Round "?"]
 [White "005 Winterton"]
@@ -93,7 +93,7 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. Qd3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "006"]
@@ -106,7 +106,7 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 1. e4 d5 2. exd5 Nf6 3. c4 c6 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "007"]
@@ -119,7 +119,7 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 1. d4 f5 2. Nf3 Nf6 3. Bf4 e6 4. e3 b6 5. Bd3 Bb7 6. Nbd2 Be7 7. O-O *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "008"]
@@ -132,7 +132,7 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O 7. Nge2 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "009"]
@@ -146,7 +146,7 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 Ne7 9. Ne1 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "010"]
@@ -159,7 +159,7 @@ Ne7 9. Ne1 *
 1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "011"]
@@ -174,7 +174,7 @@ Ne7 9. Ne1 *
 Nc4 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "012"]
@@ -187,7 +187,7 @@ Nc4 *
 1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. d3 d6 6. Bg2 f5 7. O-O Nf6 8. Rb1 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "013"]
@@ -201,7 +201,7 @@ Nc4 *
 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "014"]
@@ -218,7 +218,7 @@ Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Be2 e5 12. Bb2 Rd8 13. Qc2 Bg4 14. dxe5 Nxe5
 Qa4 28. Bd1 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "015"]
@@ -232,7 +232,7 @@ Qa4 28. Bd1 1-0
 Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "016"]
@@ -246,7 +246,7 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 1. f3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "017"]
@@ -260,7 +260,7 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "018"]
@@ -274,7 +274,7 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 1. Be3 Bxe3 2. fxe3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "020"]
@@ -288,7 +288,7 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 e5 *
 
 [Event "Corr Golden knights"]
-[Site "?"]
+[Site "The Opening"]
 [Date "1997.??.??"]
 [Round "?"]
 [White "021 Suveg"]
@@ -303,7 +303,7 @@ Bxc3 9. bxc3 Nxc5 10. Nd4 Qe7 11. Be5 Ng4 12. Bg3 O-O 13. c4 Nxd3 14. cxd3 e5
 15. Nf3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "022"]
@@ -317,7 +317,7 @@ Bxc3 9. bxc3 Nxc5 10. Nd4 Qe7 11. Be5 Ng4 12. Bg3 O-O 13. c4 Nxd3 14. cxd3 e5
 Bg4 9. d3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. Nf1 Qc7 13. Ng3 Nc6 14. h3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "023"]
@@ -331,7 +331,7 @@ Bg4 9. d3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. Nf1 Qc7 13. Ng3 Nc6 14. h3 *
 O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "024"]
@@ -344,7 +344,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1. c4 g6 2. g3 f5 3. d4 Bg7 4. Bg2 d6 5. d5 c5 6. Nh3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "025 Caro-Kann"]
@@ -357,7 +357,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "026 Alapin Sicilian"]
@@ -370,7 +370,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1. e4 c5 2. c3 d5 3. d3 Nc6 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "027 Queen Indian"]
@@ -383,7 +383,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "028 Colle"]
@@ -396,7 +396,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Nbd2 c5 5. c3 Nc6 6. Bd3 Be7 7. O-O O-O *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "029"]
@@ -410,7 +410,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 1... Bg4 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "030"]
@@ -424,7 +424,7 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 O-O 9. Nge2 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "031"]
@@ -438,7 +438,7 @@ O-O 9. Nge2 *
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "0321"]
@@ -452,7 +452,7 @@ O-O 9. Nge2 *
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "0322"]
@@ -466,7 +466,7 @@ O-O 9. Nge2 *
 1... Na6 2. O-O Nc7 *
 
 [Event "Munich"]
-[Site "Munich"]
+[Site "The Opening"]
 [Date "1991.??.??"]
 [Round "3"]
 [White "033 Beliavsky, Alexander"]
@@ -484,7 +484,7 @@ Bh6 22. Bf4 Bxf4 23. Qxf4 Bxd5 24. h4 c3 25. bxc3 Rxc3 26. h5 Ne3 27. Ng5 Qc7
 28. Nxh7 Rb3+ 0-1
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "034"]
@@ -498,7 +498,7 @@ Bh6 22. Bf4 Bxf4 23. Qxf4 Bxd5 24. h4 c3 25. bxc3 Rxc3 26. h5 Ne3 27. Ng5 Qc7
 Qe7 9. c5 Bc7 10. e4 dxe4 11. Nxe4 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "035 Hedgedog Structure"]
@@ -512,7 +512,7 @@ Qe7 9. c5 Bc7 10. e4 dxe4 11. Nxe4 *
 1... b5 2. cxb5 axb5 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "036"]
@@ -526,7 +526,7 @@ Qe7 9. c5 Bc7 10. e4 dxe4 11. Nxe4 *
 Nc6 9. Nxc6 Bxc6 10. Bf4 Nh5 11. Be3 Bd6 *
 
 [Event "London m"]
-[Site "London"]
+[Site "The Opening"]
 [Date "1872.??.??"]
 [Round "5"]
 [White "037 Zukertort, Johannes"]
@@ -546,7 +546,7 @@ Rc2 Qc7 29. Rb2 a3 30. Rbb1 Qg7 31. Rxb8+ Rxb8 32. Qa5 Qd4+ 33. Kh1 Qxd3 34.
 Qc7 Rb1 35. Qd8+ Kf7 0-1
 
 [Event "PROBLEMS MIDDLEGAME"]
-[Site "?"]
+[Site "The Opening"]
 [Date "????.??.??"]
 [Round "?"]
 [White "040 XXXXXXXXXXXXXXXXXXXXXXXXX"]
@@ -560,7 +560,7 @@ Qc7 Rb1 35. Qd8+ Kf7 0-1
  *
 
 [Event "Siegen ol (Men)"]
-[Site "Siegen"]
+[Site "The Opening"]
 [Date "1970.??.??"]
 [Round "?"]
 [White "0411 Fischer, Robert"]
@@ -580,7 +580,7 @@ Rd8 35. h4 Nd6 36. Qg4 Nf8 37. h5 Ne8 38. e4 Rd2 39. Rh3 Kg8 40. hxg6 Nxg6 41.
 f4 Kf8 42. Qg5 Nd6 43. Bxd6+ 1-0
 
 [Event "New York"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1857.??.??"]
 [Round "?"]
 [White "0412 Paulsen"]
@@ -595,7 +595,7 @@ f4 Kf8 42. Qg5 Nd6 43. Bxd6+ 1-0
 Qxf7 Be6 9. Qxc7 Rxg2+ 10. Kxg2 Qh3+ 11. Kf2 Qh2+ 12. Kf3 Rf8+ 13. Qf7 Rxf7# *
 
 [Event "Gori"]
-[Site "Gori"]
+[Site "The Middlegame"]
 [Date "1968.??.??"]
 [Round "7"]
 [White "042 Chikovani, Iuri"]
@@ -611,7 +611,7 @@ e5 9. O-O exd4 10. Nxd4 Nc5 11. f3 Nfxe4 12. Nxe4 Nxe4 13. fxe4 Bxd4+ 14. Qxd4
 Qxg5 15. Qxd6 0-1
 
 [Event "Lloyds Bank op"]
-[Site "London"]
+[Site "The Middlegame"]
 [Date "1989.??.??"]
 [Round "?"]
 [White "043 Kamsky, Gata"]
@@ -632,7 +632,7 @@ Na5 29. Nd2 Kg7 30. c4 Nf5 31. Ra1 Ne3 32. Rfc1 Rc7 33. Kh1 Rdc8 34. Ra4 Qxb5
 47. Ke4 h3 48. f5 gxf5+ 0-1
 
 [Event "London NWYM"]
-[Site "London"]
+[Site "The Middlegame"]
 [Date "1989.??.??"]
 [Round "?"]
 [White "044 Adams, Michael"]
@@ -652,7 +652,7 @@ Bf7 28. Qb5 Rc8 29. Bg4 Rxc2 30. Re6 Qd8 31. Rxb6 f5 32. Bd1 Rc1 33. Rb8 Nc8
 34. Kg2 Be8 35. Qb7 Bf7 36. Bf3 Rc7 37. Qxb4 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "045"]
@@ -666,7 +666,7 @@ Bf7 28. Qb5 Rc8 29. Bg4 Rxc2 30. Re6 Qd8 31. Rxb6 f5 32. Bd1 Rc1 33. Rb8 Nc8
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "046"]
@@ -680,7 +680,7 @@ Bf7 28. Qb5 Rc8 29. Bg4 Rxc2 30. Re6 Qd8 31. Rxb6 f5 32. Bd1 Rc1 33. Rb8 Nc8
 1. Be4 O-O 2. Ra1 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "047"]
@@ -694,7 +694,7 @@ Bf7 28. Qb5 Rc8 29. Bg4 Rxc2 30. Re6 Qd8 31. Rxb6 f5 32. Bd1 Rc1 33. Rb8 Nc8
 1. b6 Nxb6 2. Bxd6 Rd8 3. Bxc7 *
 
 [Event "Moscow ol (Men) fin-A"]
-[Site "Moscow"]
+[Site "The Middlegame"]
 [Date "1956.??.??"]
 [Round "5"]
 [White "048 Larsen, Bent"]
@@ -715,7 +715,7 @@ Kf1 Qf6 28. Qxf7+ Qxf7 29. Bxf7+ Kxf7 30. Rxf8+ Kxf8 31. Kxf2 Ke7 32. Ke3 Kd6
 Kxb3 Kf5 47. Kc3 1-0
 
 [Event "BCF-ch"]
-[Site "Eastbourne"]
+[Site "The Middlegame"]
 [Date "1990.??.??"]
 [Round "?"]
 [White "049 Adams, Michael"]
@@ -734,7 +734,7 @@ Be3 Ng6 9. O-O Be7 10. Qe2 a6 11. Na4 Qc7 12. Nb6 Rb8 13. Rac1 O-O 14. Rfd1 f5
 bxa5 Rxa5 28. g3 Rdd5 29. Rc8 Kg8 30. Rb3 Kf7 31. Rb7+ Nd7 32. Ne5+ 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "050"]
@@ -748,7 +748,7 @@ bxa5 Rxa5 28. g3 Rdd5 29. Rc8 Kg8 30. Rb3 Kf7 31. Rb7+ Nd7 32. Ne5+ 1-0
 1. Bd3 Bxe5 2. Qh5+ Ke7 3. Qxe5 Nf6 *
 
 [Event "Biel Interzonal"]
-[Site "Biel"]
+[Site "The Middlegame"]
 [Date "1993.??.??"]
 [Round "4"]
 [White "051 Oll, Lembit"]
@@ -765,7 +765,7 @@ Qc2 Nc6 16. O-O Qe5 17. Qa4 Rad8 18. Be1 Nd4 19. Qxb4 Nxe2+ 20. Nxe2 Qxa1 21.
 Nc3 Qc1 22. Qa5 Qf4 23. Qxa6 Ra8 24. Qd6 Qxc4 0-1
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "052"]
@@ -779,7 +779,7 @@ Nc3 Qc1 22. Qa5 Qf4 23. Qxa6 Ra8 24. Qd6 Qxc4 0-1
 1... c5 2. dxc5 Qa5+ *
 
 [Event "Novi Sad ol (Men)"]
-[Site "Novi Sad"]
+[Site "The Middlegame"]
 [Date "1990.??.??"]
 [Round "10"]
 [White "053 Kindermann, Stefan"]
@@ -798,7 +798,7 @@ Qg6 29. Qe2 Rac8 30. hxg5 hxg5 31. Rd1 Rcd8 32. Bd2 Rd3 33. Be1 Red8 34. f3 g4
 35. Kf1 g3 0-1
 
 [Event "Manila"]
-[Site "Manila"]
+[Site "The Middlegame"]
 [Date "1973.??.??"]
 [Round "?"]
 [White "054 Quinteros, Miguel"]
@@ -818,7 +818,7 @@ Nc4 22. Bd2 fxe5 23. dxe5 Rad8 24. Bc1 b5 25. Rhe1 Rfe8 26. Qf3 c5 27. Rd3 d4
 Nd4 35. Qf2 Qa4 36. Bc3 Ne2 37. Bb2 Qc2+ 38. Ka1 0-1
 
 [Event "PCA-Wch Candidats final"]
-[Site "Las Palmas"]
+[Site "The Middlegame"]
 [Date "1995.??.??"]
 [Round "3"]
 [White "055 Anand, Viswanathan"]
@@ -840,7 +840,7 @@ Rxb6 Qd4 41. Rb8 Qxb4 42. Ne3 h5 43. b6 h4 44. g4 Bb5 45. Qd1 Qb2 46. Nf5+ Rxf5
 53. Re8 Bf3 54. f6 Kh5 55. f7 Qd4 56. Re4 Qf6 57. b7 Bxe4 58. Qxe4 1-0
 
 [Event "Caracas"]
-[Site "Caracas"]
+[Site "The Middlegame"]
 [Date "1970.??.??"]
 [Round "?"]
 [White "056 Karpov, Anatoly"]
@@ -864,7 +864,7 @@ Qa2 54. Qxa6 Qc2 55. Qa8+ Kf7 56. Qd5+ Kg7 57. Rd2 Qc3 58. Ra2 h5 59. Rd2 h4
 1-0
 
 [Event "Calcutta"]
-[Site "Calcutta"]
+[Site "The Middlegame"]
 [Date "1986.??.??"]
 [Round "?"]
 [White "057 Anand, Viswanathan"]
@@ -884,7 +884,7 @@ e3 34. fxe3 fxe3 35. Kc3 Rd8 36. Ra2 Ke5 37. b6 Ke4 38. b7 Rd3+ 39. Kb4 Rd2 40.
 b8=Q Rxa2 41. Qb7+ Kd3 42. Qd5+ Ke2 43. c5 1-0
 
 [Event "California"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "058 Kurosaki"]
@@ -900,7 +900,7 @@ Qa4 Bc5 9. O-O h6 10. Ne5 Qb6 11. Nc3 O-O 12. Nd3 d4 13. Nxc5 Qxc5 14. Qb5 Qe7
 Be3 f5 22. Qa4 b5 23. Qd1 Rac8 24. Qxa1 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "059"]
@@ -914,7 +914,7 @@ Be3 f5 22. Qa4 b5 23. Qd1 Rac8 24. Qxa1 *
 1. Rc1 Qb7 2. Qc4 *
 
 [Event "URS-JUG"]
-[Site "Kiev"]
+[Site "The Middlegame"]
 [Date "1959.??.??"]
 [Round "3"]
 [White "060 Gligoric, Svetozar"]
@@ -933,7 +933,7 @@ exf5 29. Bc1 Nd5 30. Ne2 a5 31. Bc2 Rb3 32. Bxb3 cxb3 33. Ra4 Bf8 34. Bb2 Ne3
 35. Rfa1 Nc4 36. Ng3 Be7 37. Nf1 Qc6 38. Rxc4 Qh1+ 39. Kg3 h5 0-1
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "061 Joseph"]
@@ -947,7 +947,7 @@ exf5 29. Bc1 Nd5 30. Ne2 a5 31. Bc2 Rb3 32. Bxb3 cxb3 33. Ra4 Bf8 34. Bb2 Ne3
 1. Bxd5 Bxg5 2. Ba2 *
 
 [Event "Candidats qf4"]
-[Site "Brussels"]
+[Site "The Middlegame"]
 [Date "1991.??.??"]
 [Round "6"]
 [White "062 Karpov, Anatoly"]
@@ -971,7 +971,7 @@ Bb7 54. h4 Nc4+ 55. Bxc4 Rxc4 56. Rd4 Rc5 57. a4 e5 58. Rb4 Bc6 59. axb5 axb5
 Bd7 67. Ra6+ Ke7 68. Rg6 Kf7 69. Rd6 Bg4 70. Rd5 Rc2 0-1
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "063 Goldberg"]
@@ -985,7 +985,7 @@ Bd7 67. Ra6+ Ke7 68. Rg6 Kf7 69. Rd6 Bg4 70. Rd5 Rc2 0-1
 1. Nxg4 Nxg4 2. Be2 Nf6 3. O-O *
 
 [Event "OHRA-A"]
-[Site "Brussels"]
+[Site "The Middlegame"]
 [Date "1986.??.??"]
 [Round "?"]
 [White "064 Kasparov, Gary"]
@@ -1008,7 +1008,7 @@ Rc1 Kg7 54. b3 Rf8 55. Rd1 Bc5 56. Rd3 Ba3 57. Be4 Bc1 58. Rd7+ Kh6 59. Re7 Bd2
 60. Kf3 Bb4 61. Rb7 Bc3 62. Bd3 Rf6 63. Kg4 Bd2 64. f5 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "065"]
@@ -1022,7 +1022,7 @@ Rc1 Kg7 54. b3 Rf8 55. Rd1 Bc5 56. Rd3 Ba3 57. Be4 Bc1 58. Rd7+ Kh6 59. Re7 Bd2
 1. b3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "066"]
@@ -1036,7 +1036,7 @@ Rc1 Kg7 54. b3 Rf8 55. Rd1 Bc5 56. Rd3 Ba3 57. Be4 Bc1 58. Rd7+ Kh6 59. Re7 Bd2
 1. a4 bxa4 2. Bxa4 *
 
 [Event "Linares m"]
-[Site "Linares"]
+[Site "The Middlegame"]
 [Date "1992.??.??"]
 [Round "1"]
 [White "067 Ivanchuk, Vassily"]
@@ -1056,7 +1056,7 @@ Bd6 34. Rf3 Rc8 35. Be1 Ke6 36. Rd3 Rh7 37. Rg3 Bc5 38. Ka2 Rd7 39. Rc3 Rcc7
 40. h4 Rd1 41. Bf2 Bd6 42. Rg3 e4 43. Rxe4+ Be5 44. Rxe5+ fxe5 45. Kb2 Rd2 0-1
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "068"]
@@ -1070,7 +1070,7 @@ Bd6 34. Rf3 Rc8 35. Be1 Ke6 36. Rd3 Rh7 37. Rg3 Bc5 38. Ka2 Rd7 39. Rc3 Rcc7
 1. Nc4 *
 
 [Event "Groningen"]
-[Site "Groningen"]
+[Site "The Middlegame"]
 [Date "1990.??.??"]
 [Round "?"]
 [White "069 Khalifman, Alexander"]
@@ -1089,7 +1089,7 @@ Qc3 Na4 29. Qb4 Qxb4 30. Rxb4 Rfb8 31. Rxb8+ Rxb8 32. Rb1 Rc8 33. Bh3 g6 34. e4
 Rc2 35. Ra1 Nc5 36. exf5 Rxb2 37. fxg6 hxg6 38. Be6+ Kf8 39. Ra8+ Ke7 0-1
 
 [Event "Karlsbad"]
-[Site "Karlsbad"]
+[Site "The Middlegame"]
 [Date "1929.??.??"]
 [Round "?"]
 [White "070 Nimzowitsch, Aaron"]
@@ -1110,7 +1110,7 @@ Ra8 36. Qc1 Bf8 37. Nh4 Qh7 38. Nxf6 Qh8 39. Nxg8 Qxg8 40. g5 exf4 41. gxh6 Qh7
 48. Rg6 Kc8 49. f6 Rh8 50. Bg4+ Kd8 51. Be6 Ke8 52. Bxf7+ Kxf7 53. Rhxh6 1-0
 
 [Event "Las Palmas"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1979.??.??"]
 [Round "?"]
 [White "071 Garcia Padron"]
@@ -1124,7 +1124,7 @@ Ra8 36. Qc1 Bf8 37. Nh4 Qh7 38. Nxf6 Qh8 39. Nxg8 Qxg8 40. g5 exf4 41. gxh6 Qh7
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "072"]
@@ -1138,7 +1138,7 @@ Ra8 36. Qc1 Bf8 37. Nh4 Qh7 38. Nxf6 Qh8 39. Nxg8 Qxg8 40. g5 exf4 41. gxh6 Qh7
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "073"]
@@ -1152,7 +1152,7 @@ Ra8 36. Qc1 Bf8 37. Nh4 Qh7 38. Nxf6 Qh8 39. Nxg8 Qxg8 40. g5 exf4 41. gxh6 Qh7
  *
 
 [Event "Continental Open"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "074 Greznikov"]
@@ -1166,7 +1166,7 @@ Ra8 36. Qc1 Bf8 37. Nh4 Qh7 38. Nxf6 Qh8 39. Nxg8 Qxg8 40. g5 exf4 41. gxh6 Qh7
  *
 
 [Event "Yerevan ol (Men)"]
-[Site "Yerevan"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "11"]
 [White "075 Sokolov, Ivan"]
@@ -1190,7 +1190,7 @@ Rxd7+ 47. Ke3 Bh3 48. Bxc6 Rc7 49. Bb5 e5 50. Rh1 Be6 51. Kd3 Kf6 52. Rxh6+ Kg5
 Be2+ 60. Kc3 f4 61. Rd8 Bf3 62. Rd2+ Ke1 0-1
 
 [Event "Dortmund"]
-[Site "Dortmund"]
+[Site "The Middlegame"]
 [Date "1992.??.??"]
 [Round "3"]
 [White "076 Anand, Viswanathan"]
@@ -1212,7 +1212,7 @@ Ke3 f6 28. h4 Qb8 29. Qc1 Kf8 30. Ke2 Kf7 31. Qe3 Qf8 32. f5 Qe8 33. g5 exf5
 Ngf7 Nxf7 53. Qxf7+ Kb6 54. Qf4 Qe6 55. h5 Bb7 56. Qf6 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "077"]
@@ -1226,7 +1226,7 @@ Ngf7 Nxf7 53. Qxf7+ Kb6 54. Qf4 Qe6 55. h5 Bb7 56. Qf6 1-0
  *
 
 [Event "Vinkovci"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1977.??.??"]
 [Round "?"]
 [White "078 Vukic"]
@@ -1240,7 +1240,7 @@ Ngf7 Nxf7 53. Qxf7+ Kb6 54. Qf4 Qe6 55. h5 Bb7 56. Qf6 1-0
  *
 
 [Event "Continental Open"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "079 Piacenza"]
@@ -1254,7 +1254,7 @@ Ngf7 Nxf7 53. Qxf7+ Kb6 54. Qf4 Qe6 55. h5 Bb7 56. Qf6 1-0
  *
 
 [Event "Knoxville"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1997.??.??"]
 [Round "?"]
 [White "080 Wong"]
@@ -1268,7 +1268,7 @@ Ngf7 Nxf7 53. Qxf7+ Kb6 54. Qf4 Qe6 55. h5 Bb7 56. Qf6 1-0
  *
 
 [Event "Candidats qf2"]
-[Site "Belgrade"]
+[Site "The Middlegame"]
 [Date "1968.??.??"]
 [Round "9"]
 [White "081 Tal, Mihail"]
@@ -1291,7 +1291,7 @@ Ke7 47. Rd5 a4 48. c7 b3 49. axb3 axb3 50. Rxe5+ Kd6 51. Rb5 Kxc7 52. Rxb3 Kc6
 Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
 
 [Event "San Francisco"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "082 Thomas"]
@@ -1305,7 +1305,7 @@ Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "083"]
@@ -1319,7 +1319,7 @@ Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
  *
 
 [Event "World Open"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1973.??.??"]
 [Round "?"]
 [White "084 Grefe"]
@@ -1333,7 +1333,7 @@ Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
  *
 
 [Event "Continental Open"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "085 Piacenza"]
@@ -1347,7 +1347,7 @@ Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "086"]
@@ -1361,7 +1361,7 @@ Kxc5 60. Rh7 g4 61. hxg4 fxg4 62. Rxh6 Bb7 63. Rg6 1-0
  *
 
 [Event "PCA-Wch Candidats final"]
-[Site "Las Palmas"]
+[Site "The Middlegame"]
 [Date "1995.??.??"]
 [Round "9"]
 [White "087 Anand, Viswanathan"]
@@ -1382,7 +1382,7 @@ Rc7 35. Ba6 Rb8 36. e5 Ne8 37. Rxb7 Rcxb7 38. Bxb7 Rxb7 39. Qd8 Qf8 40. Ra1 Nc7
 Rc3 48. Qf4 f6 49. exf6 Nxd5 50. f7+ 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "088"]
@@ -1398,7 +1398,7 @@ Bc7 9. Bxa3 Ne7 10. Bd6 Ba5 11. Bxe7 Kxe7 12. Qb3 Bc7 13. Qb4+ Ke8 14. Rxa7 Nc6
 21. O-O Rf8 22. Rb1 f6 23. Nf4 fxe5 24. dxe5 g5 25. Nd3 Qg7 26. Ra2 *
 
 [Event "Corr"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "089 Suveg"]
@@ -1412,7 +1412,7 @@ Bc7 9. Bxa3 Ne7 10. Bd6 Ba5 11. Bxe7 Kxe7 12. Qb3 Bc7 13. Qb4+ Ke8 14. Rxa7 Nc6
  *
 
 [Event "Corr"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "090 Stuart"]
@@ -1426,7 +1426,7 @@ Bc7 9. Bxa3 Ne7 10. Bd6 Ba5 11. Bxe7 Kxe7 12. Qb3 Bc7 13. Qb4+ Ke8 14. Rxa7 Nc6
  *
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "091 Martin"]
@@ -1440,7 +1440,7 @@ Bc7 9. Bxa3 Ne7 10. Bd6 Ba5 11. Bxe7 Kxe7 12. Qb3 Bc7 13. Qb4+ Ke8 14. Rxa7 Nc6
  *
 
 [Event "Pasadena"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "092 Makarewicz"]
@@ -1454,7 +1454,7 @@ Bc7 9. Bxa3 Ne7 10. Bd6 Ba5 11. Bxe7 Kxe7 12. Qb3 Bc7 13. Qb4+ Ke8 14. Rxa7 Nc6
 cxd4 9. exd4 Nc6 10. c3 Nd5 11. Nc4 Qc7 12. Bg5 f6 13. Ne3 Nxc3 *
 
 [Event "Portoroz Interzonal"]
-[Site "Portoroz"]
+[Site "The Middlegame"]
 [Date "1958.??.??"]
 [Round "13"]
 [White "093 Petrosian, Tigran V"]
@@ -1478,7 +1478,7 @@ Kc4 60. g6 c2 61. Rc1 Kd3 62. f5 Rg8 63. Kf4 Kd2 64. Rxc2+ Kxc2 65. Kg5 c4 66.
 f6 c3 67. f7 1/2-1/2
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "094"]
@@ -1492,7 +1492,7 @@ f6 c3 67. f7 1/2-1/2
  *
 
 [Event "Candidats sf1"]
-[Site "Leningrad"]
+[Site "The Middlegame"]
 [Date "1974.??.??"]
 [Round "9"]
 [White "095 Karpov, Anatoly"]
@@ -1511,7 +1511,7 @@ Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8
 35. Rxd8 1-0
 
 [Event "Leningrad"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "1974.??.??"]
 [Round "?"]
 [White "096 Karpov"]
@@ -1525,7 +1525,7 @@ Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "097"]
@@ -1539,7 +1539,7 @@ Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8
  *
 
 [Event "World Championship 4th"]
-[Site "Havana"]
+[Site "The Middlegame"]
 [Date "1892.02.18"]
 [Round "20"]
 [White "098 Steinitz, William"]
@@ -1559,7 +1559,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
 40. Nf8+ Kg8 41. Nxe6 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Middlegame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "099"]
@@ -1573,7 +1573,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
  *
 
 [Event "PROBLEMS ENDGAME"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "101 Milat XXXXXXXXXXXXXXXXXXX"]
@@ -1587,7 +1587,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "102"]
@@ -1601,7 +1601,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "103"]
@@ -1615,7 +1615,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "106"]
@@ -1629,7 +1629,7 @@ Qb7 28. Ne5+ Kg8 29. Ba4 Qe7 30. Bb4 Qf6 31. Qc3 h6 32. Bd6 Rxb6 33. axb6 Bxb6
  *
 
 [Event "ENG-URS"]
-[Site "London"]
+[Site "The Endgame"]
 [Date "1947.??.??"]
 [Round "2"]
 [White "107 Smyslov, Vassily"]
@@ -1651,7 +1651,7 @@ Nd6+ 41. Kd3 Nf5 42. Nf3 Kd7 43. Ke4 Nd6+ 44. Ke3 Nf5+ 45. Kf2 Bd6 46. h3 Bc7
 Ne5 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "108"]
@@ -1665,7 +1665,7 @@ Ne5 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "109"]
@@ -1679,7 +1679,7 @@ Ne5 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "110"]
@@ -1693,7 +1693,7 @@ Ne5 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "111"]
@@ -1707,7 +1707,7 @@ Ne5 1-0
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "112"]
@@ -1721,7 +1721,7 @@ Ne5 1-0
  *
 
 [Event "Lloyds Bank op"]
-[Site "London"]
+[Site "The Endgame"]
 [Date "1991.??.??"]
 [Round "10"]
 [White "113 Adams, Michael"]
@@ -1741,7 +1741,7 @@ Rh8 34. Rxc8 Rxc8 35. g6 fxg6 36. Rg1 Rc6 37. Kd5 b4 38. Rf1 Rc2 39. e6+ Ke7
 40. Rf7+ Ke8 41. Kd6 1-0
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "114"]
@@ -1755,7 +1755,7 @@ Rh8 34. Rxc8 Rxc8 35. g6 fxg6 36. Rg1 Rc6 37. Kd5 b4 38. Rf1 Rc2 39. e6+ Ke7
  *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "115"]
@@ -1769,7 +1769,7 @@ Rh8 34. Rxc8 Rxc8 35. g6 fxg6 36. Rg1 Rc6 37. Kd5 b4 38. Rf1 Rc2 39. e6+ Ke7
  *
 
 [Event "PROBLEMS SELF ANNOTATIONS Amsterdam"]
-[Site "Amsterdam"]
+[Site "The Endgame"]
 [Date "1921.??.??"]
 [Round "?"]
 [White "116 Alekhine XXXXXXXXXXXXXXXX"]
@@ -1788,7 +1788,7 @@ Re5 21. Nf4 Qg5 22. h4 Qh6 23. Qxb4 Rxc5 24. Qxc5 Qxf4+ 25. Kc3 Nf2 26. Rhe1
 Rxd6 27. Re8+ Kd7 28. Rae1 Rd3+ 29. Kc2 Qa4+ 30. Kb1 Rd1+ 31. Bc1 1-0
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "117 Piacenza"]
@@ -1803,7 +1803,7 @@ c3 cxd4 9. exd4 Qd5 10. Be3 O-O 11. Be2 e5 12. Qb3 Qxb3 13. Nxb3 f5 14. d5 b6
 15. Rd1 Bb7 16. Bg5 Bf6 17. Bxf6 Rxf6 18. c4 Nd7 19. O-O *
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1999.??.??"]
 [Round "?"]
 [White "118 Hall"]
@@ -1822,7 +1822,7 @@ Rb8 Rxb8 35. Rxb8 Ke7 36. a4 Rg3 37. Rb3 Rxb3 38. Bxb3 d5 39. exd5 Kd6 40. a5
 Kc5 41. a6 Kb6 42. Bc4 Be7 43. Kg1 Bd6 44. Kf2 Ka7 45. g3 fxg3+ 46. Kxg3 *
 
 [Event "Continental Open"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1996.??.??"]
 [Round "?"]
 [White "119 Piacenza"]
@@ -1837,7 +1837,7 @@ cxd4 9. cxd4 Be7 10. a3 h5 11. b4 Qc7 12. Bb2 Rg8 13. Rc1 a6 14. Re1 g5 15. g3
 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "120"]
@@ -1853,7 +1853,7 @@ Be7 9. d4 cxd4 10. Nxd4 O-O 11. Be3 Nb6 12. Bb3 e5 13. Nf5 Bxf5 14. exf5 Rac8
 Kg2 Nh7 22. Rh1 d5 23. cxd5 Qg5 24. Qxg5 Nxg5 25. Rh5 f6 26. d6+ Rf7 27. Rah1 *
 
 [Event "San Francisco"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1998.??.??"]
 [Round "?"]
 [White "121 Musselman"]
@@ -1870,7 +1870,7 @@ h4 c6 22. Nh3 cxd5 23. exd5 e4 24. f4 b5 25. Qb4 bxc4 26. Qxd6 Qb5 27. Qe6+ Kh8
 28. Ng5 Rb8 29. Rd2 Bg7 30. Nf7+ Rxf7 31. Qxf7 Bxb2 32. Rc2 Bc3+ 0-1
 
 [Event "Budapest"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1942.??.??"]
 [Round "?"]
 [White "122 Kruger"]
@@ -1884,7 +1884,7 @@ h4 c6 22. Nh3 cxd5 23. exd5 e4 24. f4 b5 25. Qb4 bxc4 26. Qxd6 Qb5 27. Qe6+ Kh8
 Be2 g6 9. Nd5 f6 10. Ne6 Qa5 11. Ndc7+ Kf7 12. Nd8+ Kg7 13. Ne8+ 1-0
 
 [Event "World Championship 25th"]
-[Site "Moscow"]
+[Site "The Endgame"]
 [Date "1963.04.01"]
 [Round "?"]
 [White "123 Petrosian, Tigran"]
@@ -1905,7 +1905,7 @@ Rc6 Rh1 41. Kf7 Ra1 42. Re6 Bd8 43. Rd6+ Kc8 44. Ke8 Bc7 45. Rc6 Rd1 46. Ng5
 Rd8+ 47. Kf7 Rd7+ 48. Kg8 1-0
 
 [Event "World Championship 27th"]
-[Site "Moscow"]
+[Site "The Endgame"]
 [Date "1969.06.09"]
 [Round "?"]
 [White "124 Petrosian, Tigran"]
@@ -1926,7 +1926,7 @@ Ra5 41. Qxb6 Rxa4 42. Rc5 Ra6 43. Rxd5 Qxf4 44. Qxa6 Qe4+ 45. f3 Qe6 46. Qc4
 Qxe3 47. Ne5 Rf8 48. Rc5 Be7 49. Rb1 Bxc5 50. Rxb8 1-0
 
 [Event "World Youth Brazil"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1995.??.??"]
 [Round "?"]
 [White "125 Tsai"]
@@ -1943,7 +1943,7 @@ Bh5 9. Nbd2 Re8 10. Nf1 a6 11. Ng3 Bxf3 12. Qxf3 Na5 13. Bg5 Nxc4 14. dxc4 Qd7
 Rh5 f6 28. Rhh1 c6 29. Rhf1 *
 
 [Event "San Francisco"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1974.??.??"]
 [Round "?"]
 [White "126 Catig"]
@@ -1960,7 +1960,7 @@ Nb4 e5 22. Nxa6 exf4 23. Bd4 Rae8+ 24. Kf3 Re3+ 25. Kg2 f3+ 26. Kf1 Rfe8 27.
 Kg1 Bg3 28. Rf1 Re1 29. Bc3 Qxb2 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "127"]
@@ -1974,7 +1974,7 @@ Kg1 Bg3 28. Rf1 Re1 29. Bc3 Qxb2 *
 Nf3 Bxc3 9. Bxc3 Nf4 10. O-O Nxd3 11. Qxd3 d6 12. h3 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "128"]
@@ -1990,7 +1990,7 @@ Ng5 Nd4 16. Rc1 Qxe5+ 17. Be3 Nec6 18. Nd3 Qf6 19. f4 Bd6 20. Nf3 Nxf3+ 21.
 Qxf3 O-O-O 22. Bxa7 Bc7 *
 
 [Event "?"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "????.??.??"]
 [Round "?"]
 [White "129"]
@@ -2005,7 +2005,7 @@ Nc3 c6 9. Bg5 b5 10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 14.
 Rd1 Qe6 15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8# 1-0
 
 [Event "Vinkovci"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "1970.??.??"]
 [Round "?"]
 [White "130 Larsen, Bent"]
@@ -2028,7 +2028,7 @@ gxh4 gxh4 54. Bf1 Ng5 55. c5 Nf7+ 56. Kd5 Ke7 57. f4 Nh6 58. Bh3 Ng8 59. c6
 Nf6+ 60. Ke5 Ne8 61. f5 1-0
 
 [Event "Los Angeles"]
-[Site "?"]
+[Site "The Endgame"]
 [Date "2000.??.??"]
 [Round "?"]
 [White "131 Joseph"]
@@ -2045,4 +2045,3 @@ Nc4 22. Bxc4 Rxc4 23. Nd2 Bxe5 24. Nxc4 Bxh2+ 25. Kxh2 dxc4 26. Rae1 Qd7 27.
 Re3 Bd5 28. Rxe8+ Qxe8 29. Re1 Qd7 30. Qe3 Kf8 31. Qe5 f6 32. Qg3 Kf7 33. Qh3
 Qxh3+ 34. Kxh3 Be6+ 35. Kg3 Bd5 36. Kf2 Be6 37. g3 Bd5 38. Ke3 Ke6 39. Rb1 Kd6
 40. b3 b5 41. bxc4 Bxc4 42. a4 Kd5 43. axb5 Bxb5 44. Rf1 Bxf1 0-1
-
