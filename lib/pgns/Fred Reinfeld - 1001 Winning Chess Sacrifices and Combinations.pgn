@@ -38,7 +38,7 @@ White piles up on the pinned piece: 1.Rd1! Qxc4 2.Rxd8+ K moves 3.bxc4 Resigns. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.04! Ne7 (If 1 ...Nxc4, 2.Rxd5) 2.05, winning the pinned piece. *
+1.04! Ne7 2.05, winning the pinned piece. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -94,7 +94,7 @@ White wins a piece: 1.Bxe5! Qxe5 2.Qxe5 dxe5 3.Bxe6, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg8+!! Ke7 (If l...Kxg8, 2.Ng6!, followed by Rh8 mate!) 2.Qxf7+ Kd8 3.Ng6 Qxb2 4.Rd1+ Bd7 5.Qxe8+! Re- signs, for if 5...Kxe8, 6.Rh8 mate. *
+1.Qg8+!! Ke7 2.Qxf7+ Kd8 3.Ng6 Qxb2 4.Rd1+ Bd7 5.Qxe8+! Re- signs, for if 5...Kxe8, 6.Rh8 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -164,7 +164,7 @@ White keeps the extra piece by a counterpin: 1.Qa8! Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne7+ Kf8 (If 1...Qxe7, 2.Rxe7 Rxh6 3.Re8 mate.) 2.Rxg6! fxg6 3.ng6+ Kg8 4.Re7 Qxd4 5.Ne5 and wins. *
+1.Ne7+ Kf8 2.Rxg6! fxg6 3.ng6+ Kg8 4.Re7 Qxd4 5.Ne5 and wins. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -192,7 +192,7 @@ White keeps the extra piece by a counterpin: 1.Qa8! Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb7! Rfc8 (If l...Qd6, 2.Nxe4 dxe4 3.Rxc6, etc.) 2.Nxd5! Qd6 (If 2...cxd5, 3.Rxc8+ etc.) 3.Rxc6!! Re— signs. If 3...Rxc6, 4.Qxa8+, winning more material. ~ *
+1.Qb7! Rfc8 2.Nxd5! Qd6 3.Rxc6!! Re— signs. If 3...Rxc6, 4.Qxa8+, winning more material. ~ *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -206,7 +206,7 @@ White keeps the extra piece by a counterpin: 1.Qa8! Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf7+ chf7 (Not 1...Bxf7?  2.ng7 mate.) 2.exf7 Qd6 3.Bxf5 and wins. Black has no defense to the com- ing capture on g6 as his king rook pawn is pinned. *
+1.Nf7+ chf7 2.exf7 Qd6 3.Bxf5 and wins. Black has no defense to the com- ing capture on g6 as his king rook pawn is pinned. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -332,7 +332,7 @@ White “piles up” on the pinned knight and wins it: 1.Bf4, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1 .le Re8 (White threatened mate- If l...QfB, 2.f6 Re8 3.Bh5 Re6 4.f7 and 5.Rg8+ decides.) 2.Bh5! Rd8 3.Qh2 Resigns. The knight is lost. *
+1 .le Re8 2.Bh5! Rd8 3.Qh2 Resigns. The knight is lost. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -416,7 +416,7 @@ White “piles up” on the pinned knight and wins it: 1.Bf4, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rb3! cxb3 (If Black’s queen re— treats, White has a winning attack.)  2.Qxb4 and wins. Black’s cS-pawn is pinned! *
+1.Rb3! cxb3  2.Qxb4 and wins. Black’s cS-pawn is pinned! *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -458,7 +458,7 @@ White “piles up” on the pinned knight and wins it: 1.Bf4, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxc6! bxc6 (Or l...Bxc6 2.Rxd8+) 2.Ne5, with a winning pin on the open file. *
+1.Bxc6! bxc6 2.Ne5, with a winning pin on the open file. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -514,7 +514,7 @@ White “piles up” on the pinned knight and wins it: 1.Bf4, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7+!Rxf7 2.Rxe5!Qxe5 3.Qxf7+ Kh8 4.Nce4! Qxb2 (If now 4...Bd4, 5.Bxd4 Qxd4 6.Qxe8+! forces mate. And if 4...Qe7, 5.Rxf6! etc.)  5.Nxf6 Qe2 6.Qg8+! Rxg8 7.Nf7 mate. *
+1.Bxf7+!Rxf7 2.Rxe5!Qxe5 3.Qxf7+ Kh8 4.Nce4! Qxb2  5.Nxf6 Qe2 6.Qg8+! Rxg8 7.Nf7 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -528,7 +528,7 @@ White “piles up” on the pinned knight and wins it: 1.Bf4, etc. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Simplest is l.Bxf5!. But there’s also 1.ng6!! Bxg6 2.Rxg6! Rxg6 3.Bxf5 Nxf4 4.Rxg6! ng6 (If 4...Nxh3, 5.Rxe6+ Kh8 6.Rxe7 and wins.)  5.Bxg6+ Kxg6 6.Qg4+ Resigns. Better is 5...ng6, but White should still win. *
+Simplest is l.Bxf5!. But there’s also 1.ng6!! Bxg6 2.Rxg6! Rxg6 3.Bxf5 Nxf4 4.Rxg6! ng6  5.Bxg6+ Kxg6 6.Qg4+ Resigns. Better is 5...ng6, but White should still win. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -570,7 +570,7 @@ Simplest is l.Bxf5!. But there’s also 1.ng6!! Bxg6 2.Rxg6! Rxg6 3.Bxf5 Nxf4 4.
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bgl! (Threatens 2.Bxf6 and 3.Qxh7 mate.) l...g6 2.Bxf6! Bxf6 3.Ne4! Resigns. For after 3...Be7, 4.b4 wins the pinned knight. *
+1.Bgl! l...g6 2.Bxf6! Bxf6 3.Ne4! Resigns. For after 3...Be7, 4.b4 wins the pinned knight. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -598,7 +598,7 @@ Black threatens to break out of the pin with ...Nf3+. But White is alert.  1.Kfl
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e5! dxe5 2.Nxe7 Kxe7 3.Bg5 Bf5 (If 3...Ke6, 4.Ng4 wins.) 4.Nxf5 gxf5 5.Qxf5 Qd6 6.Rdl Qe6 7.Bxf6+ Re- signs. If 7...Qxf6, 8.Rd7+ wins. *
+1.e5! dxe5 2.Nxe7 Kxe7 3.Bg5 Bf5 4.Nxf5 gxf5 5.Qxf5 Qd6 6.Rdl Qe6 7.Bxf6+ Re- signs. If 7...Qxf6, 8.Rd7+ wins. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -612,7 +612,7 @@ Black threatens to break out of the pin with ...Nf3+. But White is alert.  1.Kfl
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe5 Bc7 (If 1...Nxe5??, 2.Qe8 mate; and on l...fxe5, 2.Qxe6 wins.) 2.Nd5 Resigns. If 2...Bxd5, 3.Nd7+ wins the queen. If 2...Qxb5, 3.Nxc7 at- tacks the queen and threatens 4.Qe8 mate. *
+1.Nxe5 Bc7 2.Nd5 Resigns. If 2...Bxd5, 3.Nd7+ wins the queen. If 2...Qxb5, 3.Nxc7 at- tacks the queen and threatens 4.Qe8 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -626,7 +626,7 @@ Black threatens to break out of the pin with ...Nf3+. But White is alert.  1.Kfl
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1.Ba3! Bxf5 (Or 1...Qxa3 2.ng7 mate.) 2.Bxe7+ and wins. *
+White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1.Ba3! Bxf5 2.Bxe7+ and wins. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -640,7 +640,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.c6! Rxh6! (Ifnow 2.Rxh6? Black is stalemated!) 2.c7! Rc6 3.Rh6! Re- signs. If3...Rxh6, 4.c8/Q mate. *
+1.c6! Rxh6! 2.c7! Rc6 3.Rh6! Re- signs. If3...Rxh6, 4.c8/Q mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -654,7 +654,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.d5!! ede 2.Nxc6 Qd7 (If 2...Bxc6, 3.Qxc6+ wins.) 3.Na5 Re- signs. The double threat of 4.Nxb7 and 4.Bxg7 decides. *
+1.d5!! ede 2.Nxc6 Qd7 3.Na5 Re- signs. The double threat of 4.Nxb7 and 4.Bxg7 decides. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -738,7 +738,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bg5!! Rxg5(If1...f6, 2.Rad1 Qc8 3.Bxf6.) 2.Rad1 Qc8 3.Qe3! and wins.  White’s mating threat forces 3...0-0, and after 4.ng5, White is the Exchange ahead. *
+1.Bg5!! Rxg52.Rad1 Qc8 3.Qe3! and wins.  White’s mating threat forces 3...0-0, and after 4.ng5, White is the Exchange ahead. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -752,7 +752,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe3! Qb8 (If 1...Qd6, 2.Nf6+ wins the black queen. If l...Bxd5, 2.Rxd5 Nd7 3.Qd4 wins the pinned knight.) 2.Re1 Bde 3.Bxd5+ Nf7 4.Rf1 Resigns. White wins the pinned knight. *
+1.Qe3! Qb8 2.Re1 Bde 3.Bxd5+ Nf7 4.Rf1 Resigns. White wins the pinned knight. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -766,7 +766,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nc5!! dxc5 2.Bf4!! Bd6 (If 2...Qxf4, 3.Qc8+ Ke7 4.Qxb7 wins. If 2...Qd8, 3.Qxb7, etc. wins.) 3.Bxd6 Rb6 4.Qxd7+! Resigns. White comes out a piece up. *
+1.Nc5!! dxc5 2.Bf4!! Bd6 3.Bxd6 Rb6 4.Qxd7+! Resigns. White comes out a piece up. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -780,7 +780,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f6! Bg4 (If 1...gxf6, 2.Qg6+ fol- lowed by 3.Qh7 mate.) 2.Qg6! Resigns.  White forces 3.ng7 mate, or 3.Qh7 mate. *
+1.f6! Bg4 2.Qg6! Resigns.  White forces 3.ng7 mate, or 3.Qh7 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -794,7 +794,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf6! Bxf6 (Or 1..gxf6 2.Qg4+ Kh8 3.Nxf7+ winning the Exchange.)  2.Qxh7+!! Kxh7 3.Rh5+ Kg8 4.Ng6!  Resigns. For Rh8 mate follows. *
+1.Bxf6! Bxf6  2.Qxh7+!! Kxh7 3.Rh5+ Kg8 4.Ng6!  Resigns. For Rh8 mate follows. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -808,7 +808,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.c5! e4 (The bishop is helpless; 1...bxc5 2.dxc5 Bxc5 3.Rxc6.) 2.cxd6!  exf3 3.d7! Resigns. White attacks knight and rook. *
+1.c5! e4 2.cxd6!  exf3 3.d7! Resigns. White attacks knight and rook. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -822,7 +822,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe5!! Qa5+ (Or 1...Bxdl 2.Bb5+ Qd7 3.Bxd7+ Kd8 4.Nxf7+ de7 5.de1 and White has won too much material.) 2.Bd2 Bxdl 3.Bxa5 dxe5 4.Bb5 mate! *
+1.Nxe5!! Qa5+ 2.Bd2 Bxdl 3.Bxa5 dxe5 4.Bb5 mate! *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -864,7 +864,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe7 Qxe7 2.Qf3 Kg7 (If2...Bf5, 3.Nxf5 gxf5 4.Qg3! Kg7 5.Bxf6+ Kxf6 6.Qh4+! Ke6 7.Re1+, winning.)  3.Nce4!! dxe4 4.Nxe4 Qe6 (Or 4...Qxe4 5.Qxf6+ Kg8 6.Bh6 followed by mate.)  5.Bxf6+ Kg8 6.Qf4 Resigns. For 7.Qh6 wins. *
+1.Rxe7 Qxe7 2.Qf3 Kg7  3.Nce4!! dxe4 4.Nxe4 Qe6  5.Bxf6+ Kg8 6.Qf4 Resigns. For 7.Qh6 wins. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -878,7 +878,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re1!! Rxf6(If1...Bxd5, 2.Qxc8 wins.) 2.Bxe6+ Qxe6 3.Qh7+ Bg7 4.Qxh5+ Resigns. White wins on mate- rial. *
+1.Re1!! Rxf62.Bxe6+ Qxe6 3.Qh7+ Bg7 4.Qxh5+ Resigns. White wins on mate- rial. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -906,7 +906,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxc6+ bxc6 2.Nxc6!! Resigns. If2...Rxd1+, 3.Rxd1 and Black’s queen is trapped because of the mate threat (3...Qe6?? 4.Rd8 mate). After 3...Qd7 4.Rxd7 de7 5.Nxa5, White wins easily. *
+1.Bxc6+ bxc6 2.Nxc6!! Resigns. If2...Rxd1+, 3.Rxd1 and Black’s queen is trapped because of the mate threat . After 3...Qd7 4.Rxd7 de7 5.Nxa5, White wins easily. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -934,7 +934,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxe4!! fxe4 (Or 1...Bxf1 2.Rxf1!, with material plus.) 2.Bxe4+ Kh8 3.Ng6+ Kh7 4.Nxf‘8+ Kh8 5.Ng6+ Kh7 6.Ne5+! Kh8 7.Nf7 mate. *
+1.Qxe4!! fxe4 2.Bxe4+ Kh8 3.Ng6+ Kh7 4.Nxf‘8+ Kh8 5.Ng6+ Kh7 6.Ne5+! Kh8 7.Nf7 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -990,7 +990,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe4! che4 2.Rxe4! Nxe4 3.Rxe4! Qxe4 4.Ng5 !! Qg6 (If4...Qxh4 5.Nf7 mate.) 5.Qxh7+!! Qxh7 6.Nf7 mate. *
+1.Nxe4! che4 2.Rxe4! Nxe4 3.Rxe4! Qxe4 4.Ng5 !! Qg6 5.Qxh7+!! Qxh7 6.Nf7 mate. *
 
 [Event "White to move & win"]
 [Site "Pinning"]
@@ -1032,7 +1032,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d4!! 2.Qxd4 Qa1+. This wins White’s knight (after 3.Qd1 etc.) as 3.Ndl?? allows 3...Qxd4. *
+1...d4!! 2.Qxd4 Qa1+. This wins White’s knight as 3.Ndl?? allows 3...Qxd4. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1088,7 +1088,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...R8c3! 2.Q62 Bb5! (If now 3.Bxb5, 3...Rxe3 wins a piece for Black.) 3.Rfd1 Qc7! 4.Bd4 Rxd3! 5.Rxd3 Qc4! Resigns. Black comes out a piece to the good. *
+1...R8c3! 2.Q62 Bb5! 3.Rfd1 Qc7! 4.Bd4 Rxd3! 5.Rxd3 Qc4! Resigns. Black comes out a piece to the good. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1102,7 +1102,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qb6! (If now 2.Nce2, Black wins a piece by 2...e5.) 2.Be3 e5 3.Na4 Qa7! Black must win a piece. *
+1...Qb6! 2.Be3 e5 3.Na4 Qa7! Black must win a piece. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1116,7 +1116,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ne4!! (Ifnow 2.Bxd8, 2...Bxf2 mate.) 2.Be3 Bxe3 3.fxe3 Qh4+ 4.g3 ng3 and Black has a winning game. *
+1...Ne4!! 2.Be3 Bxe3 3.fxe3 Qh4+ 4.g3 ng3 and Black has a winning game. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1200,7 +1200,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...ng4! (If 2.Bxg4, 2...Qh4+ etc.)  2.QeZ Qh4+ Resigns. For if 3.Bf2, 3...Nxf2 4.Qxf2 Qxf2+ 5.Kxf2 Bg4 and the pin wins a piece. Or 3.Kd1 Nxe3+ 4.Qxe3 Rxf3! 5.Qxf3 Bg4, with an even more disastrous pin. *
+1...ng4!  2.QeZ Qh4+ Resigns. For if 3.Bf2, 3...Nxf2 4.Qxf2 Qxf2+ 5.Kxf2 Bg4 and the pin wins a piece. Or 3.Kd1 Nxe3+ 4.Qxe3 Rxf3! 5.Qxf3 Bg4, with an even more disastrous pin. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1214,7 +1214,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d4! (If now 2.Qxd4, 2...Qxf2 mate!) 2.cxd4 Bb4! This wins the queen, for if 3.Qxb4, 3...Qxf2 mate! *
+1...d4! 2.cxd4 Bb4! This wins the queen, for if 3.Qxb4, 3...Qxf2 mate! *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1242,7 +1242,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! 2.Qxf3. (If 2.Kg2, 2...Nxe1+ Wins the Exchange, While if 2.Kh1, 2...Nxe1! 3.Qxe7? Rfl mate!)  2...Qxe1+!. Black comes out the Ex- change ahead. *
+1...Nf3+! 2.Qxf3.  2...Qxe1+!. Black comes out the Ex- change ahead. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1298,7 +1298,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxg2! 2.Rxe8 (Even better for Black is 2.ng2 Rxe2 etc.) 2...Bc6+!  and wins. *
+1...Bxg2! 2.Rxe8 2...Bc6+!  and wins. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1326,7 +1326,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxf2+! (If now 2.Kxf2?, 2...Qxe5 wins.) 2.Kf1 Bxel and wins. *
+1...Bxf2+! 2.Kf1 Bxel and wins. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1340,7 +1340,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4! (Ifnow 2.Ra3, 2...Rdd1 wins the knight “to begin with”) 2.Rxd4 Bxd4. White is helpless against 3...R02 winning his rook. *
+1...Rxd4! 2.Rxd4 Bxd4. White is helpless against 3...R02 winning his rook. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1396,7 +1396,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd2! 2.Qxd2 Nxe4 (Threat- ens ...Ng3 mate or ...Nf2 mate, aside from attacking White’s queen. So...)  3.Qg2 Nf2 mate! *
+1...Rxd2! 2.Qxd2 Nxe4  3.Qg2 Nf2 mate! *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1410,7 +1410,7 @@ White has a slow win with 1.Nxe7 Rxfl+ 2.Kxfl Bxg4 3.Nxd5, etc. Much faster is 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd5! 2.Rxd5 Qb7! 3.Qg2 le+! (But not 3...Nf4? 4.Rd8+!)  4.le Qe4+l 5.Qg2 ng2+ 6.Kxg2 Nf4+ Black wins the rook and remains a piece ahead. *
+1...Rxd5! 2.Rxd5 Qb7! 3.Qg2 le+!  4.le Qe4+l 5.Qg2 ng2+ 6.Kxg2 Nf4+ Black wins the rook and remains a piece ahead. *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1536,7 +1536,7 @@ Black gets nowhere with 1...dxe4.  Instead, by playing l...Qe7, he pins and wins
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd6+ Kf8 (Black loses his queen aﬁer 1...Bxd6?) 2.Nxb7 and wins. *
+1.Nd6+ Kf8 2.Nxb7 and wins. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1592,7 +1592,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6+ Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nc7+! Ke7 (If 1...Rxc7, 2.Rxd8+ with the Exchange ahead.)  2.Rxd8 Rxd8 3.Rxd8 de8 4.Ne6+ and wins. White’s next is 5.Nxc5. *
+1.Nc7+! Ke7  2.Rxd8 Rxd8 3.Rxd8 de8 4.Ne6+ and wins. White’s next is 5.Nxc5. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1606,7 +1606,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6+ Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd5! Qfo (If 1...cxd5, 2.Qc7+ and 3.Qxb7 mate. If l...Qh6, 2.Qb4 b6 3.Nxb6 and wins, or 2...b5 3.Qa5 and wins.) 2.Rxb7+! Kxb7 3.Qb4+ K08 (Or 3...Ka8 4.Nc7 mate.) 4.Ne7+. The fork wins the queen. *
+1.Nd5! Qfo 2.Rxb7+! Kxb7 3.Qb4+ K08 4.Ne7+. The fork wins the queen. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1620,7 +1620,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6+ Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd6 Bd7 (White threatened Nf5+ as well as Nxe8.) 2.Re7+ Kf6 3.Rxd7 Ke6 4.Rd8, and White keeps the extra piece: if 4...Ke7, 5.Nf5+ and if 4...Rh4+, 5.Kg3. *
+1.Nd6 Bd7 2.Re7+ Kf6 3.Rxd7 Ke6 4.Rd8, and White keeps the extra piece: if 4...Ke7, 5.Nf5+ and if 4...Rh4+, 5.Kg3. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1662,7 +1662,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6+ Resigns. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5! Bde (White was threat- ening 2.Nxf6 in addition to Qh8 mate.)  2.Nd7+ and White wins the queen.  1.Nd7+ also wins, but less simply. *
+1.Nxd5! Bde  2.Nd7+ and White wins the queen.  1.Nd7+ also wins, but less simply. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1746,7 +1746,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N! Rxf6+ 2.Nxf6+ K m
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh5+! Kf6(If1...Bxh5, 2.Ne6+ wins the queen.) 2.Rxf5+. White wins the knight. *
+1.Rh5+! Kf62.Rxf5+. White wins the knight. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1844,7 +1844,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N! Rxf6+ 2.Nxf6+ K m
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 ...Rxf7, 2.Qc8+ leads to mate.)  2.Nh6+ Kh8 3.ng7+!! Kxg7 4.Nxf5+, and wins. *
+The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8  2.Nh6+ Kh8 3.ng7+!! Kxg7 4.Nxf5+, and wins. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1928,7 +1928,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf8! Qxf8 2.Rd8! Qxd8 (On 2...Qe7 or the like, White has 3.Rh8 mate.) 3.Nxf7+ K moves 4.Nxd8 and wins. *
+1.Rxf8! Qxf8 2.Rd8! Qxd8 3.Nxf7+ K moves 4.Nxd8 and wins. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1970,7 +1970,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qf6! Qxf6 2.Nxf6 (White threatens Rxh2 and also ng8 and Nd7+) 2...Nf3 3.Rf4 Nd2+ 4.Ka2 Nxb3 5.Kxb3! Rh8 6.Nd7+ and wins. With the Exchange ahead, White will have an easy win. *
+1.Qf6! Qxf6 2.Nxf6 2...Nf3 3.Rf4 Nd2+ 4.Ka2 Nxb3 5.Kxb3! Rh8 6.Nd7+ and wins. With the Exchange ahead, White will have an easy win. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1984,7 +1984,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7+Kg8(If1...Kxf7, 2.Ng5+ ng5 3.Qe6+ Kf8 4.Qxe8 mate or 2...Kg8 3.Qe6+ Kh8 4.Nf7+ winning the queen.) 2.Ng5! Nf6 (If 2...ng5, 3.Rxe8+ Kxf7 4.Qe6 mate.) 3.Rxg7+ Resigns. If 3..Kxg7, 4.Ne6+ wins the queen. *
+1.Rxf7+Kg82.Ng5! Nf6 3.Rxg7+ Resigns. If 3..Kxg7, 4.Ne6+ wins the queen. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2026,7 +2026,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7! Bxf7 2.Qf3!!. (White threatens 3.Qxf7+ and 4.Qe7 mate. If now 2...Qe6, 3.Nxc7+ or if 2...Qd7, 3.Nf6+ winning the queen. Also if 2...Bg8, 3.Qf8+ Kd7 4.Qg7+ Kc6 5.Ne7+ with the same result.) 2...Bxd5 3.cxd5! Resigns. White’s mate threat decides. *
+1.Rxf7! Bxf7 2.Qf3!!. 2...Bxd5 3.cxd5! Resigns. White’s mate threat decides. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2054,7 +2054,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8!! Qg5(If1...Qxe8,2.Nh5+ Kh7 3.Nf6+ wins.) 2.Qe3. (Threatens 3.Re7+ Kf6 4.Qe5 mate.) 2...h5 3.Qe5+ Resigns. If 3...Qf6, 4.Re7+ wins the queen. *
+1.Re8!! Qg52.Qe3. 2...h5 3.Qe5+ Resigns. If 3...Qf6, 4.Re7+ wins the queen. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2068,7 +2068,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ng6!! hxg6 2.hxg6 Rf6 (If 2...Nf6 3.Qh2 forces mate.) 3.Rh8+!  Resigns. If 3...Kxh8 4.Qh2+ Kg8 5.Qh7+ Kf8 6.Qh8 mate. *
+1.Ng6!! hxg6 2.hxg6 Rf6 3.Rh8+!  Resigns. If 3...Kxh8 4.Qh2+ Kg8 5.Qh7+ Kf8 6.Qh8 mate. *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2194,7 +2194,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...RdZ! (If now 2.Qxd2, 2...Nf3+ wins the queen.) 2.Qc4. (If 2.ch, 2...Nf3+ 3.Kf1 Qb5[a6]+ and mates next move. And on 2.Qc3, 2...Qxe4 winning the queen or else mating the king.)  2...Nf3+(1fnow 3.Khl, 3...Rxh2 mate.)  3.Kf1 Qd7 and mates shortly, as the queen cannot be kept from h3. For ex— ample, 3.Qe2 Qh3+ 4.Kf2 Qxh2+ 5.Kxf3 Qxe2 mate. *
+1...RdZ! 2.Qc4.  2...Nf3+ 3.Kf1 Qd7 and mates shortly, as the queen cannot be kept from h3. For ex— ample, 3.Qe2 Qh3+ 4.Kf2 Qxh2+ 5.Kxf3 Qxe2 mate. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2236,7 +2236,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...b5! (Ifnow 2.Bb3, 2...a4 wins the bishop.) 2.Bxb5 Nd4+ 3.Nxd4 Nxd4+, followed by ...Nbe and wins. *
+1...b5! 2.Bxb5 Nd4+ 3.Nxd4 Nxd4+, followed by ...Nbe and wins. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2292,7 +2292,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nb3! (If now 2.Rbl, 2...Nd4 wins a piece.) 2.axb3 Qxal. Black has won the Exchange. *
+1...Nb3! 2.axb3 Qxal. Black has won the Exchange. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2306,7 +2306,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.Kdl (Or 2.Kf1 with the same result.) 2...e2+! 3.Kxe2 Nd4+, fol- lowed by 4...Nxf5 and wins. *
+1...Nf3+ 2.Kdl 2...e2+! 3.Kxe2 Nd4+, fol- lowed by 4...Nxf5 and wins. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2348,7 +2348,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nc5 (Wins the Exchange, as White cannot play 2.Rd7.) 2.Rbb1 Nd3 and wins. *
+1...Nc5 2.Rbb1 Nd3 and wins. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2404,7 +2404,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxf2!! 2.Rxf2 (If 2.Kxf2, 2...Ng4+ wins the queen. If 2.Bf3, 2...N2g4 3.Bxg4 ng4 and White can resign.) 2...Rc1+ 3.Bf1 Rxal 4.Nhf5 exf5 5.Nxf5 Qxf2+! Resigns, for if 6.Kxf2, 6...Ng4+ wins. *
+1...Nxf2!! 2.Rxf2 2...Rc1+ 3.Bf1 Rxal 4.Nhf5 exf5 5.Nxf5 Qxf2+! Resigns, for if 6.Kxf2, 6...Ng4+ wins. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2446,7 +2446,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bh3! (If now 2.gxf3, 2...Nf3+ wins the queen; or 2.f4 Qg6!, winning the queen because of the double threat of 3...ng2 mate and 3...Nf3+.) 2.Kh1 Bxg2+! 3.Kxg2 Qf3+ 4.Kg1 (If 4.Kf1, 4...Qh3+ 5.Ke2 Qg4+ 6.Kf1 Nf3 de— cides.)4...Qg4+ 5.Kh1Nf3 6.Qd1 Qh3.  White must give up his queen to stop mate. *
+1...Bh3! 2.Kh1 Bxg2+! 3.Kxg2 Qf3+ 4.Kg1 4...Qg4+ 5.Kh1Nf3 6.Qd1 Qh3.  White must give up his queen to stop mate. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2474,7 +2474,7 @@ The immediate Qfo will not do because of ...Qxd2+. Therefore: 1.Nf7+ Kg8 (If 1 .
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxc1 (For 2.Qxcl allows mate, and if 2.Rxc1, 2...Nf3+ wins.) 2.h3 Nf3+l 3.Kf2 Rxfl+ Resigns. *
+1...Rxc1 2.h3 Nf3+l 3.Kf2 Rxfl+ Resigns. *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2768,7 +2768,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ng5! Nf6 (If 1...Bxg5, 2.Qxh7 mate. Ifl...Qxd6, 2.Bxh7+ Kh8 3.Nxf7 mate.) 2.Bxh7+ Kh8 3.Nxf7 mate. *
+1.Ng5! Nf6 2.Bxh7+ Kh8 3.Nxf7 mate. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2782,7 +2782,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh6+ Kg8 (If 1 ...Kxh6, 2.Qh5+ forces mate. If 1 ...Kh8, 2.Nf7+ wins the queen.) 2.Nxc6 Bxc6 3.Qxe6+ and wins. White continues 4.Qxc6. *
+1.Bh6+ Kg8 2.Nxc6 Bxc6 3.Qxe6+ and wins. White continues 4.Qxc6. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2796,7 +2796,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bd4 Rg8 (If 1...Bxd4, 2.Qxd4+ wins the knight. If 1...Nc4, 2.Bxg7+ Kxg7 3.Qd4+ forks king and knight.)  2.Bxg7+ Rxg7 3.Qd4 Rb8 4.Rb1 Qb7 5.Bb3 and wins. White has trapped the knight. *
+1.Bd4 Rg8  2.Bxg7+ Rxg7 3.Qd4 Rb8 4.Rb1 Qb7 5.Bb3 and wins. White has trapped the knight. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2810,7 +2810,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Na7! Rxa7 (If 1...Qc7, 2.Re8+ wins.) 2.de8/Q+ Bxd8 3.Qxd8+ Kg7 4.Bxf5 gfo 5.Qd4+. White wins the rook. *
+1.Na7! Rxa7 2.de8/Q+ Bxd8 3.Qxd8+ Kg7 4.Bxf5 gfo 5.Qd4+. White wins the rook. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2824,7 +2824,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f6! gxf6 (If 1...Nxf6, 2.Qb8+ etc.) 2.Bxd7 Rxd7 3.Qg4+ and wins.  White wins a rook. *
+1.f6! gxf6 2.Bxd7 Rxd7 3.Qg4+ and wins.  White wins a rook. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2838,7 +2838,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd8+! (Not 1.Qxd5 Qxe6 2.Qxa5 Qxc4.) 1...Qxd8 2.Qxd5+ Kf8 3.Qxa5 and wins. *
+1.Nd8+! 1...Qxd8 2.Qxd5+ Kf8 3.Qxa5 and wins. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2852,7 +2852,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7 Rxf7 (If 1...Qxe2, 2.Rxf8+!) 2.Qe8+ and White forces mate. *
+1.Rxf7 Rxf7 2.Qe8+ and White forces mate. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3006,7 +3006,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.NgS! hng (If 1...Rf6, 2.Qxe4 Qxe4 3.Nxe4 wins a piece.) 2.ng5+ and wins. After 3.Qxd8+, White is the Exchange ahead. *
+1.NgS! hng 2.ng5+ and wins. After 3.Qxd8+, White is the Exchange ahead. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3020,7 +3020,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nde! cde 2.Rxd6! Qxd6 3.Qe8!. (Threatens 4.Qh8 mate.) 3...Rf8 4.Nxf8+ Qxf8 (Else White mates.)  5.Qxf8 Resigns. *
+1.Nde! cde 2.Rxd6! Qxd6 3.Qe8!. 3...Rf8 4.Nxf8+ Qxf8  5.Qxf8 Resigns. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3048,7 +3048,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxg7 Kxg7 (If 1...Re8, 2.Be5 f6 3.Qe4! remaining a piece ahead.)  2.Qe5+ Nf6 3.Rd6!. White wins the knight. *
+1.Bxg7 Kxg7  2.Qe5+ Nf6 3.Rd6!. White wins the knight. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3090,7 +3090,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxc6 dxc6 (No better is 1...Qxc6.) 2.Qa3+ and White wins the bishop. *
+1.Bxc6 dxc6 2.Qa3+ and White wins the bishop. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3132,7 +3132,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh3 h6 (White threatened 2.Rxh7+ Kxh7 3.Qh5 mate. If l...g6, 2.fxg6! Rxg6 3.Rxh7+ Kxh7 4.Qh5+ Rh6 5.Qf7+, followed by mate.) 2.Qd2!  and wins. White threatens 3.Qxd7 as well as 3.Qxh6+! (or 3.Rxh6+!) 3...gxh6 4.Rxh6 mate. *
+1.Rh3 h6 2.Qd2!  and wins. White threatens 3.Qxd7 as well as 3.Qxh6+! 3...gxh6 4.Rxh6 mate. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3160,7 +3160,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7+ Rxf7 (If 1...Kxf7, 2.Qb3+ wins the bishop.) 2.dxe5 Ng4 (Black dare not play ...Nxe5?? losing his queen.) 3.e6. This double attack wins back a piece. *
+1.Bxf7+ Rxf7 2.dxe5 Ng4 3.e6. This double attack wins back a piece. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3174,7 +3174,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e3 Nf5 (Or l...Nb5 2.Qa4.)  2.Qg4 and wins. *
+1.e3 Nf5  2.Qg4 and wins. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3188,7 +3188,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.c6 Rxb6 (If 1...Rb8, 2.Qd6+ or 1...Re7 2.b7 Qb5 3.Qd6 etc.) 2.Qd8+ Resigns. White wins the rook. *
+1.c6 Rxb6 2.Qd8+ Resigns. White wins the rook. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3300,7 +3300,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7! Kxg7(If1...ng7, 2.Bf6 wins the queen.) 2.Bf6+! Qxf6 3.Nh5+ Resigns. White wins the queen. *
+1.Rxg7! Kxg72.Bf6+! Qxf6 3.Nh5+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3342,7 +3342,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxh6+!! Kxh6 (Or 1...Rxh6 2.Rxd7+ and 3.Rxb7.) 2.Rxd6+ Qxd6 3.Nf5+ and wins. White is two pawns up after 4.Nxd6. *
+1.Qxh6+!! Kxh6 2.Rxd6+ Qxd6 3.Nf5+ and wins. White is two pawns up after 4.Nxd6. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3356,7 +3356,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.g5! hxg5. (Forced) 2.Rxd6!  Rxd6 3.Rxd6 Qxd6 4.Qc8+ and White wins the rook. *
+1.g5! hxg5. 2.Rxd6!  Rxd6 3.Rxd6 Qxd6 4.Qc8+ and White wins the rook. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3398,7 +3398,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf7!! Kxf7(If1...Qxf7, 2.Rxd8 winning the Exchange, as Black’s bishop is pinned. If l...Rxd2, 2.ng6+ Kf‘8 3.Qg8+ Ke7 4.Qe8+ Kd6 5.Qe6 mate.) 2.Rxd8 Qxd8 3.Qb7+. White wins the rook. *
+1.Bf7!! Kxf72.Rxd8 Qxd8 3.Qb7+. White wins the rook. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3412,7 +3412,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh8+ Kg5 2.Qe5+ and wins.  2.Qd8+ also wins the bishop. Plus l.h4 (threat 2.Qh8 mate) works as well. *
+1.Qh8+ Kg5 2.Qe5+ and wins.  2.Qd8+ also wins the bishop. Plus l.h4 works as well. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3468,7 +3468,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh4! Bxh4 2.d6!. (This second- ary threat explains the first move.)  2...cxd6 3.Bxb7 Nc6 4.Bxa8 Rxa8 5.gxh4. White has won the Exchange. *
+1.Nh4! Bxh4 2.d6!.  2...cxd6 3.Bxb7 Nc6 4.Bxa8 Rxa8 5.gxh4. White has won the Exchange. *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3678,7 +3678,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd5+! 2.Qxd5 Bg6+ 3.Qe4.  (If 3.Kc3[c4], Rc2 mate.) 3...Bxe4+ Black is the Exchange ahead. *
+1...Rxd5+! 2.Qxd5 Bg6+ 3.Qe4.  3...Bxe4+ Black is the Exchange ahead. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3720,7 +3720,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4! 2.Rxd4 Qa3+ 3.Kb1 Qxa2+ 4.Kc1 Qa1+, followed by 5...Qxd4+, and wins. There’s also 2...Qb4+ 3.Ka1 (3.Kc1 Rxa2! wins) 3...Qc3+ and 4...Qxd4. *
+1...Rxd4! 2.Rxd4 Qa3+ 3.Kb1 Qxa2+ 4.Kc1 Qa1+, followed by 5...Qxd4+, and wins. There’s also 2...Qb4+ 3.Ka1 3...Qc3+ and 4...Qxd4. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3734,7 +3734,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxe4 2.fxe4 Rxh3! 3.gxh3 Qxe4+ 4.Kgl. Now 4...Qe3+ (better than taking the rook) 5.Kf1 (5.Kg2 comes to the same thing) 5...Qf3+, and Black mates on e2. *
+1...Bxe4 2.fxe4 Rxh3! 3.gxh3 Qxe4+ 4.Kgl. Now 4...Qe3+ 5.Kf1 5...Qf3+, and Black mates on e2. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3762,7 +3762,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...c6 2.Bc4 Qa5+. Black wins the knight. If 2.Nc4 (threat 3.Nd6 mate), 2...Ng6 3.Ba4 b5 wins a piece. *
+1...c6 2.Bc4 Qa5+. Black wins the knight. If 2.Nc4 , 2...Ng6 3.Ba4 b5 wins a piece. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3804,7 +3804,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qel+ 2.Rd1 Qe4! (Threatens mate. This would also be the reply to 2.Nd1. Then 3.Rc3 and 3.Rd2 run into knight forks. 3.Kd2 and 3.Nf2 fail against 3...Qe2(+), while 3.Nb2 trans- poses to the main line after 3...Qh1+ 4.Rd1 etc.) 3.Rd3 th+! 4.Rdl Qxh2 and wins. Black still threatens mate and thus gains time to pick up the remain- ing white pawn. *
+1...Qel+ 2.Rd1 Qe4! 3.Rd3 th+! 4.Rdl Qxh2 and wins. Black still threatens mate and thus gains time to pick up the remain- ing white pawn. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3832,7 +3832,7 @@ White’s mate threat wins the bishop: 1.Qe4 and wins. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxg2+ 2.Kxg2 Qg4+ (If now 3.Kh1, 3...Qf3 mate.) 3.Kf1 Qxd1+ (If now 4.Re1, 4...Qf3+, forcing check- mate.) 4.Kg2 Qg4+ 5.Kf1 Qf3+ (5...ng1+ also works: 6.Ke2 Qg2+ 7.Kd3 Qf3+ 8.Kc4 Qxe4+ 9.Kch b6+!.) 6.Ke1 Qxe4+. Black wins the bishop too. *
+1...Bxg2+ 2.Kxg2 Qg4+ 3.Kf1 Qxd1+ 4.Kg2 Qg4+ 5.Kf1 Qf3+ 6.Ke1 Qxe4+. Black wins the bishop too. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3902,7 +3902,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rd5! 2.Bc4. (After 2.Be8, Black has the same winning move.)  2...b5 and wins. *
+1...Rd5! 2.Bc4.  2...b5 and wins. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3916,7 +3916,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...e3! (Threatens 2...e2.) 2.Re1 exd2. Black wins a piece. *
+1...e3! 2.Re1 exd2. Black wins a piece. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3944,7 +3944,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5! 2.Bg3 g4 (If the attacked knight moves, 3...Ne4 wins a piece.)  3.a3 gxf3! 4.axb4 fng. The double at- tack wins a piece. *
+1...g5! 2.Bg3 g4  3.a3 gxf3! 4.axb4 fng. The double at- tack wins a piece. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3958,7 +3958,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d4! (Threatens 2...Qxe2+ 3.Kxe2 d3+ winning a piece.) 2.Qxd3 exd3. Black wins a piece, for if 3.N moves, d2+ wins the rook. *
+1...d4! 2.Qxd3 exd3. Black wins a piece, for if 3.N moves, d2+ wins the rook. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4014,7 +4014,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qb6!! (Threatening ...Qxb2 mate and also attacking White’s bishop.  White can stop the mate only by losing his bishop. Instead this follows...)  2.Bxb6 Ne2 mate. *
+1...Qb6!!  2.Bxb6 Ne2 mate. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4028,7 +4028,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxe2+ (Forcing White’s re- ply.) 2.Qxe2 Qd4+ and wins. Black con- tinues 3...Qxc3. *
+1...Nxe2+ 2.Qxe2 Qd4+ and wins. Black con- tinues 3...Qxc3. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4042,7 +4042,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxf3! (If now 2.Rxf3, 2...Rxh3+ 3.gxh3 Bxf3+ 4.Qxf3 Qxf3+ and 5...Qxdl. If 2.gxf3, 2...Rxh3+ and mate next move.) 2.Bh2 Rxh3! 3.gxh3 Rxfl mate. *
+1...Rxf3! 2.Bh2 Rxh3! 3.gxh3 Rxfl mate. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4056,7 +4056,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qh3!! (Threatening not only ...Qxh6, but also ...Ng3+ and mate next move.) 2.gxh3 Nf2+ 3.Kgl Nxh3 mate. *
+1...Qh3!! 2.gxh3 Nf2+ 3.Kgl Nxh3 mate. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4070,7 +4070,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rd3 2.Racl. (White can stop mate only by losing his bishop.) 2...Rh3 mate. *
+1...Rd3 2.Racl. 2...Rh3 mate. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4084,7 +4084,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...hxg3! (Apparently allowing a double threat.) 2.Rd2 (If2.hxg3, 2...Bf6 winning the b2-pawn.) 2...gxh2+ (If now 3.Kg2, 3...Rh3! saves everything for Black.) 3.Kxh2 Bc7!! and Black wins, for if 4.Bxb3, 4...Bxf4+ and 5...Bxd2. *
+1...hxg3! 2.Rd2 2...gxh2+ 3.Kxh2 Bc7!! and Black wins, for if 4.Bxb3, 4...Bxf4+ and 5...Bxd2. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4098,7 +4098,7 @@ If Black tries to win a piece by the double attack 1...Qe5?, he fails af— ter 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qe7! (Attacking the rook and also threatening ...Qe1 mate.) 2.h4 Qe1+ 3.Kh2 Qxh4+ and Black continues 4...ng5. *
+1...Qe7! 2.h4 Qe1+ 3.Kh2 Qxh4+ and Black continues 4...ng5. *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -4196,7 +4196,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ba6! Rb8? (This loses a whole rook instead of “only” the Exchange.)  2.Bc4+. White wins a whole rook. *
+1.Ba6! Rb8?  2.Bc4+. White wins a whole rook. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4210,7 +4210,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc6! Qxc3 (Or 1...Qxc6 2.Qg7 mate.) 2.Nxe7+ Kh8 3.Nf7 mate. *
+1.Nxc6! Qxc3 2.Nxe7+ Kh8 3.Nf7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4308,7 +4308,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne6! Qa5+ (If l...Qxe3, 2.Nbc7 mate.) 2.Bd2 Qxd2+ 3.Qxd2 Nxd2 4.Nbc7 mate. *
+1.Ne6! Qa5+ 2.Bd2 Qxd2+ 3.Qxd2 Nxd2 4.Nbc7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4322,7 +4322,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bc4! Rxf1+ (If 1...Qxc4, 2.Rxf8+ etc.) 2.Bxfl! Qa5 3.Rel! Re- signs. Ifthe bishop moves, 4.Qe8+! de— cides. *
+1.Bc4! Rxf1+ 2.Bxfl! Qa5 3.Rel! Re- signs. Ifthe bishop moves, 4.Qe8+! de— cides. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4336,7 +4336,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc7! Qxc7 (Else his rook goes lost.) 2.Bxe6+ Resigns. White wins the queen. *
+1.Nxc7! Qxc7 2.Bxe6+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4350,7 +4350,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.dch Bch (Or l...Nch 2.Bch winning a piece.) 2.Bch Nxc5 3.Rch!  Resigns. If 3...Qch, 4.Rxe8+ etc. *
+1.dch Bch 2.Bch Nxc5 3.Rch!  Resigns. If 3...Qch, 4.Rxe8+ etc. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4364,7 +4364,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne6+! Qxe6 2.Qa5+ Kb8 (If 2...Kc6, 3.b5 mate. Or 2...b6 3.Qa7+ K06 4.Qxb6 mate.) 3.Ba7+ Ka8 4.Bb6+ Kb8 5.Qa7 mate. *
+1.Ne6+! Qxe6 2.Qa5+ Kb8 3.Ba7+ Ka8 4.Bb6+ Kb8 5.Qa7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4378,7 +4378,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ng5! Rd8 (If l...Qxf3, 2.Nxf7 mate.) 2.Qxd5 Rxd5 3.Nxf7+ Kg8 4.h5.  The rook is trapped, leaving Black with a lost ending. *
+1.Ng5! Rd8 2.Qxd5 Rxd5 3.Nxf7+ Kg8 4.h5.  The rook is trapped, leaving Black with a lost ending. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4420,7 +4420,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe6+ Kh5 (No better is 1...Kh7 2.Ng5+ Kh8 3.Qc8+ and mate next move.) 2.Nf6+ gxf6 3.Qxe1 Resigns. *
+1.Qe6+ Kh5 2.Nf6+ gxf6 3.Qxe1 Resigns. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4448,7 +4448,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd5! Nde (If l...Qxf3, 2.Nxe7+ wins a piece.) 2.Qxf6 Nxf6 3.Bxh6 Nbd7 4.Bxf8 Kxf‘8 5.e5 Nd5 6.Bxd5 cde 7.66 and wins. *
+1.Nd5! Nde 2.Qxf6 Nxf6 3.Bxh6 Nbd7 4.Bxf8 Kxf‘8 5.e5 Nd5 6.Bxd5 cde 7.66 and wins. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4476,7 +4476,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxb7! Qxe6 2.Bc5! Qxe2 (Ex- pecting 3.Rxe2?? Rd1+ and Black forces mate.) 3.Rxe7+! Qxe7 4.Rxe7 mate. *
+1.Rxb7! Qxe6 2.Bc5! Qxe2 3.Rxe7+! Qxe7 4.Rxe7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4518,7 +4518,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe5! Bxdl (“Best” is l...dxe5 2.ng4 and White wins easily.) 2.Bxf7+ Ke7 3.Nd5 mate. *
+1.Nxe5! Bxdl 2.Bxf7+ Ke7 3.Nd5 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4560,7 +4560,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f7+ Kh7 (On 1:..Bg7, White makes a new queen.) 2.Qf5+ Kh8 3.Qf6+ Kh7 4.g6+ Resigns. Black loses his queen. *
+1.f7+ Kh7 2.Qf5+ Kh8 3.Qf6+ Kh7 4.g6+ Resigns. Black loses his queen. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4602,7 +4602,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd6 Re7 (If 1...Rf8, White wins the Exchange in the same way. But if l..Rg8?, 2.Nf7 mate!) 2.Nxc8. White wins the Exchange by 3.Bxe7. *
+1.Nd6 Re7 2.Nxc8. White wins the Exchange by 3.Bxe7. *
 
 [Event "White to move & win"]
 [Site "Discovered Attack"]
@@ -4630,7 +4630,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxc5! 2.Qxh8 Ne5 (Threatens ...Qg4.) 3.Kh1 (To answer 3...Qg4 with 4.8. If 3.h3, 3...Qd5.) 3...Bxg2+! (Or even 3...Qg4 4.f3 Nxf3!. The check is more forcing.) 4.Kxg2 Qg4+ 5.Kh1 Qf3+ (Or 5...Qe4+ 6.Kgl Nf3+ 7.Kg2 Nh4+ 8.Kg3 Qg2+ 9.Kxh4 Be7+ and Black mates next move.) 6.Kg1 Ng4 7.Nd2 (If 7.Be3, 7...Nxe3.) 7...Bxf2+ 8.Rxf2 Qxf2+ 9.Khl Qxh2 mate. *
+1...Bxc5! 2.Qxh8 Ne5 3.Kh1 3...Bxg2+! 4.Kxg2 Qg4+ 5.Kh1 Qf3+ 6.Kg1 Ng4 7.Nd2 7...Bxf2+ 8.Rxf2 Qxf2+ 9.Khl Qxh2 mate. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4742,7 +4742,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd2! 2.Rxd2 Rxc2 3.Rxc2 Rxc2 4.Qa3. (After 4.Qal Black wins the queen the same way.) 4...Rxg2+ 5.Khl Rxa2+ Resigns. White loses his queen. *
+1...Qxd2! 2.Rxd2 Rxc2 3.Rxc2 Rxc2 4.Qa3. 4...Rxg2+ 5.Khl Rxa2+ Resigns. White loses his queen. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4798,7 +4798,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qc1+ 2.Kh2 Qf4+ (If now 3.Kg1, 3...Nf3+ wins White’s queen.)  3.Kh1 Qfl+ 4.Kh2 Qxe2 and wins. *
+1...Qc1+ 2.Kh2 Qf4+  3.Kh1 Qfl+ 4.Kh2 Qxe2 and wins. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4812,7 +4812,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d3! (If now 2.Qxd3, 2...Qxb2 etc.) 2.Bxf6 (1er and wins. White loses his rook or bishop. *
+1...d3! 2.Bxf6 (1er and wins. White loses his rook or bishop. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4826,7 +4826,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bh3! 2.Qxa8 Bc5+ (If now 3.Red4, 3...Bxd4+ 4.Rxd4 Qel mate.)  3.Khl Bxg2+! 4.Kxg2 Qg4+ (If now 5.Khl, 5...Qf3 mate.) 5.Kfl Qf3+ 6.Kel Qf2 mate. *
+1...Bh3! 2.Qxa8 Bc5+  3.Khl Bxg2+! 4.Kxg2 Qg4+ 5.Kfl Qf3+ 6.Kel Qf2 mate. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4840,7 +4840,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! (Ifnow 2.Kh1,2...Nxd4 wins.) 2.gxf3 Qg6+ 3.Khl Ng3+ 4.hxg3 Qxc2 Resigns. *
+1...Nf3+! 2.gxf3 Qg6+ 3.Khl Ng3+ 4.hxg3 Qxc2 Resigns. *
 
 [Event "Black to move & win"]
 [Site "Discovered Attack"]
@@ -4896,7 +4896,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh7!+ Kh8 2.Bg8+ Kxg8 (Or 2...Bh6 3.Qh7 mate.) 3.Qh7 mate. *
+1.Bh7!+ Kh8 2.Bg8+ Kxg8 3.Qh7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -4910,7 +4910,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf7!! Qf6 (If l...Kxf7, 2.fxg5+ wins Black’s queen.) 2.fxg5 and wins.  Black cannot save his queen, rook, and bishop. *
+1.Nf7!! Qf6 2.fxg5 and wins.  Black cannot save his queen, rook, and bishop. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -4924,7 +4924,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf7! Rxd8 (If l...Nxd3, 2.Ng5+ Kh6 3.Rxh7 mate.) 2.Nxd8+ Kf6 3.Nxe6 and wins. White comes out the Exchange ahead. *
+1.Nxf7! Rxd8 2.Nxd8+ Kf6 3.Nxe6 and wins. White comes out the Exchange ahead. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -4952,7 +4952,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng8+ Ke7 (If l...Kxg8 2.Nf6 mate.) 2.Nd6 Resigns. *
+1.ng8+ Ke7 2.Nd6 Resigns. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -4980,7 +4980,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh1. (Threatens 2.Kg2 discov- ered check and mate.) l...Kh5 2.Kg3+.  White wins the bishop. *
+1.Rh1. l...Kh5 2.Kg3+.  White wins the bishop. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -4994,7 +4994,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd5. (Threatening a discovered check — such as 2.Rf6+ .) l...ch+ (If l...Kh8, 2.Qd8+ and mate next move.)  2.Rf1+ Resigns. *
+1.Qd5. l...ch+  2.Rf1+ Resigns. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5008,7 +5008,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc5+ Re7 2.Ng6+! Kxf7 (If 2...hxg6, 3.Rh8+ Kxf7 4.fxg5+ Ke6 5.Re1+ and White mates soon.) 3.fxg5+ Kg8 (If3...Kxg6, 4.Qf5 mate.) 4.Nxe7+ Kh8 5.Ng6+! Kg8 6.Qf8+! Rxf8 7.Rxf‘8 mate. A bit faster is 4.Qc4+ Bd5 5.Qxd5+ Re6 6.Qxe6 mate. *
+1.Qc5+ Re7 2.Ng6+! Kxf7 3.fxg5+ Kg8 4.Nxe7+ Kh8 5.Ng6+! Kg8 6.Qf8+! Rxf8 7.Rxf‘8 mate. A bit faster is 4.Qc4+ Bd5 5.Qxd5+ Re6 6.Qxe6 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5036,7 +5036,7 @@ White’s discovered attack wins the queen or forces checkmate. 1.Ne6!  Qxe3 2.N
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh5+ g6 2.ng6! Bg7 (If 2...hxg6, 3.Bxg6 mate; or 2...Nb6 3.Ne5 mate.) 3.Nxh8+ Kf8. After 4.Qxd2 Bth White is the Exchange ahead. *
+1.Bh5+ g6 2.ng6! Bg7 3.Nxh8+ Kf8. After 4.Qxd2 Bth White is the Exchange ahead. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5134,7 +5134,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne6 Kh7 (White threatened mate at h5. If 1...Nf4, 2.Rh5+ Nxh5 3.Qg6 mate.) 2.Rh5+ Kg8 3.ng6+ Rg7 4.ng7 Bxg7 (If 4...Kf‘8, 5.Rh8+ Ke7 6.Re8+ and mate next move. Of course 4...Qxc2 stops mate but it drops the queen.) 5.Rh8+! Kxh8 6.Qh7 mate.  1.Qh5+ is also very strong: (a) 1...Kxh5 2.Nf7+ Bg5 3.Rxg5 mate; (b) 1...Kg7 2.Qh7+ Kf‘8 3.Qxa7, etc. *
+1.Ne6 Kh7 2.Rh5+ Kg8 3.ng6+ Rg7 4.ng7 Bxg7 5.Rh8+! Kxh8 6.Qh7 mate.  1.Qh5+ is also very strong: 1...Kxh5 2.Nf7+ Bg5 3.Rxg5 mate; 1...Kg7 2.Qh7+ Kf‘8 3.Qxa7, etc. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5148,7 +5148,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh5! gth (If 1...Bf‘8, 2.Nxf6+ Kh8 3.Qxh7 mate.) 2.Bxh7+ Kh8 3.Bg6+ Kg8 4.Qh7+ Kf‘8 5.Bh6+ Ke7 6.Qxf7+ Kd8 7.Qxe8 mate. By insert- ing 1...Bxh2+, Black can clear d6 for his king at the end, but it’s still a hope- less cause. *
+1.Nh5! gth 2.Bxh7+ Kh8 3.Bg6+ Kg8 4.Qh7+ Kf‘8 5.Bh6+ Ke7 6.Qxf7+ Kd8 7.Qxe8 mate. By insert- ing 1...Bxh2+, Black can clear d6 for his king at the end, but it’s still a hope- less cause. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5204,7 +5204,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qa8+ Nb8 2.Qxb7+! Kxb7 3.Bxd7+ Ka8 (If 3...Ka6 4808+ fol- lowed by 5.Nc4+ and 6.Rb4 mate.)  4.Rxb8+! Kxb8 5.Rb1+ Ka8 6.Bc6 mate. *
+1.Qa8+ Nb8 2.Qxb7+! Kxb7 3.Bxd7+ Ka8  4.Rxb8+! Kxb8 5.Rb1+ Ka8 6.Bc6 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5218,7 +5218,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re7! Kg8 (If 1...Qxe7, 2.f6+ wins the queen. 1...Qxd4 2.cxd4 is bet- ter, but still losing after 2...Nb7 3.f6+ etc.) 2.Rxa7 and wins. *
+1.Re7! Kg8 2.Rxa7 and wins. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5274,7 +5274,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rg7+ Kf8 2.Rxd7+ Kg8 3.Rg7+. (3.Ng5 intends 4.Ne4 Bxe4 5.Nxe4 and Nf6 mate. Black counters with 3...Nf4 and ...Nd5, more or less forcing the text line.) 3...Kf‘8 4.Rb7+ Kg8 5.Rxb8+ Nf‘8 6.Rxf‘8 mate. *
+1.Rg7+ Kf8 2.Rxd7+ Kg8 3.Rg7+. 3...Kf‘8 4.Rb7+ Kg8 5.Rxb8+ Nf‘8 6.Rxf‘8 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5302,7 +5302,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6+! Kxg6 (If 1...Kf8, 2.Rh8+ Ke7 3.Rxe8+ and 4.ng7+) 2.Bh5+! Kxh7 3.Bf7 mate. *
+1.ng6+! Kxg6 2.Bh5+! Kxh7 3.Bf7 mate. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5344,7 +5344,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.b4! Nc4 (If 1...Nc6, 2.Bd5+ wins the knight.) 2.Bxc4+ and wins. *
+1.b4! Nc4 2.Bxc4+ and wins. *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -5400,7 +5400,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1....Qxf6! (So that if 2.Qxf6, 2...Re1+ 3.Bf1 Rxf1+! 4.Rxf1 f2 mate.)  2.Qc1 Qb2! 3.Qf1 Qxf2! 4.Qxf2 Rel+!  5.Qxe1 f2+. Black mates in two moves. *
+1....Qxf6!  2.Qc1 Qb2! 3.Qf1 Qxf2! 4.Qxf2 Rel+!  5.Qxe1 f2+. Black mates in two moves. *
 
 [Event "Black to move & win"]
 [Site "Discovered Check"]
@@ -5428,7 +5428,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nh4+ (If now 2.Kgl, 2...Qg4 mate.) 2.Ke1 Nxf3 mate. *
+1...Nh4+ 2.Ke1 Nxf3 mate. *
 
 [Event "Black to move & win"]
 [Site "Discovered Check"]
@@ -5470,7 +5470,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxg2+! 2.Kxg2 Rxf2+l 3.Bxf2 e3+ Resigns. If 4.Rd5 (forced), 4...Qxf2+ 5.Kh1 Qxe1+ 6.Kg2 Qf2+ 7.Kh1 e2 and wins. *
+1...Rxg2+! 2.Kxg2 Rxf2+l 3.Bxf2 e3+ Resigns. If 4.Rd5 , 4...Qxf2+ 5.Kh1 Qxe1+ 6.Kg2 Qf2+ 7.Kh1 e2 and wins. *
 
 [Event "Black to move & win"]
 [Site "Discovered Check"]
@@ -5512,7 +5512,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd4! 2.Bxd4 e3+ 3.Qg2 (If 3.Qf3, 3...Bxf3+ 4.Rxf3 Nxc2 5.Rdl Nxd4 6.Rxd4 B05 with a winning endgame.) 3...Bxg2+ 4.Kxg2 Nxc2 5.Ra4. (If 5.Radl, 5...Rxc3! 6.Bxc3 62 and wins.) 5...Rfd8 6.Bb6 Rd2+ 7.Kf3 Rxc3! 8.bxc3 e2 and wins. *
+1...Qxd4! 2.Bxd4 e3+ 3.Qg2 3...Bxg2+ 4.Kxg2 Nxc2 5.Ra4. 5...Rfd8 6.Bb6 Rd2+ 7.Kf3 Rxc3! 8.bxc3 e2 and wins. *
 
 [Event "Black to move & win"]
 [Site "Discovered Check"]
@@ -5554,7 +5554,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxf7+! Kxf7 2.Bxd5+ Kg6 (If 2...Ke7, 3.Rf7 mate.) 3.Bf7+ Kng 4.Bcl+ Kg4 5.Rf4+ KgS 6.h4+ Kh6 7.Rf6 mate. *
+1.Qxf7+! Kxf7 2.Bxd5+ Kg6 3.Bf7+ Kng 4.Bcl+ Kg4 5.Rf4+ KgS 6.h4+ Kh6 7.Rf6 mate. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5568,7 +5568,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh5+! Nxh5 2.fxe6+ Kg6 3.Bc2+ Kg5 4.Rf5+ Kg6 (If 4...Kg4, 5.h3+ leads to a quick mate. Likewise if 4...Kh4, 5.Re4+, etc.) 5.Rf6+ KgS 6.Rg6+ Kh4 7.Re4+ Nf4 8.Rxf4+ Kh5 9.g3!, followed by 10.Rh4 mate. *
+1.Qh5+! Nxh5 2.fxe6+ Kg6 3.Bc2+ Kg5 4.Rf5+ Kg6 5.Rf6+ KgS 6.Rg6+ Kh4 7.Re4+ Nf4 8.Rxf4+ Kh5 9.g3!, followed by 10.Rh4 mate. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5638,7 +5638,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe5 Ne7 (If either ...Nxe5, 2.Rxe5+ is deadly.) 2.Nxd7! Qde 3.Nf6+ Kf‘8 4.Bxe7 mate. *
+1.Nxe5 Ne7 2.Nxd7! Qde 3.Nf6+ Kf‘8 4.Bxe7 mate. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5652,7 +5652,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxe6! Bxfl (Also after l...fxe6 2.Qxe6+ Black comes under heavy at- tack.) 2.Bxf7+ Resigns. If 2...Kxf7, 3.Qe6 mate. Or 2...Kd8 3.Qe8+ winning Black’s queen. *
+1.Bxe6! Bxfl 2.Bxf7+ Resigns. If 2...Kxf7, 3.Qe6 mate. Or 2...Kd8 3.Qe8+ winning Black’s queen. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5680,7 +5680,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd8+! de8 2.Bg5+ Ke8 (Or 2...Kc7 3.Bd8 mate.) 3.Rd8 mate. *
+1.Qd8+! de8 2.Bg5+ Ke8 3.Rd8 mate. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5694,7 +5694,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg5! hxg5 2.Qh7+ Nd7 (If 2...Kd8, 3.Qh8+ is decisive.) 3.Bxd7!  Qg8 (If 3...Qxd7, 4.Qxd7+ de7 5.Rxb8 and White wins easily.) 4.Rb7+!  Kxb7 (If 4...Rxb7, 5.ng8 and wins.)  5.Bc8+!!, and wins. The most beautiful double check ever played. After 5...Kxc8 6.ng8+, White wins a rook. *
+1.Rxg5! hxg5 2.Qh7+ Nd7 3.Bxd7!  Qg8 4.Rb7+!  Kxb7  5.Bc8+!!, and wins. The most beautiful double check ever played. After 5...Kxc8 6.ng8+, White wins a rook. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5708,7 +5708,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7! Qxal 2.Rxg7+! Kxg7 3.Bh6+ Kh8 4.Ng6+l hxg6 (If4...Kg8, 5.Nxf8 followed by Qg4+ or Qf7+.)  5.fxg6 Qf1+ 6.Kh4 Qf3 7.Bg7+ Kxg7 8.Qh7 mate. *
+1.Rd7! Qxal 2.Rxg7+! Kxg7 3.Bh6+ Kh8 4.Ng6+l hxg6  5.fxg6 Qf1+ 6.Kh4 Qf3 7.Bg7+ Kxg7 8.Qh7 mate. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5778,7 +5778,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rb8+! Kxb8 (Or 1...Rxb8 2.Nxd7 etc.) 2.Nxd7+ Resigns. White wins the black queen without losing his own. *
+1.Rb8+! Kxb8 2.Nxd7+ Resigns. White wins the black queen without losing his own. *
 
 [Event "White to move & win"]
 [Site "Double Check"]
@@ -5904,7 +5904,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd5 Qd8 2.Bxc7 Qd7 3.Qg4!  Re6 (If3...ng4, 4.Rxe8 mate.) 4.Rxe6 Qxe6 (If 4...fxe6, 5.Nf6+.) 5.Nf6+ Kf‘8 (If 5...th6, 6.Qxc8+ and mate follows.)  6.Bd6+! Qxd6 7.Qxc8+ Ke7 8.Ng8 mate. *
+1.Nd5 Qd8 2.Bxc7 Qd7 3.Qg4!  Re6 4.Rxe6 Qxe6 5.Nf6+ Kf‘8  6.Bd6+! Qxd6 7.Qxc8+ Ke7 8.Ng8 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -5932,7 +5932,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7! Qxd7 (If 1...Nxd7, 2.Qg4+ Kh6 3.Rf5 wins.) 2.Qxe5+ Kg6 3.Rf5 Resigns. Black’s king cannot escape. *
+1.Rd7! Qxd7 2.Qxe5+ Kg6 3.Rf5 Resigns. Black’s king cannot escape. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -5946,7 +5946,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+! ng7 (If 1...Kxg7, 2.Bxe6 Qxe6 3.Rg1+, forcing the win.)  2.Bxe6+ Rf7 3.Rg1 ! ngl 4.Qxf7+ Kh8 5.Qh5+ Kg7 6.Qh6 mate. *
+1.Rxg7+! ng7  2.Bxe6+ Rf7 3.Rg1 ! ngl 4.Qxf7+ Kh8 5.Qh5+ Kg7 6.Qh6 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -5974,7 +5974,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd5+! Nde (If 1...Ka6, 2.Bc8+ wins.) 2.Be2+ KaS 3.Ra7+ Ra6 4.Rxa6 mate. *
+1.Rd5+! Nde 2.Be2+ KaS 3.Ra7+ Ra6 4.Rxa6 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6002,7 +6002,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ba3! Qxa3 2.Qe6! Kg7 (If 2...Nd8, 3.Qf7+ Nxf7 4.Ne6 mate.)  3.Qf7+ Kh6 4.h4 and the threat of Ng4 mate decides. Black can decline the bishop, 1...Qc4, but even then he’s un— der heavy pressure: 2.Recl Qd3 3.Qe6 Qg6 4.Rxc6!. *
+1.Ba3! Qxa3 2.Qe6! Kg7  3.Qf7+ Kh6 4.h4 and the threat of Ng4 mate decides. Black can decline the bishop, 1...Qc4, but even then he’s un— der heavy pressure: 2.Recl Qd3 3.Qe6 Qg6 4.Rxc6!. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6030,7 +6030,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf6! gxf6 (Or 1...Rg8 2.ng7+!  Rxg7 3.Rd8+ and mate follows.) 2.exf6 Rg8 3.Rd8! chd8 4.Rxd8 Resigns.  White threatens mate, and if 4...Rxd8, 5.Qg7 mate. *
+1.Bf6! gxf6 2.exf6 Rg8 3.Rd8! chd8 4.Rxd8 Resigns.  White threatens mate, and if 4...Rxd8, 5.Qg7 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6044,7 +6044,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe7! Qc7 (If 1...Rxe7, 2.Rf8 mate; if 1...Rxf3, 2.Qg7 mate.) 2.Qf‘8+!  Rxf‘8 3.Rxf‘8 mate. *
+1.Qe7! Qc7 2.Qf‘8+!  Rxf‘8 3.Rxf‘8 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6114,7 +6114,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc5+ Kb8 (If l...Nc7?, 2.Qxf4; if 1...Rc7, 2.Rxc7+ Kxc7 3.Rxb7+ with an easy win.) 2.Bxb7! Rxb7 (If 2...ng3+, 3.Bg2+! and wins.) 3.Rxb7+ Kxb7 4.Qg2+ Kb8 5.Rb5+ K07 6.Qb7+ Kd6 7.Rd5 mate. *
+1.Rc5+ Kb8 2.Bxb7! Rxb7 3.Rxb7+ Kxb7 4.Qg2+ Kb8 5.Rb5+ K07 6.Qb7+ Kd6 7.Rd5 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6128,7 +6128,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8! Qxe8 (Or 1...Rxe8 2.Qg7 mate.) 2.Qf6+ Rg7 3.ng7 mate. *
+1.Re8! Qxe8 2.Qf6+ Rg7 3.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6142,7 +6142,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.gxf6! ng6 2.hxg6+ Kg8 3.Rh8+! Kxh8 4.f7! Be7 (If 4...Qh4, 5.fxe8/Q+ and mate next move.) 5.Rh1+ Bh4 6.f8/Q mate. Editor: Likely 1.Qf7 along with 2.h6 also does the job, but it’s less dramatic. *
+1.gxf6! ng6 2.hxg6+ Kg8 3.Rh8+! Kxh8 4.f7! Be7 5.Rh1+ Bh4 6.f8/Q mate. Editor: Likely 1.Qf7 along with 2.h6 also does the job, but it’s less dramatic. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6170,7 +6170,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f5! Qg5 (If 1...Qxf5, 2.Bxg7 mate; ifl...Bxf5, 2.Bxg7+ ng7 3.Rxe8 mate.) 2.Bxg7+ ng7 3.f6 Qg6 4.f7+ Ne5 5.Rxe5 dxe5 6.Qxe5+! Resigns. If 6...Rxe5, 7.f'8/Q+ and mate next move; if 6...Qg7, 7.Qxe8+ Bxe8 8.fxe8/Q+ Qg8 9.ng8 mate. *
+1.f5! Qg5 2.Bxg7+ ng7 3.f6 Qg6 4.f7+ Ne5 5.Rxe5 dxe5 6.Qxe5+! Resigns. If 6...Rxe5, 7.f'8/Q+ and mate next move; if 6...Qg7, 7.Qxe8+ Bxe8 8.fxe8/Q+ Qg8 9.ng8 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6198,7 +6198,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe8! Ka5 (If 1...Rxg7, 2.Qb5 mate.) 2.Qc6! Resigns. White wins the black rook which cannot move. *
+1.Qe8! Ka5 2.Qc6! Resigns. White wins the black rook which cannot move. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6212,7 +6212,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh6+! gxh6 (If 1...Kh8, 2.Nxf7+ wins the queen.) 2.Bxf6 Re- signs. Black is helpless against the com- ing Qg3+. *
+1.Nh6+! gxh6 2.Bxf6 Re- signs. Black is helpless against the com- ing Qg3+. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6254,7 +6254,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8+! Rxe8(If1...Qf8, 2.Qxf7+ leads to mate.) 2.Qxf7+ Kh8 3.Qxe8+ Qf8 4.Qxf8 mate. *
+1.Re8+! Rxe82.Qxf7+ Kh8 3.Qxe8+ Qf8 4.Qxf8 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6268,7 +6268,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd2! d6 (If 1...Nxd2, 2.Rg5 mate.) 2.Nxe4! dxe5 (If 2...Nxe4, 3.Re8 mate.) 3.Nxf6 mate. *
+1.Nd2! d6 2.Nxe4! dxe5 3.Nxf6 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6296,7 +6296,7 @@ White wins the queen: 1 .Nc5+ Re- signs. *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh5! gth (If 1...Nxh5, 2.Qxh7+ KfB 3.Qxf7 mate.) 2.Rg3 Re- signs. There is no good move. If 2...h4, 3.Ne6+ hxg3 4.Qg7 mate; if 1...Bf8, 2.Nxh7+ Ng4 3.Nf6 mate. *
+1.Nh5! gth 2.Rg3 Re- signs. There is no good move. If 2...h4, 3.Ne6+ hxg3 4.Qg7 mate; if 1...Bf8, 2.Nxh7+ Ng4 3.Nf6 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6352,7 +6352,7 @@ Black’s rooks are overworked. He depends on the trap 1.Rxd7? Rxd7 2.Qxd7 Qxd7 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxa7! Qxa7 (If 1...Rc7, 2.Qxc7!  winning as in the main line.) 2.Re8+ Bf8 3.Bd4+ Qg7 4.Rxf8 mate. *
+1.Qxa7! Qxa7 2.Re8+ Bf8 3.Bd4+ Qg7 4.Rxf8 mate. *
 
 [Event "White to move & win"]
 [Site "The Overworked Piece"]
@@ -6492,7 +6492,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...b4! 2.axb4 Rxh4! 3.gxh4 g3 (Threatens ...g2 etc.) 4.fxg3 c3+! (Now if 5.Kxc3, 5...Kxe3 wins.) 5.bxc3 a3!  Resigns. If6.Kcl, 6...Kxe3 wins. *
+1...b4! 2.axb4 Rxh4! 3.gxh4 g3 4.fxg3 c3+! 5.bxc3 a3!  Resigns. If6.Kcl, 6...Kxe3 wins. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6520,7 +6520,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd5! 2.Qd3. (If 2.Ne3, 2...Qxe5 wins a piece; if2.Qe3, 2...Bxg2 3.Kxg2 Nd5 with the same result. Or 2.Qg3 Bxg2 3.Kxg2 Nh5, again win- ning a piece.) 2...Qxd3 3.Nxd3 Bxg2 4.Kxg2 Rxd3 Resigns. Black has won a piece. *
+1...Bd5! 2.Qd3. 2...Qxd3 3.Nxd3 Bxg2 4.Kxg2 Rxd3 Resigns. Black has won a piece. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6562,7 +6562,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qe5! (If now 2.Qxe5, 2...Nd3+ and 3...Rxc1 mate.) 2.Rc4 Nd3+! 3.Kb1 (Or 3.Kc2 Qxd4, etc.) 3...Qxd4 4.Rxd4 Rcl mate. *
+1...Qe5! 2.Rc4 Nd3+! 3.Kb1 3...Qxd4 4.Rxd4 Rcl mate. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6576,7 +6576,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...ng3 2.hxg3 ng3+ (If now 3.Qg2, 3...Bxd4+ wins.) 3.Bg2 Bh3 Re- signs. Black threatens 4...Bxd4+ and also ...Qh2+. If 4.Re2, 4...Qh2+ 5.Kf1 th+ is murderous. *
+1...ng3 2.hxg3 ng3+ 3.Bg2 Bh3 Re- signs. Black threatens 4...Bxd4+ and also ...Qh2+. If 4.Re2, 4...Qh2+ 5.Kf1 th+ is murderous. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6590,7 +6590,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ne2! (If now 2.Nxc8, Black wins as in the main line. If 2.Qxe2, 2...Qxc1+ wins.) 2.chc2 Rxh3+!  3.gxh3 Qxe4+ 4.f3 Qxf3+ 5.Kh2 Be5+ 6.Qg3 B[P]xg3 mate. *
+1...Ne2! 2.chc2 Rxh3+!  3.gxh3 Qxe4+ 4.f3 Qxf3+ 5.Kh2 Be5+ 6.Qg3 B[P]xg3 mate. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6618,7 +6618,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxf3+ 2.Qxf3. (White’s knight at d2 is pinned.) 2...Bxd2+ Black has won a piece. He can also start with 1...Bxd2+ and if 2.Qxd2, 2...Nxf3+ *
+1...Nxf3+ 2.Qxf3. 2...Bxd2+ Black has won a piece. He can also start with 1...Bxd2+ and if 2.Qxd2, 2...Nxf3+ *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6632,7 +6632,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ra5!. (Also good is 1...Bb3+!, winning at least the Exchange.) 2.Ra3.  (If2.Rd8+, 2...Be8 mate!) 2...Bb3+! Be- cause of the pin Black wins at least a piece. *
+1...Ra5!. 2.Ra3.  2...Bb3+! Be- cause of the pin Black wins at least a piece. *
 
 [Event "Black to move & win"]
 [Site "The Overworked Piece"]
@@ -6646,7 +6646,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.dxe5 Qxe5 (If 1...Bxe5, 2.Bxf4 wins a piece.) 2.Nxd6 Qxd6 3.Bxf4 and wins. White has won a piece. *
+1.dxe5 Qxe5 2.Nxd6 Qxd6 3.Bxf4 and wins. White has won a piece. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6660,7 +6660,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh6+ Kxh6 (Or 1...Kg6 2.gxh5+ etc.) 2.Qxf6 mate. *
+1.Bh6+ Kxh6 2.Qxf6 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6702,7 +6702,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7! Rh8 (If 1...Rxg7, 2.Qxh5+ leads to mate.) 2.Qxh5+! Rth 3.Rg8 mate. *
+1.Rxg7! Rh8 2.Qxh5+! Rth 3.Rg8 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6758,7 +6758,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh3! f6 (Or 1...Qxh3 2.Qxd8 etc.) 2.Bxd7 fxg5 3.Bxa4 and wins.  White is a rook ahead. *
+1.Bh3! f6 2.Bxd7 fxg5 3.Bxa4 and wins.  White is a rook ahead. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6772,7 +6772,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc8+! Rxc8 (Forced) 2.Qxb2.  White has won the queen for a rook. *
+1.Rc8+! Rxc8 2.Qxb2.  White has won the queen for a rook. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6786,7 +6786,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh4 Nxh4 (If 1...Qxf6, 2.thh7 mate. Or 1,..h5 2.Rxg6+ Qxf6 3.Rxh5 Nh6 4.thh6 mate.) 2.Qxd6 and wins. *
+1.Rh4 Nxh4 2.Qxd6 and wins. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6814,7 +6814,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf8+! KxfB (If 1...Q[R]xf8, 2.Qxh7 mate.) 2.Ng6+ hxg6 3.Qh8+ Kf7 4.ng7 mate. *
+1.Rxf8+! KxfB 2.Ng6+ hxg6 3.Qh8+ Kf7 4.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6884,7 +6884,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd8+ Re7 (If 1...Kf5, 2.g4 mate.) 2.Nd7+ Resigns. White wins the rook. . *
+1.Qd8+ Re7 2.Nd7+ Resigns. White wins the rook. . *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6898,7 +6898,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxc5. (Or 1.Bxc5, etc.) 1...Rxc5 2.Bxc5 Qxc5 3.ng5+ Kh7 4.Qh5+ Kg7 5.Rg3+ Kf6 6.Qg5 mate. *
+1.Rxc5. 1...Rxc5 2.Bxc5 Qxc5 3.ng5+ Kh7 4.Qh5+ Kg7 5.Rg3+ Kf6 6.Qg5 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6926,7 +6926,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf5 Rxe1+ 2.Qxe1 Qd6 (If 2...Qxf5, 3.Qe8 mate.) 3.Qe8+ Qf8 4.Bxh7+ Resigns. White wins the queen. *
+1.Bf5 Rxe1+ 2.Qxe1 Qd6 3.Qe8+ Qf8 4.Bxh7+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6940,7 +6940,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf6! gxf6 2.e7 Re8 3.QeI!  Qh6 (If3...Qxe1, 4.Bxf6 mate.) 4.Qe3!  Qh4 5.Qf4! Resigns. *
+1.Nxf6! gxf6 2.e7 Re8 3.QeI!  Qh6 4.Qe3!  Qh4 5.Qf4! Resigns. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -6982,7 +6982,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qa3 Qf7 (If 1...Qxa3, 2.Bxe6+ wins a piece.) 2.Bxe6+ Qxe6 3.Qxa7.  White has won a pawn and has a win- ning attack. , *
+1.Qa3 Qf7 2.Bxe6+ Qxe6 3.Qxa7.  White has won a pawn and has a win- ning attack. , *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7080,7 +7080,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxc5! Qxc5 2.Bb5! Qf8 (If 2...Qxb5, 3.Bf6 forces mate.) 3.Bxe8 Qxe8 4.Bf6 Qf‘8 5.Qxf‘8+ Kxf‘8 6.Rd1 Resigns. Only 6...Bd7 stops mate, but then 7.Rxd7 leaves White a piece ahead. *
+1.Rxc5! Qxc5 2.Bb5! Qf8 3.Bxe8 Qxe8 4.Bf6 Qf‘8 5.Qxf‘8+ Kxf‘8 6.Rd1 Resigns. Only 6...Bd7 stops mate, but then 7.Rxd7 leaves White a piece ahead. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7108,7 +7108,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne6! Nxe6 (If 1...fxe6, 2.Qf‘8+ Kh7 3.Qh6+ Kg8 4.Rf‘8 mate.) 2.Qxf7+ Kh8 3.Qxe6 Resigns. White can win as he pleases. *
+1.Ne6! Nxe6 2.Qxf7+ Kh8 3.Qxe6 Resigns. White can win as he pleases. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7136,7 +7136,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc2+ Qg6 (If 1...g6, 2.Rd7+ Kg8 3.Qc4+ forcing mate.) 2.Rh8+ Kxh8 3.ng6 Resigns. *
+1.Qc2+ Qg6 2.Rh8+ Kxh8 3.ng6 Resigns. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7150,7 +7150,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe6! Qxe6 2.Ng5 (Another way is 2.Rxh7+ Kxh7 3.Ng5+ and 4.Nxe6.) 2...Qg6 3.Rxh7+ Qxh7 4.Nf7 mate. *
+1.Rxe6! Qxe6 2.Ng5 2...Qg6 3.Rxh7+ Qxh7 4.Nf7 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7164,7 +7164,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxe5 Qe6 2.Bd5 Qg4 (If 2...Nxd5, 3.cxd5 Qg6 [or 3...Qf5 or 3...Qxd5 with the same result] 4.Nxe7+ winning the queen.) 3.ng4 ng4 4.Nxe7+ and wins. *
+1.Bxe5 Qe6 2.Bd5 Qg4 3.ng4 ng4 4.Nxe7+ and wins. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7178,7 +7178,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Kg3 Rd4 (If the rook moves on the file, 2.Nxc4 wins a piece.) 2.Nf5+ Resigns. White wins the rook. *
+1.Kg3 Rd4 2.Nf5+ Resigns. White wins the rook. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7192,7 +7192,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd6 Rf6 (Or 1...Re7 2.ng6 and wins.) 2.Nd7. White wins the Exchange *
+1.Rd6 Rf6 2.Nd7. White wins the Exchange *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7206,7 +7206,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7! Qxd7 2.Qxf6+ Kh6 (If 2...Kf8, 3.Qg7+ Ke7 4.Bf6+ Ke6 5.Bc4+ etc.) 3.h4 g4 4.h5, with hxg6 mate coming up. Another way was 3.Qg7+ Kh5 4.g4+ Kh4 5.Bd4, intend- ing 6.Bf2 mate. *
+1.Rd7! Qxd7 2.Qxf6+ Kh6 3.h4 g4 4.h5, with hxg6 mate coming up. Another way was 3.Qg7+ Kh5 4.g4+ Kh4 5.Bd4, intend- ing 6.Bf2 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7234,7 +7234,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxg3 QgS (If 1...Rxg3, 2.Qf8 mate; if 1...ng3, 2.Qf6 mate. Rela- tively best is l...Qe7, when opening the d-flle by 2.dxe6 or 2.d6 cxd6 3.Bxd6 yields White a fearsome attack.) 2.Qf7 !  65 (White threatened 3.Q[B]xc7 mate.)  3.ng8+! ng8 4.Bh4+ Qg5 5.Bxg5 mate. *
+1.Bxg3 QgS 2.Qf7 !  65  3.ng8+! ng8 4.Bh4+ Qg5 5.Bxg5 mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7262,7 +7262,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe5! dxeS 2.Rxe5. (Threaten- ing 3.Nc5+.) 2...Kf7 3.Ng5+ Kf‘8 4.Re6!  (Threatens 5.Rxf6+) 4...Qa4 5.b3! Qxa2 (If 5...Qa3, 6.d6! wins.) 6.Re8+! Re— signs. If6...Kxe8, 7.Qe6+ forcing mate. *
+1.Rxe5! dxeS 2.Rxe5. 2...Kf7 3.Ng5+ Kf‘8 4.Re6!  4...Qa4 5.b3! Qxa2 6.Re8+! Re— signs. If6...Kxe8, 7.Qe6+ forcing mate. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7276,7 +7276,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxe7! Rxe7 (If 1...Qxe7, 2.Nxe7+ Rxe7 3.Bxc6 winning a piece.) 2.Nf6+ Kh8 3.Nxd7 Rxd7 4.Bxc6 and wins. *
+1.Qxe7! Rxe7 2.Nf6+ Kh8 3.Nxd7 Rxd7 4.Bxc6 and wins. *
 
 [Event "White to move & win"]
 [Site "Removing the Guard"]
@@ -7318,7 +7318,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Re3! (If now 2.Qxe3, 2...Qh1 mate.) 2.Qg2 Rxg3 and wins. *
+1...Re3! 2.Qg2 Rxg3 and wins. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7332,7 +7332,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxb2! 2.Qxb2 Bd3+! (If now 3.Kcl, 3...Ba3 wins.) 3.Kc3 Bb4+! Re- signs. If 4.Qxb4, 4,..Qc2 mate. *
+1...Rxb2! 2.Qxb2 Bd3+! 3.Kc3 Bb4+! Re- signs. If 4.Qxb4, 4,..Qc2 mate. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7346,7 +7346,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rbl+! (If now 2.Kf2, 2...Qel mate.) 2.Rxbl Qxa3 Resigns. *
+1...Rbl+! 2.Rxbl Qxa3 Resigns. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7444,7 +7444,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxe2! 2.Kxe2 Re8+ After 3.Kd1 (or 3.Kf1) 3...Bxd3(+), Black has a winning game. *
+1...Rxe2! 2.Kxe2 Re8+ After 3.Kd1 3...Bxd3, Black has a winning game. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7486,7 +7486,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qd6! Threatening ...Qxb4 as well as the mate that actually occurs. (If 2.Qxd6, 2...Rxe1 mate.) 2.Qc3 Qh2+ 3.Kf1 th mate. *
+1...Qd6! Threatening ...Qxb4 as well as the mate that actually occurs. 2.Qc3 Qh2+ 3.Kf1 th mate. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7500,7 +7500,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qc4! (If now 2.Nc3, 2...Qxe2 wins a rook; if 2.Kf2, 2...Rxdl 3.Qxdl Qxa2 etc.) 2.Qxc4 Rxd1+ 3.Qf1 Bd4+ 4.Kh1 Rx_f1 mate. *
+1...Qc4! 2.Qxc4 Rxd1+ 3.Qf1 Bd4+ 4.Kh1 Rx_f1 mate. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7514,7 +7514,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxe2 (If now 2.Nxe2, 2...Qxb1+ or 2.Kxe2 Qxc3.) 2.Rxb4 Bxc3. Black comes out a piece ahead. *
+1...Nxe2 2.Rxb4 Bxc3. Black comes out a piece ahead. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7570,7 +7570,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nd4! 2.Nxd4. (If the queen moves, Black wins with ...Nxf3+.)  2...Qh2 mate. *
+1...Nd4! 2.Nxd4.  2...Qh2 mate. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7598,7 +7598,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! 2.Kh1 (If 2.Nxf3, 2...Qxb5; if 2.gxf3, 2...Bxd4+ wins the queen.) 2...Nxd4 3.Qxc6+ Nxc6 Re- signs. *
+1...Nf3+! 2.Kh1 2...Nxd4 3.Qxc6+ Nxc6 Re- signs. *
 
 [Event "Black to move & win"]
 [Site "Removing the Guard"]
@@ -7682,7 +7682,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxd8 (Not l.Bxd8, allowing 1...Rxd7 with some chances.) 1...Rxc7 2.Rh8+!. White continues 3.d8/Q. *
+1.Rxd8 1...Rxc7 2.Rh8+!. White continues 3.d8/Q. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7696,7 +7696,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf6! Kxf6 2.Ne4+ Kg7 3.Rc2!  Qa4 4.ng5+ Bg6 (Or 4...Kh8 5.Qxd8 Qxc2 6.Qxf8+ Bg8 7.Qf6 mate.) 5.Rc7+ Kg8 (If5...Rd7, 6.Nc3 wins.) 6.ng6+!  hxg6 7.Nf6+ Kh8 8.Rxh7 mate. *
+1.Nxf6! Kxf6 2.Ne4+ Kg7 3.Rc2!  Qa4 4.ng5+ Bg6 5.Rc7+ Kg8 6.ng6+!  hxg6 7.Nf6+ Kh8 8.Rxh7 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7724,7 +7724,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf6! Qxf6 2.Rhel+ Be7 (If 2...Be6, 3.Qd7 mate.) 3.Bxc6+ Kf8 4.Qd8+! Bxd8 5.Re8 mate. *
+1.Bf6! Qxf6 2.Rhel+ Be7 3.Bxc6+ Kf8 4.Qd8+! Bxd8 5.Re8 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7752,7 +7752,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ba6! Bxa6 2.Nexg5 Rfd8 (The threat was 3.Qh7 mate.) 3.Rh8+! Bxh8 4.Qh7+ Kf8 5.Qxh8 mate. *
+1.Ba6! Bxa6 2.Nexg5 Rfd8 3.Rh8+! Bxh8 4.Qh7+ Kf8 5.Qxh8 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7766,7 +7766,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re5! (Threatens 2.Qh5+ Kg8 3.Ne7+! Bxe7 4.Qf7+ and 5.Rh5 mate.)  1...Rf8 (If 1...Bxe5?, 2.Qh5+ Kg8 3.Ne7+ and mate. next move.) 2.Ne7!  Resigns. If2...Rxf7, 3.Rh5 mate. *
+1.Re5!  1...Rf8 2.Ne7!  Resigns. If2...Rxf7, 3.Rh5 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7780,7 +7780,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.d7 Qd8 (Else the pawn queens.)  2.Qd6+ Resigns. White wins a rook. *
+1.d7 Qd8  2.Qd6+ Resigns. White wins a rook. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7794,7 +7794,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne7+ Qxe7 2.Rh8+ Kxh8 (If 2...Kf7, 3.Qh5+ g6 4.ng6 mate.)  3.Qh5+ Kg8 4.Qh7+ Kf7 5.Bg6 mate. *
+1.Ne7+ Qxe7 2.Rh8+ Kxh8  3.Qh5+ Kg8 4.Qh7+ Kf7 5.Bg6 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7808,7 +7808,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ng5! hxg5 (White threatened 2.Qh7 mate.) 2.Qe6+. White continues 3.Qxc8 with the Exchange ahead. *
+1.Ng5! hxg5 2.Qe6+. White continues 3.Qxc8 with the Exchange ahead. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7836,7 +7836,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.g6! ng6 (If 1...Qxf6, 2.Qxh7 mate; if 1 ...hxg6, 2.Ng5! wins.) 2.Bxg7!  Resigns. If 2...ng7, 3.Rgl wins Black’s queen. *
+1.g6! ng6 2.Bxg7!  Resigns. If 2...ng7, 3.Rgl wins Black’s queen. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7864,7 +7864,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd5! ede (If 1...Qf7, 2.Qh8 mate.) 2.Bxd5+ Be6 3.Bxe6+ Qxe6 4.Rxg7+! Kxg7 5.Qh7+ Kf6 6.Rh6 mate. *
+1.Nd5! ede 2.Bxd5+ Be6 3.Bxe6+ Qxe6 4.Rxg7+! Kxg7 5.Qh7+ Kf6 6.Rh6 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7878,7 +7878,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxb5! cxb5 2.Rc8! Qd5 (If 2...Rxc8, 3.Qal+ wins; likewise after 2...Qxc8 3.Qd4+, etc.) 3.Qa1+! e5 (If 3...Rxa1, 4.Rxf8+ forces mate.)  4.Bxe5+ Qxe5 (If 4...Rxe5, 5.Rxa8 wins.) 5.Rxf‘8+! Kg7 6.Rf7+! Resigns.  If 6...Kxf7, 7.Nxe5+ or 6...Kg8, 7.Qxa8+ wins. *
+1.Rxb5! cxb5 2.Rc8! Qd5 3.Qa1+! e5  4.Bxe5+ Qxe5 5.Rxf‘8+! Kg7 6.Rf7+! Resigns.  If 6...Kxf7, 7.Nxe5+ or 6...Kg8, 7.Qxa8+ wins. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7948,7 +7948,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1f1.g6, 1...ng6 2.Qc4+ ds and Black has a defense. White therefore uses a clearance move to control the im— portant diagonal: 1.Ne5! dxe5 (White threatened Rh8 mate. If l...Qxe5, 2.Qxe5 dxe5 3.g6 followed by mate.)  2.g6! ng6 3.Qc4+ Resigns. Interposi— tion at f7 allows Rh8 mate. *
+1f1.g6, 1...ng6 2.Qc4+ ds and Black has a defense. White therefore uses a clearance move to control the im— portant diagonal: 1.Ne5! dxe5  2.g6! ng6 3.Qc4+ Resigns. Interposi— tion at f7 allows Rh8 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7976,7 +7976,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.b5! Bbe 2.Ne6! h5 (White threatened mate in two by 3.Qf6+, etc.)  3.Qf6+ Kh7 4.Bb4 Resigns. White plays 5.Ng5+ Kh6 6.Bt‘8+ followed by mate. *
+1.b5! Bbe 2.Ne6! h5  3.Qf6+ Kh7 4.Bb4 Resigns. White plays 5.Ng5+ Kh6 6.Bt‘8+ followed by mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -7990,7 +7990,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne5! Qe6 (Or l...Qe8 2.Nhg6+ hxg6 3.Bc4! bxc4 4.Rh1+ Kg8 5.Qxc4+ Rf7 6.ng6 and 7.Rh8 mate.) 2.Bc4!  bxc4 3.f5! Qxe5 4.Ng6+! hxg6 5.fxg6 ngS 6.Rhl+ Kg8 7.Qxc4+ Qd5 8.Rh8+! Kxh8 9.Qh4+ Kg8 10.Qh7 mate. *
+1.Ne5! Qe6 2.Bc4!  bxc4 3.f5! Qxe5 4.Ng6+! hxg6 5.fxg6 ngS 6.Rhl+ Kg8 7.Qxc4+ Qd5 8.Rh8+! Kxh8 9.Qh4+ Kg8 10.Qh7 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -8004,7 +8004,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7 ! Rxf7 (Or 1...Qxf7 2.Qd8+ and mate next move.) 2.Qh8 mate. *
+1.Bxf7 ! Rxf7 2.Qh8 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -8032,7 +8032,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd8+ Qf8 2.Rxh6+! Bxh6 3.Qf6+ Qg7 (If 3...Bg7, 4.Rh1 mate.)  4.Rh1! Qxf6 5.exf6. Black can’t stop Rxh6 mate. *
+1.Qd8+ Qf8 2.Rxh6+! Bxh6 3.Qf6+ Qg7  4.Rh1! Qxf6 5.exf6. Black can’t stop Rxh6 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -8046,7 +8046,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxc4 e6 (If 1...Nxf5, 2.Bxf7 mate.) 2.Bb5+ Ke7 (If 2...Nd7, 3.Bxd7+ Qxd7 4.Qf4 with a piece ahead.)  3.Ng6+! hxg6 (3...fxg6 4.Bg5 mate) 4.Nd5+! exd5 5.Qe5 mate. *
+1.Bxc4 e6 2.Bb5+ Ke7  3.Ng6+! hxg6 4.Nd5+! exd5 5.Qe5 mate. *
 
 [Event "White to move & win"]
 [Site "Clearance"]
@@ -8088,7 +8088,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Kg7 (Threatens 2...Rh8+ and 3...Qh3 or 3...Rhl+!) 2.e6 Rh8+ 3.Kgl Qe8 4.g4 Rhl+! 5.Kxhl Qh8+ 6.Kgl Qh3, and Black checkmates. *
+1...Kg7 2.e6 Rh8+ 3.Kgl Qe8 4.g4 Rhl+! 5.Kxhl Qh8+ 6.Kgl Qh3, and Black checkmates. *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8186,7 +8186,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Be6+! Kb8 (If 1 ...fxe6, 2.Qd7+ forces mate.) 2.Nd7+ Kc8 3.Nc5+ Kb8 4.Na6+! bxa6 5.Qb4 mate. *
+1.Be6+! Kb8 2.Nd7+ Kc8 3.Nc5+ Kb8 4.Na6+! bxa6 5.Qb4 mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8200,7 +8200,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Be4! Bxe4 (If l...Rxe4, 2.h3+ Kg3 3.R13 mate.) 2.h3+ Kg3 3.Bel mate. *
+1.Be4! Bxe4 2.h3+ Kg3 3.Bel mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8228,7 +8228,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7! Bxd7 2.Bkh7+ Nxh7 (If 2...Kh8, 2.Nxf7 mate.) 3.Qxf7+ Kh8 4.Ng6 mate. *
+1.Rd7! Bxd7 2.Bkh7+ Nxh7 3.Qxf7+ Kh8 4.Ng6 mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8312,7 +8312,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bc7! Qxc7 (If 1...Rxc7, 2.Qb7+!  Rxb7 3.Rxc5 mate.) 2.Rxc5+! Qxc5 3.Qb7+ Kxa5 4.Ral mate. *
+1.Bc7! Qxc7 2.Rxc5+! Qxc5 3.Qb7+ Kxa5 4.Ral mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8326,7 +8326,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e7! Rf7 (If l...Qxe7, 2.Qxd5+ Kh8 3.Kxb2 and wins; if 1...Rf6, 2.e8/ Q+ winning; if 1...Rfe8, 2.Rxg7+ Kxg7 3.Rgl+ forcing mate.) 2.Rxg7+! Kxg7 (If 2...Rxg7, 3.e8/Q+ wins.) 3.Rg1+.  White forces mate. *
+1.e7! Rf7 2.Rxg7+! Kxg7 3.Rg1+.  White forces mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8340,7 +8340,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc7! Ne6 (White threatened 2.Qg7 mate.) 2.Rxe4 and wins. *
+1.Rc7! Ne6 2.Rxe4 and wins. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8354,7 +8354,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf‘8! Rxf‘8 (If 1...Qxd6, 2.Rg8 mate; if l...Qxf‘8, 2.Rg8+ ng8 3.Qf6+ and mate follows.) 2.Rg8+! Rxg8 3.Qxf6+ Rg7 4.ng7 mate. *
+1.Nf‘8! Rxf‘8 2.Rg8+! Rxg8 3.Qxf6+ Rg7 4.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8424,7 +8424,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf5 !. (Threatens 2.Qxh7 mate.)  l...Bxf5 2.Qf6+ Kg8 3.ng5+ Bg6 4.Qf6 Resigns. White forces mate. *
+1.Nf5 !.  l...Bxf5 2.Qf6+ Kg8 3.ng5+ Bg6 4.Qf6 Resigns. White forces mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8452,7 +8452,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe6! Bxe6 (If 1...Rxe6, 2.Nhg6+ Kg8 3.Rh8 mate; if l...Nxe6, 2.Nhg6+ also leads to mate.) 2.Nf5+ Kg8 3.Ne7 mate. *
+1.Qe6! Bxe6 2.Nf5+ Kg8 3.Ne7 mate. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8466,7 +8466,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd6! Bxd6 2.ng6+ Kh8 (Or 2...Kf8 3.Qxf5+, etc.) 3.Qxe8+ RfB 4.Bxe5+ Resigns. If4...Bxe5, 5.Qxf‘8+, etc. *
+1.Rd6! Bxd6 2.ng6+ Kh8 3.Qxe8+ RfB 4.Bxe5+ Resigns. If4...Bxe5, 5.Qxf‘8+, etc. *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8480,7 +8480,7 @@ White expects to recover the Ex- change after 1...Rxf1+ 2.Qxfl etc., but... 1...
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates the check while threatening 2.f6 0r 2.Bxa4. But here Black defends him— selfby 1...f6 2.Qh5 Bxel 3.Rxe1 Rg8, even though White gets the knight with Bxa4. So White blocks off this defense by: l.Re5! f6 (If l...dxe5, 2.Qg7 mate, while 1...Bxe5 runs into 2.f6 Bxf6 3.Qxf6+ and mate next move.) 2.Qxf6+ Kg8 3.Qg5+ Kh8 (If 3...Kf7, 4.Qg7 mate.) 4.Re7 Qc5+ 5.Khl Rg8 (Other- wise White has Bg7+, or Bxa4.) 6.f6!  Rng (White threatened 7.Rxh7 mate as well as 7.Bg7+ and mate next move.)  7.Rxh7+ Kg8 8.f7 mate. *
+If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates the check while threatening 2.f6 0r 2.Bxa4. But here Black defends him— selfby 1...f6 2.Qh5 Bxel 3.Rxe1 Rg8, even though White gets the knight with Bxa4. So White blocks off this defense by: l.Re5! f6 2.Qxf6+ Kg8 3.Qg5+ Kh8 4.Re7 Qc5+ 5.Khl Rg8 6.f6!  Rng  7.Rxh7+ Kg8 8.f7 mate. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8508,7 +8508,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Be3! (If now 2.Bxe3, 2...h3 3,g3 Qf3, forcing mate; if 2.fxe3, 2...ng2 mate.) 2.Qxe3 Rxe3 3.fxe3 h3 4.Rf2 Qd1+ 5.Rf1 h2+ Resigns. *
+1...Be3! 2.Qxe3 Rxe3 3.fxe3 h3 4.Rf2 Qd1+ 5.Rf1 h2+ Resigns. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8522,7 +8522,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5! (Threatens ...Qh4 mate.)  2.fxg6 e.p. Bxe4 and Black wins easily as White’s threat is gone. *
+1...g5!  2.fxg6 e.p. Bxe4 and Black wins easily as White’s threat is gone. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8536,7 +8536,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd6! (If 2.Bxd6, 2...dl/Q.)  2.Rxd6 h2 and Black wins as one of his pawns must queen. *
+1...Bd6!  2.Rxd6 h2 and Black wins as one of his pawns must queen. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8550,7 +8550,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Re3! (If now 2.Qxe3, 2...Qxd1+ and mate next move. Also 2.Bxe3 Qf3 leads to mate.) 2.fxe3 Qe2 3.Qxb7 (If 3.Rd2, 3...Qf1 mate.)  3...Qxd1+ 4.Kf2 Qfl mate. *
+1...Re3! 2.fxe3 Qe2 3.Qxb7  3...Qxd1+ 4.Kf2 Qfl mate. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8564,7 +8564,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd3+! 2.Qxd3. (If 2.Kb2?, 2...Qxd2 mate.) 2...ng1+ and Black has won the Exchange. *
+1...Bd3+! 2.Qxd3. 2...ng1+ and Black has won the Exchange. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8578,7 +8578,7 @@ If 1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— ference device: 1...Ne2+! 2.Bxe2. (If 2.Rer, 2...ng4.) 2...Qxe3+, followed by 3...fxg4, and Black has won the Ex— change. *
+Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— ference device: 1...Ne2+! 2.Bxe2. 2...Qxe3+, followed by 3...fxg4, and Black has won the Ex— change. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8592,7 +8592,7 @@ Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— fe
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf4! (Threatens ...Ne2+, win- ning the queen.) 2.exf4 Qxd6 and wins. *
+1...Nf4! 2.exf4 Qxd6 and wins. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8606,7 +8606,7 @@ Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— fe
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rd3! 2.Qxd3 (If 2.Bxd3, 2...Qxh3+ 3.Kg1 Qg2 mate.) 2...Nxd3 3.Bxd3 Qd6+, followed by 4...Qxd3 with an easy win. *
+1...Rd3! 2.Qxd3 2...Nxd3 3.Bxd3 Qd6+, followed by 4...Qxd3 with an easy win. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8620,7 +8620,7 @@ Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— fe
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...f2+! (Ifnow 2.Rxf2, 2...Bxg3!  3.hxg3 Rhl mate.) 2.Qxf2 Rxh2!  3.Qxh2 Bxg3 4.Qe2 (If 4.Qh3, 4...Qxe3+ 5.Kf1 Rxc3! wins.) 4...Bf4+ 5.Kf1 Bxe3 6.Qh2 (If 6.Ke1, 6...Qg3+ wins.) 6...Bxd4 and wins. The double pin cripples White. *
+1...f2+! 2.Qxf2 Rxh2!  3.Qxh2 Bxg3 4.Qe2 4...Bf4+ 5.Kf1 Bxe3 6.Qh2 6...Bxd4 and wins. The double pin cripples White. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8648,7 +8648,7 @@ Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— fe
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rg3! (Ifnow 2.hxg3, 2...Qe3+ and mate next move.) 2.ng3 EM! and wins the queen as 3.Qxh4 allows Black to mate. *
+1...Rg3! 2.ng3 EM! and wins the queen as 3.Qxh4 allows Black to mate. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8676,7 +8676,7 @@ Unable to play ...ng4 or ...fxg4, Black nevertheless ﬁnds a clever inter— fe
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...c5! (If now 2.Nb3 or 2.N02, Black plays 2...Nxf3+ and 3...Bxc3, winning the Exchange.) 2.Nde2 Nxc4.  Black has won a pawn. *
+1...c5! 2.Nde2 Nxc4.  Black has won a pawn. *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8732,7 +8732,7 @@ White, who is ahead in material, expects 1...Kf8, when he wins with 2.Rf4+!, for
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rc2! (If now 2.Qx02, 2...Rxe1+ and mate. next move.) 2.Qa5 Bc3! 3.Rxe4 Qxe4 4.Qd8+ Kg7 5.Rgl Bd4 6.Bd6 ng2+2 7.Rxg2 R0] + 8.Rgl Rxgl mate. *
+1...Rc2! 2.Qa5 Bc3! 3.Rxe4 Qxe4 4.Qd8+ Kg7 5.Rgl Bd4 6.Bd6 ng2+2 7.Rxg2 R0] + 8.Rgl Rxgl mate. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8746,7 +8746,7 @@ White, who is ahead in material, expects 1...Kf8, when he wins with 2.Rf4+!, for
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bc4+! (Not l.Bb5? Kf7.)  1...Kh8 (If 1 ...Nxc4?, the pawn queens.)  2.Bb5! Resigns. 2.Bf7! also wins. *
+1.Bc4+!  1...Kh8  2.Bb5! Resigns. 2.Bf7! also wins. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8774,7 +8774,7 @@ White, who is ahead in material, expects 1...Kf8, when he wins with 2.Rf4+!, for
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne3! Nd6 (If 1...Nxe3, 2.R<:8+ wins.) 2.Rc8+! Resigns. If 2...Nxc8, 2.Rxb8! wins. . *
+1.Ne3! Nd6 2.Rc8+! Resigns. If 2...Nxc8, 2.Rxb8! wins. . *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8788,7 +8788,7 @@ White, who is ahead in material, expects 1...Kf8, when he wins with 2.Rf4+!, for
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f4! Re3 2.f5! R65 3.Rd8! Ba5 4.f6! Bxd8 (If 4...gxf6, 5.Bxf6 mate.) 5.f7 Resigns. Black cannot prevent the pawn from queening. *
+1.f4! Re3 2.f5! R65 3.Rd8! Ba5 4.f6! Bxd8 5.f7 Resigns. Black cannot prevent the pawn from queening. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8844,7 +8844,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f5+! gxf5 2.gxf5+ Kd6 (Forced.  Now White can win with 3.Bd2, but he chooses an even prettier way...)  3.Rxb4! Rxb4 4.BcS+! Resigns. If 4...Kxc5, 5.c7 wins. *
+1.f5+! gxf5 2.gxf5+ Kd6  3.Rxb4! Rxb4 4.BcS+! Resigns. If 4...Kxc5, 5.c7 wins. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8942,7 +8942,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh5! hxg6 (If 1...Nxh5, 2.gxh7 wins.) 2.Nxf6 Kxf6 3.h7 Kg7 4.c5! Re- signs. Black is helpless against the pawns. *
+1.Nh5! hxg6 2.Nxf6 Kxf6 3.h7 Kg7 4.c5! Re- signs. Black is helpless against the pawns. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8956,7 +8956,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rf8+! Kh7 (If 1...Kxf‘8, 2.Rf1+ Kg8 3.e7+ wins.) 2.e7! Qxe7 3.Rxe8 Resigns. If 3...Qxe8, 4.Nf6+! wins the queen. *
+1.Rf8+! Kh7 2.e7! Qxe7 3.Rxe8 Resigns. If 3...Qxe8, 4.Nf6+! wins the queen. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8998,7 +8998,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7! Rxg7 2.Rxg7 Kxg7 (If 2...ng7, 3.Qd8 mate.) 3.Qd7+! Qxd7 4.exd7 Resigns. White queens the pawn. *
+1.Rxg7! Rxg7 2.Rxg7 Kxg7 3.Qd7+! Qxd7 4.exd7 Resigns. White queens the pawn. *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -9068,7 +9068,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxd7! de7 (Forced) 2.NCS+ Ke8 (If2...Kc7, 3.Ne6+ wins the rook; likewise after 2...Kd6 3.Nb7+.) 3.Ne6!  Rdl+ (If 3...Ra8, 4.Nc7+ wins.) 4.Kh2 Ral 5.a8/Q+ Rxa8 6.Nc7+ Resigns.  White wins the rook. *
+1.Rxd7! de7 2.NCS+ Ke8 3.Ne6!  Rdl+ 4.Kh2 Ral 5.a8/Q+ Rxa8 6.Nc7+ Resigns.  White wins the rook. *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9138,7 +9138,7 @@ White cannot win by 1.Nxc6 be- cause ofl...Rb1+!2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...R_xh7! (Ifnow 2.Rxh7, 2...bl/ Q.) 2.Rb1 K03 Resigns. Black wins a rook with 3...K02, etc. *
+1...R_xh7! 2.Rb1 K03 Resigns. Black wins a rook with 3...K02, etc. *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9222,7 +9222,7 @@ White threatens Rg8 mate. If Black tries 1...Rxf6?, then 2.Rb8+ leads to mate. B
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ng3+! 2.hxg3 hxg3+ 3.Kg1 NfZ (Threatens mate.) 4.Rxf2 Rhl+l 5.Kxhl gxf2 Resigns. The pawn queens. *
+1...Ng3+! 2.hxg3 hxg3+ 3.Kg1 NfZ 4.Rxf2 Rhl+l 5.Kxhl gxf2 Resigns. The pawn queens. *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9306,7 +9306,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1,..Bxa2! 2.Nxa2 b3 3.Nc3 (If 3.Nc1, 3...b2 wins.) 3...b2 followed by 4...a2, and Black queens a pawn. *
+1,..Bxa2! 2.Nxa2 b3 3.Nc3 3...b2 followed by 4...a2, and Black queens a pawn. *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9334,7 +9334,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc8! Rxc8 (Ifl...Qxd7, 2.Qf8+ forces mate.) 2.Qe7! h6 (If 2...Qxe7, 3.dxc8/Q+ and mate next move.)  3.Qxe6 fxe6 4.dxc8/Q+ Resigns. *
+1.Rc8! Rxc8 2.Qe7! h6  3.Qxe6 fxe6 4.dxc8/Q+ Resigns. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9376,7 +9376,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Be6! fxe6 (If l...Rxd3, 2.Qe8 mate; if 1...Bxe6, 2.Qc8+ or 2.Qa8+ leads to mate.) 2.Qc8+ (2.Qa8+ leads to the same result.) 2...Bd8 3.Qxd8+!.  Forces mate. *
+1.Be6! fxe6 2.Qc8+ 2...Bd8 3.Qxd8+!.  Forces mate. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9418,7 +9418,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc4+ Kh8 (Or 1...Rf7 2.d7 Qd2 3.Radl and wins.) 2.ng4! Resigns. If 2...fxg4, 2.th‘8 mate. *
+1.Qc4+ Kh8 2.ng4! Resigns. If 2...fxg4, 2.th‘8 mate. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9432,7 +9432,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb3+ (Or 1.Qc4+ with the same result.) 1...Kh8 2.Qf7 Resigns. If 2...Rxe7, 3.Qxf8 mate; if 2...Rxf7, 3.Rxe8+ leads to mate. Meanwhile White threatens 3.ng7 mate. *
+1.Qb3+ 1...Kh8 2.Qf7 Resigns. If 2...Rxe7, 3.Qxf8 mate; if 2...Rxf7, 3.Rxe8+ leads to mate. Meanwhile White threatens 3.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9446,7 +9446,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc3! Qc5 (If 1...Qxc3, 2.Rxf8 mate.) 2.Rxf8+ Qxf8 3.Qxb2 Resigns. *
+1.Qc3! Qc5 2.Rxf8+ Qxf8 3.Qxb2 Resigns. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9460,7 +9460,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe5! Nxe5 (Or 1...Qxc4 2.Re8 mate.) 2.Qc8+. White mates next move. *
+1.Rxe5! Nxe5 2.Qc8+. White mates next move. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9474,7 +9474,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf5 Rd7 (If l...exf5, 2.Rd8+ leads to mate.) 2.Bxd7 and wins. *
+1.Nf5 Rd7 2.Bxd7 and wins. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9502,7 +9502,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc7! Qb5 (If 1...Qxc7 or l...Rxc7, 2.Rxe8+ forces mate.) 2.a4!  Qxa4 3.Re4! Qb5 (If 3...Qxe4, 4.Rxe4 wins; if3...Rxe4, 4.Qxc8+ forces mate; if 3...Rxc7, 4.Rxe8 forces mate.)  4.Qxb7! Resigns. If4...Qxb7, 5.Rxe8+ and mate next move. Black has no good move. *
+1.Qc7! Qb5 2.a4!  Qxa4 3.Re4! Qb5  4.Qxb7! Resigns. If4...Qxb7, 5.Rxe8+ and mate next move. Black has no good move. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9516,7 +9516,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxd6! cxd6 2.Nf7+ Kg8 (If 2...Rxf7, 3.Re8+ forces mate.) 3.ng5 and wins. *
+1.Qxd6! cxd6 2.Nf7+ Kg8 3.ng5 and wins. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9558,7 +9558,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh6+ Kh8 2.Qxe5! Qxe5 3.Nxf7+! Kg8 (If3...Rxf7, 4.Rd8+ leads to mate.) 4.Nxe5 and wins. *
+1.Nh6+ Kh8 2.Qxe5! Qxe5 3.Nxf7+! Kg8 4.Nxe5 and wins. *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9586,7 +9586,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...b5! 2.Qxc6 (No matter where the queen plays, White can no longer prevent Black’s next move.) 2...Qf1+!  3.Rxf1 Rxfl mate. *
+1...b5! 2.Qxc6 2...Qf1+!  3.Rxf1 Rxfl mate. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9614,7 +9614,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bh6! (Ifnow 2.Bxh6, 2...Qf2+ 3.Kh1 Qf1+, forcing mate.) 2.Rel Bxe3+ 3.Qxe3 Rf1+l 4.Rxfl Qxe3+ and wins. *
+1...Bh6! 2.Rel Bxe3+ 3.Qxe3 Rf1+l 4.Rxfl Qxe3+ and wins. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9628,7 +9628,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxc2! (If now 2.Qxa5, 2...Rxc1+, with mate to follow.) 2.Rxc2 Rxc2! (For if 3.Qch, 3...Qel mate.)  3.le Qva and wins. *
+1...Rxc2! 2.Rxc2 Rxc2!  3.le Qva and wins. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9670,7 +9670,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bf5!(Ifnow 2.Qxf5, 2...Qxf5+ 3.Nxf5 Nxd2+ and mate follows.)  2.Nxf5 Qfo! 3.Qxf5 Nxd2+ 4.Ka1 Rcl+ 5.Qb1 Rxbl mate. *
+1...Bf5! 2.Nxf5 Qfo! 3.Qxf5 Nxd2+ 4.Ka1 Rcl+ 5.Qb1 Rxbl mate. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9684,7 +9684,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxe4! (Ifnow 2.Q[R]xe4, then 2...Qf1+ leads to mate.) 2.Qg3 Qfl+ 3.Rxf1 Rxfl mate. *
+1...Bxe4! 2.Qg3 Qfl+ 3.Rxf1 Rxfl mate. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9698,7 +9698,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rc5! 2.Rxc5 (If 2.Rxd7, 2...Rc1 mate; if 2.dxc5, 2...le mate.)  2...Qxb7 and wins. *
+1...Rc5! 2.Rxc5  2...Qxb7 and wins. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9726,7 +9726,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qb2! (Ifnow 2.Qxb2, 2...Rdl mate; if 2.Qd3, 2...Qa1+! and wins.)  2.Rd3 Qb1+! Resigns. *
+1...Qb2!  2.Rd3 Qb1+! Resigns. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9740,7 +9740,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxe3! (If now 2.fxe3, 2...Qxe3+ 3.Khl Rd1+! forces mate; while if3.Kf1, 3...Rd2 4.Qc5 Rf2+ [also 4...R8d4] 5.Kgl Rxf3+ wins.) 2.Re4 Qxe4! (So that if 3.Bxe4, 3...Rd1+ forces mate.) 3.Qe2 Qxf3! Resigns. If 4.gxf3, 4...Rd1+ 5.Rxd1Rxdl+6.Qxd1 Nxdl, leaving Black a piece ahead. *
+1...Nxe3! 2.Re4 Qxe4! 3.Qe2 Qxf3! Resigns. If 4.gxf3, 4...Rd1+ 5.Rxd1Rxdl+6.Qxd1 Nxdl, leaving Black a piece ahead. *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9866,7 +9866,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxc6+! bxc6 (Or 1...Kb8 2.Nd7+ winning.) 2.Ba6+ Kb8 3.Nxc6 mate. *
+1.Qxc6+! bxc6 2.Ba6+ Kb8 3.Nxc6 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9894,7 +9894,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh7! Kxh7 2.Qg6+! fxg6 (If 2...Kh8, 3.Qxh6 mate.) 3.hxg6+ Kh8 4.Rxh6 mate. *
+1.Bh7! Kxh7 2.Qg6+! fxg6 3.hxg6+ Kh8 4.Rxh6 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9908,7 +9908,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh6+! Kxh6 2.Nhf5+ Bxf5 3.Nxf5+ Kh5 4.g4+ (Also 4.Rh3+ Nh4 [4...Kg4 5.Nh6 mate] 5.Rxh4+ Kg6 6.Rh6 mate.) 4...Kxg4 5.Rg3+ Kh5 6.Be2 mate. *
+1.Qh6+! Kxh6 2.Nhf5+ Bxf5 3.Nxf5+ Kh5 4.g4+ 4...Kxg4 5.Rg3+ Kh5 6.Be2 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9964,7 +9964,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh7+! Kf8 (If 1...Nxh7, 2.gxh7+ Kh8 3.Rf‘8 mate.) 2.Qh8+ Ke7 3.ng7+ Resigns. White wins the queen. *
+1.Qh7+! Kf8 2.Qh8+ Ke7 3.ng7+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9978,7 +9978,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh6+! Ke7 (If 1...Rxh6, 2.Bxh6+ Ke7 3.Ng8 mate.) 2.Ng8+!  Rxg8 3.Bg5+ f6 4.exf6+ Kf7 5.Qh7+ Kf8 6.Bh6+ and White mates. *
+1.Qh6+! Ke7 2.Ng8+!  Rxg8 3.Bg5+ f6 4.exf6+ Kf7 5.Qh7+ Kf8 6.Bh6+ and White mates. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9992,7 +9992,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rg5! Ng6 (If 1...g6, 2.Nh6 mate; if 1...Rxe4, 2.Nh6+ Kh8 3.Bxg7 mate.)  2.Qxe8+ Rxe8 3.Rxe8+ Bf8 4.h5 h6 (1f 4...Nh8, 5.Rxg7 mate; Likewise 4...Ne7 5.Rxg7+ and mate in two. If 4...f6, 5.hxg6 fng 6.Rxf8+ Kxf8 7.gxh7 and queens.) 5.Rd5. There’s nothing Black can do about the coming Rdd8. If 5...Qa4, 6.Rdd8 ng4 7.hxg6, etc. *
+1.Rg5! Ng6  2.Qxe8+ Rxe8 3.Rxe8+ Bf8 4.h5 h6 5.Rd5. There’s nothing Black can do about the coming Rdd8. If 5...Qa4, 6.Rdd8 ng4 7.hxg6, etc. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10020,7 +10020,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nc7+ Qxc7 (If l...Kf8, 2.Qxf7+ Qfo 3.Rxf7 mate.) 2.Bx17+ Kd7 (If 2...Kf‘8, 3.exd6 Qxd6 4.Bxg8+ wins.)  3.Qf5+! Nxf5 4.e6 mate. *
+1.Nc7+ Qxc7 2.Bx17+ Kd7  3.Qf5+! Nxf5 4.e6 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10062,7 +10062,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxd4! Rxd4 (Or 1...Qxe6 2.Qg7 mate.) 2.Rxg6+ hxg6 3.Rxd4 and wins.  White is a knight ahead. *
+1.Qxd4! Rxd4 2.Rxg6+ hxg6 3.Rxd4 and wins.  White is a knight ahead. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10118,7 +10118,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb6+! Ke7 (1...cxb6 2.Bb4 mate.) 2.d6+ Kf8 (Other moves are even worse.) 3.dxc7 and wins. Black has no good defense. *
+1.Qb6+! Ke7 2.d6+ Kf8 3.dxc7 and wins. Black has no good defense. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10132,7 +10132,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f5+! exf5 (Or 1...Kxf5 2.Qf3+ and White wins as in the main line.)  2.Qxh5+! Kg7 (If 2...Kxh5, 3.Nf4 mate.) 3.g6 Resigns. Black is helpless against the coming Qh7+ and Qf7 mate. *
+1.f5+! exf5  2.Qxh5+! Kg7 3.g6 Resigns. Black is helpless against the coming Qh7+ and Qf7 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10188,7 +10188,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxa6! Nxa6 2.Rxc8+ Kg7 3.Ng4 (Threatening 4.Bd8 and 5.Bf6+) 3...Qxa3 4.Bc3+ f6 5.Bxf6+ Kf7 6.Rh8 Qb4 (Or 6...e5 7.Rxh7+ with a mating attack.) 7.Rxh7+ Kg8 8.Rd8+ Kxh7 9.Rh8 mate. *
+1.Qxa6! Nxa6 2.Rxc8+ Kg7 3.Ng4 3...Qxa3 4.Bc3+ f6 5.Bxf6+ Kf7 6.Rh8 Qb4 7.Rxh7+ Kg8 8.Rd8+ Kxh7 9.Rh8 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10202,7 +10202,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd5! e6 (White threatened 2.Qxf7 mate.) 2.Qxe6+! fxe6 3.Bxe6+ Qf7 4.Rxf6! Qxe6 5.Rf8 mate. *
+1.Qd5! e6 2.Qxe6+! fxe6 3.Bxe6+ Qf7 4.Rxf6! Qxe6 5.Rf8 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10244,7 +10244,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxc5! dch (If 1...Qe8, 2.Qa5 Ne6 3.Rc1 White wins quickly.)  2.Rxc7+ Kb8 3.Rxg7+ Kc8 4.Rxg6 and wins. White is a pawn ahead and threat- ens to pick up a piece with 5.Bxg5. *
+1.Qxc5! dch  2.Rxc7+ Kb8 3.Rxg7+ Kc8 4.Rxg6 and wins. White is a pawn ahead and threat- ens to pick up a piece with 5.Bxg5. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10258,7 +10258,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg5! g6 (If 1...ng5, 2.Rxe8 mate.) 2.Qh6! gxf5 3.Rg4+! fxg4 4.Bxh7+ Kh8 5.Bg6+ Kg8 6.Qh7+ KfB 7.Qxf7 mate. *
+1.Qg5! g6 2.Qh6! gxf5 3.Rg4+! fxg4 4.Bxh7+ Kh8 5.Bg6+ Kg8 6.Qh7+ KfB 7.Qxf7 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10272,7 +10272,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nce5! Nxe5 2.Nxe5! Bxdl 3.Bxb5+ Nd7 (If3...Kd8, 4.Rxd1+ Kc8 5.Ba6+ Kb8 6.Nc6+ Qxc6 7.Be5+ Qd6 8.Rcl !, forcing mate.) 4.Bxd7+ Qxd7 (If 4...Kd8, 5.Rxd1 and Black is help- less.) 5.Nxd7 and wins. White has won a pawn! *
+1.Nce5! Nxe5 2.Nxe5! Bxdl 3.Bxb5+ Nd7 4.Bxd7+ Qxd7 5.Nxd7 and wins. White has won a pawn! *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10356,7 +10356,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg6! fxg6 (If 1...hxg6, 2.Rh3 mate; if 1...Rg8 2.Qxh7+ Kxh7 3.Rh3 mate.) 2.ng6+ hxg6 3.Rh3+ Qh4 4.Rxh4 mate. *
+1.Qg6! fxg6 2.ng6+ hxg6 3.Rh3+ Qh4 4.Rxh4 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10398,7 +10398,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxh7+ Kxh7 2.Nxf6+ Kh6 (2...Kh8 3.Ng6 mate.) 3.Neg4+ Kg5 4.h4+ Kf4 5.g3+ Kf3 6.Be2+ Kg2 7.Rh2+ Kg] 8.Kd2 mate. Slightly faster is 6.Kf1 and 7.Nh2 mate. *
+1.Qxh7+ Kxh7 2.Nxf6+ Kh6 3.Neg4+ Kg5 4.h4+ Kf4 5.g3+ Kf3 6.Be2+ Kg2 7.Rh2+ Kg] 8.Kd2 mate. Slightly faster is 6.Kf1 and 7.Nh2 mate. *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10454,7 +10454,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxb3! (If now 2.Nxb5, 2...Nd4 mate!) 2.Bb2 Nb4+ 3.Kcl Qxe5! and Black wins a piece because of the threat of...Nd3+ *
+1...Bxb3! 2.Bb2 Nb4+ 3.Kcl Qxe5! and Black wins a piece because of the threat of...Nd3+ *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10496,7 +10496,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxf3! 2.gxf3 Rg6+ 3.Kh1 Bh3 (Ifnow 4.Rg1, 4...Rxg1+ 5.Kxg1Re1+ and mate next move. Or 4.Qd3 f5!  5.Qc4+ K18! and wins.) 4.Rd1 Bg2+ 5.Kg1 Bxf3+ 6.Kf1 Rg2! (If now 7.Qxb6,,7...Rxh2 leads to mate; or 7.Qe2 Rxe2 8.d4 Rxh2 forcing mate.)  7.Qd3 Rxf2+ 8.Kg1 Rg2+ 9.K moves Rgl mate. *
+1...Qxf3! 2.gxf3 Rg6+ 3.Kh1 Bh3 4.Rd1 Bg2+ 5.Kg1 Bxf3+ 6.Kf1 Rg2!  7.Qd3 Rxf2+ 8.Kg1 Rg2+ 9.K moves Rgl mate. *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10552,7 +10552,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4+! 2.Nxd4 Qxe1+!  3.Qxe1 Bxd4+ (Ifnow 4.Kfl, 4...Bc4+ 5.Be2 Nxh2 mate.) 4.Kh1 N12+ Re- signs. For after 5.Kg1 Nd3+ and 6...Nxel, Black remains a piece ahead. *
+1...Rxd4+! 2.Nxd4 Qxe1+!  3.Qxe1 Bxd4+ 4.Kh1 N12+ Re- signs. For after 5.Kg1 Nd3+ and 6...Nxel, Black remains a piece ahead. *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10580,7 +10580,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qg3! (Threatens 2...Qxh2 mate.) 2.ng3. (If 2.hxg3, 2...Ne2 mate; if 2.fxg3, 2...Ne2+ 3.Kh1 Rxfl mate.)  2...Ne2+ 3.Kh1 ng3+ 4.Khl Ne2+ and Black is a piece ahead. *
+1...Qg3! 2.ng3.  2...Ne2+ 3.Kh1 ng3+ 4.Khl Ne2+ and Black is a piece ahead. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10608,7 +10608,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh8+! Kf7(lf1...Kxh8, 2.Qh6+ and mate next move.) 2.Ng5+ Kg7 (2...ng5 3.ng5 Rxh8 is winning for White.) 2.Rxa8 Qxa8 3.Qe7+ Resigns.  White wins the knight. *
+1.Rh8+! Kf72.Ng5+ Kg7 2.Rxa8 Qxa8 3.Qe7+ Resigns.  White wins the knight. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10636,7 +10636,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg6+ Ke7 2.Rxc7+! Qxc7 3.Qg7+ Kd6 (Other king moves lose the queen or run into mate.) 4.Bf4+ Resigns. *
+1.Qg6+ Ke7 2.Rxc7+! Qxc7 3.Qg7+ Kd6 4.Bf4+ Resigns. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10706,7 +10706,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rac1! ch7 (If 1...Nbd7, 2.Nxd7 Nxd7 3.RcS+, winning a rook; or 2...de7 3.Rxc5 winning a piece.)  2.Rc8+ Kf7 3.Rxh8 and wins. White has won the Exchange. *
+1.Rac1! ch7  2.Rc8+ Kf7 3.Rxh8 and wins. White has won the Exchange. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10734,7 +10734,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxf8+ Kxf8 (Or 1...Qxf8 2.Rxe8 and White will be a rook ahead.)  2.Rxe8+ Kf7 3.Rf‘8+ Kg6 4.Rxf4 and wins. *
+1.Qxf8+ Kxf8  2.Rxe8+ Kf7 3.Rf‘8+ Kg6 4.Rxf4 and wins. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10748,7 +10748,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.c5! (Threatens 2.a3 Ba5 3.b4, winning a piece.) l...bxc5 2.a3 Ba5 3.dxc5 (If now 3...Qxc5, 4.b4 wins a piece.) 3...c6 4.Bd6 and wins. White wins the Exchange. *
+1.c5! l...bxc5 2.a3 Ba5 3.dxc5 3...c6 4.Bd6 and wins. White wins the Exchange. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10762,7 +10762,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7+! Kxh7 2.Qe7+ Kg6 (If 2...Kh6, 3.Rh8+.) 3.Rg8+ Kf5 4.Rxg5+! Kng (If4...fxg5, 5.Qd7+) 5.Qg7+ Kf5 (If 5...Kh5, 6.Qh7+) 6.Qd7+ Resigns.  At last White wins the queen. *
+1.Rxh7+! Kxh7 2.Qe7+ Kg6 3.Rg8+ Kf5 4.Rxg5+! Kng 5.Qg7+ Kf5 6.Qd7+ Resigns.  At last White wins the queen. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10804,7 +10804,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg7+ Kxh4 (If 1...Qg6, 2.Rg4+ wins the queen.) 2.Qxh6+ Kg4 3.h3+ Kf5 4.Qh7+ and White wins the queen. *
+1.Qg7+ Kxh4 2.Qxh6+ Kg4 3.h3+ Kf5 4.Qh7+ and White wins the queen. *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10832,7 +10832,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe8+ KgS 2.f4+ Kf6 (If 2...Kg4, 3.Qe2 mate.) 3.Qh8+. White wins the queen. *
+1.Qe8+ KgS 2.f4+ Kf6 3.Qh8+. White wins the queen. *
 
 [Event "Black to move & win"]
 [Site "X-Ray Attack"]
@@ -10846,7 +10846,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bg4 (White cannot play 2.f3.)  2.Qd2 Bxdl and Black has won the Ex- change. *
+1...Bg4  2.Qd2 Bxdl and Black has won the Ex- change. *
 
 [Event "Black to move & win"]
 [Site "X-Ray Attack"]
@@ -10888,7 +10888,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Re5+ (If now 2.Kc6, 2...Bd7 mate.) 2.Kc4 Be2+. Black wins the knight. *
+1...Re5+ 2.Kc4 Be2+. Black wins the knight. *
 
 [Event "Black to move & win"]
 [Site "X-Ray Attack"]
@@ -10902,7 +10902,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxd5! 2.Nxd5 Bxd5 3.Rxd5 Rxb2 (Threatens ...Rbl+ and mate next move.) 4.Nd2 Rxa2 (Threatens 5...Ra1+ and 6...Rb2 mate.) 5.Nxc4 Ra1+, fol- lowed by ...Rth, and Black has won the Exchange. *
+1...Nxd5! 2.Nxd5 Bxd5 3.Rxd5 Rxb2 4.Nd2 Rxa2 5.Nxc4 Ra1+, fol- lowed by ...Rth, and Black has won the Exchange. *
 
 [Event "Black to move & win"]
 [Site "X-Ray Attack"]
@@ -10916,7 +10916,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Q32! (Threatening ...Qa1 mate.) 2.c3 Bf3. Black wins the Ex— change. *
+1...Q32! 2.c3 Bf3. Black wins the Ex— change. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -10930,7 +10930,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bb6! Bxb6 (If l...el/Q, 2.Ba7 mate.) 2.Kxb6 el/Q 3.c7 mate. *
+1.Bb6! Bxb6 2.Kxb6 el/Q 3.c7 mate. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -10944,7 +10944,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5 Ne8 (If 1 ...ede, 2.Qxf6!  gxf6 3.Rg1+ Kh8 4.Bxf6 mate. l...e5 drops a pawn, but it closes the long di- agonal, so it’s black best survival chance.) 2.Nf6+! (There’s also 2.ng7+ ng7 3.Nf6+ with 4.Nxd7.) 2...gxf6 (Or 2...Nxf6 3.Qxf6 gxf6 4.Rg1+ and mate follows. But here again 3...e5 is better.)  3.Rg1+ Kh8 4.Qxf6+! Nxf6 5.Bxf6 mate. *
+1.Nxd5 Ne8 2.Nf6+! 2...gxf6  3.Rg1+ Kh8 4.Qxf6+! Nxf6 5.Bxf6 mate. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11000,7 +11000,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxc6! Qxc6 (If 1...Rb8, White replies as in the main line.) 2.Nd5.  (Threatening 3.Nxe7 mate.) Black has no good defense. *
+1.Bxc6! Qxc6 2.Nd5.  Black has no good defense. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11056,7 +11056,7 @@ White hopes for 1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn end
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1...sz mate; if1.Kg2, 1...Qf2+ 2.Kh3 Qxh2+ 3.Kxg4 Qh5 mate; if 1.Nd4 Rxd4 with a devastating discov- ered check to come. But... 1.Nb6!  Qxb6+ 2.Qd4+! Rxd4 (Or 2...Qxd4+ 3.Nxd4 Rxd4 4.Bxg4 and White re- mains a piece ahead.) 3.Rxb6 Resigns.  White wins another piece. *
+Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1...sz mate; if1.Kg2, 1...Qf2+ 2.Kh3 Qxh2+ 3.Kxg4 Qh5 mate; if 1.Nd4 Rxd4 with a devastating discov- ered check to come. But... 1.Nb6!  Qxb6+ 2.Qd4+! Rxd4 3.Rxb6 Resigns.  White wins another piece. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11098,7 +11098,7 @@ Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc6! bxc6 2.Bxg7 Kxg7 3.Qxc6 Nc7 (Forced.) 4.Rc1 Re7 5.RcS Qb6 (If 5...Qb4, 6.Qd6 Rd7 7.Qe5+ f6 8.Qxc7! and White gets a decisive ma- terial advantage.) 6.Qxb6 axb6 7.Rxc7!  Rxc7 8.Bxa8. After 8...Ra7, White will be a pawn ahead. *
+1.Nxc6! bxc6 2.Bxg7 Kxg7 3.Qxc6 Nc7 4.Rc1 Re7 5.RcS Qb6 6.Qxb6 axb6 7.Rxc7!  Rxc7 8.Bxa8. After 8...Ra7, White will be a pawn ahead. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11112,7 +11112,7 @@ Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf7! Kxf7 2.Qxe6+! Kg6 (If 2...Kxe6, 3.Ng5 mate!) 3.g4! Be4 4.Nh4 mate. *
+1.Nf7! Kxf7 2.Qxe6+! Kg6 3.g4! Be4 4.Nh4 mate. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11140,7 +11140,7 @@ Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e4! Bxe5 (If l...Qxd4, 2.Bh6!  Qxe5 3.Qh8 mate. Thus white’s ﬁrst move serves to develop White’s bishop.)  2.Bh6+ K68 3.dxe5 Qxe5 4.Qg8+ Kd7 5.Rd1+ Resigns. *
+1.e4! Bxe5  2.Bh6+ K68 3.dxe5 Qxe5 4.Qg8+ Kd7 5.Rd1+ Resigns. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11154,7 +11154,7 @@ Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7+! Kxf7 2.Ne6! NdeS (If 2...Kxe6, 3.Qd5+ Kf6 4.Qf5 mate.)  3.Nxd8 Resigns. *
+1.Bxf7+! Kxf7 2.Ne6! NdeS  3.Nxd8 Resigns. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11168,7 +11168,7 @@ Black, though two pieces down, seems to have things all his own way. If 1.Kf1, 1
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+ leads to mate.) 2.Qe8+ Rf8 3.Rxg7+! Kxg7 (If3...Kh8, 4.Rh7+ Kg8 5.Qg6 mate.) 4.Qg6+ Kh8 5.Qh7 mate. *
+Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 2.Qe8+ Rf8 3.Rxg7+! Kxg7 4.Qg6+ Kh8 5.Qh7 mate. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11182,7 +11182,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nb5! abe 2.Nd6+ Qxd6 (If 2...Ke7, 2.Rxf7+! Nxf'7 3.Qxf7+ Kd8 4.Qe8 mate.) 3.Rxd6 Resigns. *
+1.Nb5! abe 2.Nd6+ Qxd6 3.Rxd6 Resigns. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11196,7 +11196,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc7! R338 (If 1.,.Rxc7, 2.Rb8 followed by Rf8 mate; if l...Rxb3, 2.Rxc8 with the same result; if 1 ...Re8 2.Rb6!, followed by 3.Rxd6 after Black saves his bishop.) 2.Rbc3! Rxc7 3.Nxc7 Ral 4.Ne6! Resigns. Black is helpless against 5.Rc8 and 6.Rf8 mate. *
+1.Rc7! R338 2.Rbc3! Rxc7 3.Nxc7 Ral 4.Ne6! Resigns. Black is helpless against 5.Rc8 and 6.Rf8 mate. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11210,7 +11210,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bh6+! Kxh6 2.Rxh4+ Kg7 3.Rah1 Rh8 (Despair. He had no good line against the mating threat of 4.Rh7+ etc. Editor: If3...f5, 4.Rh7+ Kf6 5.th6 threatening 6.Qxf5+ Ke7 7.Qe6 mate.)  4.Rxh8 Qxh8 5.Rxh8 Rxh8 6.Qb3.  White has a winning material advan— tage. *
+1.Bh6+! Kxh6 2.Rxh4+ Kg7 3.Rah1 Rh8  4.Rxh8 Qxh8 5.Rxh8 Rxh8 6.Qb3.  White has a winning material advan— tage. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11238,7 +11238,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh6+ Kh8 (If 1 ...gxh6, 2.Bxh6!  Qxh6 3.th'7+ Kh8 4.Qxe8+ wins.)  2.Nxf7+ Kg8 3.Qg3! Qe7 4.Nh6+ Kh8 5.Rf7 Resigns. *
+1.Nh6+ Kh8  2.Nxf7+ Kg8 3.Qg3! Qe7 4.Nh6+ Kh8 5.Rf7 Resigns. *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11266,7 +11266,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd3! 2.Bxd3 (If 2.Rd1, 2...Qf2+ 3.Kh1 Bxfl wins.) 2...Qe3+ 3.Kh1 (If3.Kfl, 3...Nh2 mate.) 3...Qel+ and mate follows. *
+1...Bd3! 2.Bxd3 2...Qe3+ 3.Kh1 3...Qel+ and mate follows. *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11280,7 +11280,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Na4! 2.bxa4. (If 2.Kxa4, 2...Ral mate.) 2...Rxb6 Resigns. *
+1...Na4! 2.bxa4. 2...Rxb6 Resigns. *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11294,7 +11294,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxg3! (If now 2.Rxf6, 2...Rd1+ leads to mate.) 2.Qxe8+. (So that if 2.,.Rxe8, 3.Rxf6 gxf6 4.hxg3 with drawing chances.) 2...Kh7! Resigns.  White’s queen is lost: if 3.Rcc1 Qh4 4.h3 Rxe8, etc. *
+1...Bxg3! 2.Qxe8+. 2...Kh7! Resigns.  White’s queen is lost: if 3.Rcc1 Qh4 4.h3 Rxe8, etc. *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11308,7 +11308,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ba6! 2.Qxa6 Qd2 (Threatens ...Qth mate and also ...Bxd4+.) 3.Ne2 Qe3+ 4.Khl Q13+ 5.Bg2 Net‘2+ 6.Kgl Nh3+ 7.Bxh3 Qf2+ 8.Kh1 Qxh2 mate. *
+1...Ba6! 2.Qxa6 Qd2 3.Ne2 Qe3+ 4.Khl Q13+ 5.Bg2 Net‘2+ 6.Kgl Nh3+ 7.Bxh3 Qf2+ 8.Kh1 Qxh2 mate. *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11406,7 +11406,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4! 2.cxd4 Bxd4+ (If now 3.Qxd4, 3...Nxf3+ wins the queen.)  3.Kfl ng2+! 4.Kxg2 Bh3 mate. *
+1...Rxd4! 2.cxd4 Bxd4+  3.Kfl ng2+! 4.Kxg2 Bh3 mate. *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11420,7 +11420,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5! (If now 2.Bxg5, 2...Nxf2 wins. Or if 2.Be3 Qf3 [or 2...Ne5!]  wins.) 2.13 QcS+! 3.Kg2 Qf2+ 4.Kh3 Qxh2+! 5.Kxg4 Rxf4+ 6.gxf4 Qh4 mate. *
+1...g5! 2.13 QcS+! 3.Kg2 Qf2+ 4.Kh3 Qxh2+! 5.Kxg4 Rxf4+ 6.gxf4 Qh4 mate. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11434,7 +11434,7 @@ Black is threatening ...Qfl+ fol— lowed by mate. 1.Rc8+! Bxc8 (1 ...Kf7 2.Qc7+
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb3+! Rf7 (If 1...Kh8, 2.Ng6+ forces mate.) 2.Nxf7 Qxf‘7 3.Re8+ Bf8 4.Bf4 Resigns. White will be a rook ahead. *
+1.Qb3+! Rf7 2.Nxf7 Qxf‘7 3.Re8+ Bf8 4.Bf4 Resigns. White will be a rook ahead. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11476,7 +11476,7 @@ Black, who was a piece down, has just played ...g3+, winning White‘s queen. Bu
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nt3! Qxhl 2.Ne5!. (This move stops the renewed threat of mate, attacks Black’s queen, and also threatens 3.Nd7 mate.) 2...Qxc6 3.Nxc6+ Resigns. *
+1.Nt3! Qxhl 2.Ne5!. 2...Qxc6 3.Nxc6+ Resigns. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11490,7 +11490,7 @@ Black, who was a piece down, has just played ...g3+, winning White‘s queen. Bu
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6!  Bxc6 (If 1...Rh6, 2.cxb7+! Kb8 3.Nc6+ Kxb7 4.Nxd8+ Kc8 5.Qxd7+! de7 6.Rfd1+ followed by 7.Bf3, and the white king escapes.) 2.Nxc6! Rxdl 3.fod1! bxc6 4.c5! Rg8 5.Rabl! Re- signs. Else 6.Ba6 mate. *
+Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6!  Bxc6 2.Nxc6! Rxdl 3.fod1! bxc6 4.c5! Rg8 5.Rabl! Re- signs. Else 6.Ba6 mate. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11532,7 +11532,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6!  Bx
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Black threatens ...le mate.  1.Be3! Qxe3 (On such moves as ...Qb4 or ...Qd6, White wins with Qg4+.)  2.Qg4+ Qe6 (If 2...Nd7, 3.Ra8 mate; if 2...Rd7, 3.Rh8+ and mate follows.)  3.Qxe6+ fxe6 4.Rxc7 mate. *
+Black threatens ...le mate.  1.Be3! Qxe3  2.Qg4+ Qe6  3.Qxe6+ fxe6 4.Rxc7 mate. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11546,7 +11546,7 @@ Black threatens ...le mate.  1.Be3! Qxe3 (On such moves as ...Qb4 or ...Qd6, Whi
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8+ B18 (If 1...Kh7, 2.Qd3+ wins.) 2.Rxf8+! Kxf8 3.Nf5+ Kg8 4.Qf8+ Resigns. If 4...Kxf8, 5.Rd8 mate. *
+1.Re8+ B18 2.Rxf8+! Kxf8 3.Nf5+ Kg8 4.Qf8+ Resigns. If 4...Kxf8, 5.Rd8 mate. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11560,7 +11560,7 @@ Black threatens ...le mate.  1.Be3! Qxe3 (On such moves as ...Qb4 or ...Qd6, Whi
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re4+! Kf‘8 (If 1...Kxf7, 2.Ne5+ wins; if 1...Kd7 2.ng7 wins.) 2.Nxd6!  Qxd6 (If2...Qxc3, 3.Re8+ Rxe8 4.fxe8/ Q mate.) 3.Re8+! Rxe8 4.ng7+! Kxg7 (If4...Ke7, 5.f8/Q+ and mate. follows.)  5.fxe8/N+! Kf8 6.Nxd6 Resigns. *
+1.Re4+! Kf‘8 2.Nxd6!  Qxd6 3.Re8+! Rxe8 4.ng7+! Kxg7  5.fxe8/N+! Kf8 6.Nxd6 Resigns. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11574,7 +11574,7 @@ Black threatens ...le mate.  1.Be3! Qxe3 (On such moves as ...Qb4 or ...Qd6, Whi
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-In the face of Black’s crushing threat of ...Nc3+, White ﬁnds a clever resource: 1.fxg6! Nc3+ 2.Qxc3! bxc3 3.Nf5+ Kg8 (If 3...Kh8?, 4.g7+ Kg8 5.Nh6 mate.) 4.Ne7+ Kg7 5.Nf5+ Kg8 and drawn by perpetual check. *
+In the face of Black’s crushing threat of ...Nc3+, White ﬁnds a clever resource: 1.fxg6! Nc3+ 2.Qxc3! bxc3 3.Nf5+ Kg8 4.Ne7+ Kg7 5.Nf5+ Kg8 and drawn by perpetual check. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11602,7 +11602,7 @@ In the face of Black’s crushing threat of ...Nc3+, White ﬁnds a clever resou
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-With a piece down, White man- ages to ﬁnd a perpetual check. 1.Qd8+ Ka7 2.Rd3! Qel (If2...Qxd3, White has a perpetual check by 3.Qa5+, etc.)  3.Rd1! Qxdl 4.Qa5+ Drawn. Black can- not escape from the perpetual check. *
+With a piece down, White man- ages to ﬁnd a perpetual check. 1.Qd8+ Ka7 2.Rd3! Qel  3.Rd1! Qxdl 4.Qa5+ Drawn. Black can- not escape from the perpetual check. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11672,7 +11672,7 @@ White is the Exchange down and he cannot play 1.Qxe1 because of 1...Qf5+ and mat
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White’s queen is apparently lost, for if the queen moves, Black check- mates. l.Rb5!. (If no'w 1...Qxb5?, 2.ng8+ and wins. And if l...Qe6 or ...Qc4, 2.Qb7 mate.) l...ReS! (If now 2.Rxd5, 2...Rel mate.) 2.Rb1! Rg8! (Black’s best, as he is a piece down.)  3.Rb5! Re8! and drawn by repetition. *
+White’s queen is apparently lost, for if the queen moves, Black check- mates. l.Rb5!. l...ReS! 2.Rb1! Rg8!  3.Rb5! Re8! and drawn by repetition. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11686,7 +11686,7 @@ White’s queen is apparently lost, for if the queen moves, Black check- mates. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Be3! (Threatens 2...Bxf2+! or 2...g3!) 2.fxe3 g3 3.Rd7 f2+ 4.Kf1 h2 Resigns. For after 5.Kg2, Black queens one pawn and then the other. *
+1...Be3! 2.fxe3 g3 3.Rd7 f2+ 4.Kf1 h2 Resigns. For after 5.Kg2, Black queens one pawn and then the other. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11700,7 +11700,7 @@ White’s queen is apparently lost, for if the queen moves, Black check- mates. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! 2.Kh1 (If 2.gxf3, 2...exf3 wins because of the threat of ...Qg4+) 2...Ng4 3.Qxb5 (If 2.gxf3, 2...exf3 3.Qxb5 [or 3.Qe7 to answer 3...Qf4 by 4.Qh4] 3...Nxf2+ 4.Kg1 (4.Rxf2 Qxf2 with ...Qg2 mate) 4...Nh3+ 5.Kh1 Qg1+ 6.Rxgl Nf2 mate.) 3...Qxf2!. The queen cannot be captured, and meanwhile Black threat- ens ...le+!. *
+1...Nf3+! 2.Kh1 2...Ng4 3.Qxb5 3...Qxf2!. The queen cannot be captured, and meanwhile Black threat- ens ...le+!. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11714,7 +11714,7 @@ White’s queen is apparently lost, for if the queen moves, Black check- mates. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl! So: l...e5! (lf now 2.Bxe5, 2...Rcl wins.) 2.Rxd5 Rxd5 3.exd5 exf4 (Threatens ...Rc1.) 4.Rbl Rc2+ 5.Kel Rcl+ and Black queens the pawn. *
+After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl! So: l...e5! 2.Rxd5 Rxd5 3.exd5 exf4 4.Rbl Rc2+ 5.Kel Rcl+ and Black queens the pawn. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11728,7 +11728,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl! So: l...e5! (
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxh2! 2.Rxh2 Qxa3! 3.bxa3 (Or 3.Kbl Nc3+! 4.bxc3 Ka8, and the threat of ...Rb8+ decides. However, 3.c3 looks like a better defense.) 3...Bxa3+ 4.Kbl Nc3+ 5.Kal Bb2+! 6.Kxb2 Nxd1+, followed by ...Nxe3 with a win- ning game. *
+1...Rxh2! 2.Rxh2 Qxa3! 3.bxa3 3...Bxa3+ 4.Kbl Nc3+ 5.Kal Bb2+! 6.Kxb2 Nxd1+, followed by ...Nxe3 with a win- ning game. *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11756,7 +11756,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl! So: l...e5! (
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5! 2.fxg5 (If 2.Qh5, 2...Bg6 wins the queen.) 2...fxg5 3.ng5 Rxfl Resigns. *
+1...g5! 2.fxg5 2...fxg5 3.ng5 Rxfl Resigns. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11798,7 +11798,7 @@ Though Black is a piece ahead, the pressure is troublesome. The sim- plestway ou
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...e2! 2.Rxe2 (If 2.Rf2, 2...Bg3 wins the Exchange.) 2...Rxe2 3.Qxe2 Nxd4 and wins. After White’s queen moves, Black plays ...Nxf3+ with a pawn up and much the better position. *
+1...e2! 2.Rxe2 2...Rxe2 3.Qxe2 Nxd4 and wins. After White’s queen moves, Black plays ...Nxf3+ with a pawn up and much the better position. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11812,7 +11812,7 @@ Though Black is a piece ahead, the pressure is troublesome. The sim- plestway ou
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxa2! (If now 2.Kxa2, 2...Qa7+ 3.Kb1 Ra8 4.03 b3!, forcing mate.) 2.hxg6 Rxb2+ 3.Kcl Rxc2+! (If now 4.Kb1, 4...Rb2+ 5.Kc1 Ne3+ and mate follows.) 4.Kch Qf2+ 5.Kd3 Nb2 mate. *
+1...Rxa2! 2.hxg6 Rxb2+ 3.Kcl Rxc2+! 4.Kch Qf2+ 5.Kd3 Nb2 mate. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11826,7 +11826,7 @@ Though Black is a piece ahead, the pressure is troublesome. The sim- plestway ou
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch, 2...Qd5 3.f3 Qxd4+ and wins.) 2...Rxf2! Resigns. Black is well ahead in material, and if 3.Rxf2, 3...Qxd4 is crushing. *
+White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 2...Rxf2! Resigns. Black is well ahead in material, and if 3.Rxf2, 3...Qxd4 is crushing. *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11966,7 +11966,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nd5 (If now 2.Qxe4, 2...Nxc3+) 2.Qd6 Nxc3+ 3.Kd2 e5!  Resigns. *
+1...Nd5 2.Qd6 Nxc3+ 3.Kd2 e5!  Resigns. *
 
 [Event "Black to move & win"]
 [Site "Trapped Man"]
@@ -12064,7 +12064,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe7+ Qg5(If1...g5, 2.Qe1+ and mate follows.) 2.Qe4+! Qg4 3.Qe3! Re- signs. Black cannot avoid mate. Thus if 3...Qg5, 4.Qh3 mate. Or if 3...g5, 4.Qel+ forcing mate. And if 3...Qf5, 4.Qg3 mate. *
+1.Qe7+ Qg52.Qe4+! Qg4 3.Qe3! Re- signs. Black cannot avoid mate. Thus if 3...Qg5, 4.Qh3 mate. Or if 3...g5, 4.Qel+ forcing mate. And if 3...Qf5, 4.Qg3 mate. *
 
 [Event "White to move & win"]
 [Site "Zugzwang"]
@@ -12078,7 +12078,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf6! Rxf6 2.h4! h6 3.Kg2 g5 (Hoping to play ...Kg6.) 4.h5! Resigns.  Sooner or later the black king will have to give up protection of the rook. *
+1.Rxf6! Rxf6 2.h4! h6 3.Kg2 g5 4.h5! Resigns.  Sooner or later the black king will have to give up protection of the rook. *
 
 [Event "White to move & win"]
 [Site "Zugzwang"]
@@ -12134,7 +12134,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ke3! (White is powerless against the following mate pattern.)  2.Rxg5 Rdl+ 3.Rgl Kﬂ! 4.Rxd1 Bg2 mate. . *
+1...Ke3!  2.Rxg5 Rdl+ 3.Rgl Kﬂ! 4.Rxd1 Bg2 mate. . *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12148,7 +12148,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rg8! 2.Rg1 (If2.f6, the bishop is lost. If the rook moves anywhere else along the rank, 2...Qxf5 wins; if 2.Rf2, 2...th mate; if2.Bxh4, 2...Rg2+ leads to mate.) 2...Rxg5! 3.ng5 Qd6+ Re- signs. Black comes out a piece ahead. *
+1...Rg8! 2.Rg1 2...Rxg5! 3.ng5 Qd6+ Re- signs. Black comes out a piece ahead. *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12162,7 +12162,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ba6! (Ifnow 2.Bxa6, 2...Qf2!  3.Rg1 Qh4+ 4.Kg2 Qg3+l 5.Kf1 Qf2 mate.) 2.Qf3 Bd3! 3.a4 Be4! 4.Qf1 Qb2!  Resigns. White can do nothing against the maneuver 5...Qb7 and 6...Qh7 mate. *
+1...Ba6! 2.Qf3 Bd3! 3.a4 Be4! 4.Qf1 Qb2!  Resigns. White can do nothing against the maneuver 5...Qb7 and 6...Qh7 mate. *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12190,7 +12190,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.b4+ Kxb4 (If l...Kb6, 2.Rb7+ Ka6 3.Ral mate.) 2.Rb7+ Kc3 (If 2...KcS, 3.Rb5 mate.) 3.Ne4+ K02 (If 3...Kc4, 4.Rd4 mate.) 4.Rbb1 Resigns.  There follows 5.Rdcl mate. *
+1.b4+ Kxb4 2.Rb7+ Kc3 3.Ne4+ K02 4.Rbb1 Resigns.  There follows 5.Rdcl mate. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12204,7 +12204,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb5+ Nd7 (If 1...Qxb5 or 1...Nc6, 2.Nf6 mate.) 2.Rfe1! (Threat- ens Nf6 mate or Nd6 mate.) 2...Bb4 3.Nf6+ Kf‘8 4.Nxd7+ Rxd7 5.Qe5! Re- signs. He cannot meet the triple mate threat. *
+1.Qb5+ Nd7 2.Rfe1! 2...Bb4 3.Nf6+ Kf‘8 4.Nxd7+ Rxd7 5.Qe5! Re- signs. He cannot meet the triple mate threat. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12218,7 +12218,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg4+ Kd3 2.Qe2+ K02 3.d3+ Kxcl (If 3...Kb1, 4. 0-0 wins.) 4. 0-0 mate! *
+1.Qg4+ Kd3 2.Qe2+ K02 3.d3+ Kxcl 4. 0-0 mate! *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12232,7 +12232,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bb5! Qbe (If 1...c6, 2.dxc6 bxc6 3.Bxc6 Qxc6 4.Rxe7+ wins the queen.) 2.Qxf5 f6 3.Rael! fxg5 4.Rxe7+ Kd8 5.ng5 K08 6.Qg4+ Kd8 7.a4!  Resigns. Black’s queen can no longer stop mate. *
+1.Bb5! Qbe 2.Qxf5 f6 3.Rael! fxg5 4.Rxe7+ Kd8 5.ng5 K08 6.Qg4+ Kd8 7.a4!  Resigns. Black’s queen can no longer stop mate. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12246,7 +12246,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxh7+! Rxh7 (If l...Kf8, 2.Ng6+ wins the queen.) 2.Rxh7 Kxh7 3. 0-0-0 f5 4.Rh1+ Kg8 5.Rh8+! Re- signs. After 5...Kxh8, 6.Ng6+ wins the queen. *
+1.Bxh7+! Rxh7 2.Rxh7 Kxh7 3. 0-0-0 f5 4.Rh1+ Kg8 5.Rh8+! Re- signs. After 5...Kxh8, 6.Ng6+ wins the queen. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12274,7 +12274,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf6! Kxf6 (If 1...Qxf6, 2.Bg5 wins the queen.) 2.Bg5+ Kg7 (If 2...Ke5, 3.Be7+ leads to mate.) 3.Qh6+ Kg8 4.Rf1 Rf‘8 5.Bf6 Qxf6 6.Rxf6 Re- signs. The threat was 7.Rxg6+ hxg6 8.ng6 mate. *
+1.Rxf6! Kxf6 2.Bg5+ Kg7 3.Qh6+ Kg8 4.Rf1 Rf‘8 5.Bf6 Qxf6 6.Rxf6 Re- signs. The threat was 7.Rxg6+ hxg6 8.ng6 mate. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12288,7 +12288,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rf7+! Kxf7 2.Qe6+ Kg7 (If 2...Kf‘3, 3.Rf1+ leads to mate.) 3.Qe7+ Kh6 4.Nf5 mate. Or 4.Nf3 mate. *
+1.Rf7+! Kxf7 2.Qe6+ Kg7 3.Qe7+ Kh6 4.Nf5 mate. Or 4.Nf3 mate. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12344,7 +12344,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe6+! Kd7 (If 1 ...fxe6, 2.Qg7+ wins.) 2.Rxd6+! (There’s also the quiet 2.Qg7.) 2...de6 3.Nf5+ Ke6 4.Re3+ Kd7 5.Re7+ Resigns. Mate is unavoid- able. *
+1.Rxe6+! Kd7 2.Rxd6+! 2...de6 3.Nf5+ Ke6 4.Re3+ Kd7 5.Re7+ Resigns. Mate is unavoid- able. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12414,7 +12414,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bg6+! Kf8(If1...hxg6,2.hxg6+ Kxg6 3.Qxe6+ Bf6 4.Rg3+ Kh7 5.Rxd5 and wins.) 2.Qxe6 hxg6 3.hxg6 Resigns.  Black cannot meet the double mating threat. *
+1.Bg6+! Kf82.Qxe6 hxg6 3.hxg6 Resigns.  Black cannot meet the double mating threat. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12428,7 +12428,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7+ Kxf7 2.Ng5+ Ke8 (If 2...Kf6, 3.Qe6 mate.) 3.Qe6 Resigns.  Mate is forced. *
+1.Bxf7+ Kxf7 2.Ng5+ Ke8 3.Qe6 Resigns.  Mate is forced. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12484,7 +12484,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ng5! Na5 (White threatened 2.Nxf7 Kxf7 3.Nb6+.) 2.Qh5! g6 3.Nf6+! Nxf6 4.Bxf7+ Ke7 5.Bc5+ Re- signs. *
+1.Ng5! Na5 2.Qh5! g6 3.Nf6+! Nxf6 4.Bxf7+ Ke7 5.Bc5+ Re- signs. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12512,7 +12512,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf7! Nf6 (If 1...Rxf7, 2.Qg6.)  2.Qxe6! Nxh7 3.Nd6+ Kd8 4.Ba5! Re- signs. If4...Qan, 5.Qxc8 mate. And if 4...Bxd6, 5.cxd6! mating or winning the queen. *
+1.Nxf7! Nf6  2.Qxe6! Nxh7 3.Nd6+ Kd8 4.Ba5! Re- signs. If4...Qan, 5.Qxc8 mate. And if 4...Bxd6, 5.cxd6! mating or winning the queen. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12526,7 +12526,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe6! fxe6 (If 1...Bxe6, 2.Qd8 mate; if 1...Qxe6 2.Rc8+! forces mate.)  2.R08+! Kf'7 (If2...Bx08, 3.Qd8+ leads to mate.) 3.Rxh8 gxf6 (Or 3...Kxf6 4.Qf3+ wins.) 4.Qh5+ Ke7 5.Q05+ Kf7 6.Rxh7+ Kg8 7.Qe7 Resigns. *
+1.Nxe6! fxe6  2.R08+! Kf'7 3.Rxh8 gxf6 4.Qh5+ Ke7 5.Q05+ Kf7 6.Rxh7+ Kg8 7.Qe7 Resigns. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12568,7 +12568,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ne7! Qf6 (If the knight is cap- tured, 2.Rxd8+! leads to mate.) 2.Nh7+!  Resigns. If2...Rxh7, 3.ng8 mate. *
+1.Ne7! Qf6 2.Nh7+!  Resigns. If2...Rxh7, 3.ng8 mate. *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12624,7 +12624,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Na5! (Threatens ...Nc4 mate.)  2.bxa5 Qc3+ 3.Ka4 Bd7 mate. *
+1...Na5!  2.bxa5 Qc3+ 3.Ka4 Bd7 mate. *
 
 [Event "Black to move & win"]
 [Site "The Helpless King"]
@@ -12638,7 +12638,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxd3! 2.cxb3 Rxd3 (If now 2.Qxb7, then 2...Red8 3.Nf3 ng2 wins.) 3.Qg4 Rxd2+ 4.de2 Bb4+ 5.Kcl Re 1+ 6.le Qc6+ and mate next move. *
+1...Bxd3! 2.cxb3 Rxd3 3.Qg4 Rxd2+ 4.de2 Bb4+ 5.Kcl Re 1+ 6.le Qc6+ and mate next move. *
 
 [Event "Black to move & win"]
 [Site "The Helpless King"]
@@ -12708,7 +12708,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5! Qde (If l...gxh5, 2.Nxe7+ Kg7 3.Rh5+ Nf6 [or 3...f6] 4.Rxh7 mate; if 1...cxd5, 2.Qxh7+ leads to mate.) 2.Qh6! Bf6 (Or 2...Bd8 3.Rxe8! and White forces mate.)  3.Rxe8! Rxe8 4.Bxf6 Resigns. Next on the agenda is Qg7 mate. *
+1.Nxd5! Qde 2.Qh6! Bf6  3.Rxe8! Rxe8 4.Bxf6 Resigns. Next on the agenda is Qg7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12736,7 +12736,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf6+! Ke8 (Surprising, but if l...exf6, 2.Qh7+ Ke8 [or 2...Ke6 3.Nf4 mate] 3.Qg8+ Kd7 4.Rh7+ and White mates in two more moves.) 2.Rf8+ Re- signs. *
+1.Rxf6+! Ke8 2.Rf8+ Re- signs. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12778,7 +12778,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf6! gxh4(If1...Bxf6,2.Qxh6 wins easily without sacriﬁces.) 2.Rxg7+ Kf8 (If 2...Kh8, White mates on the move.) 3.Rh7! Resigns. White has 4.Rh8 mate. *
+1.Bxf6! gxh42.Rxg7+ Kf8 3.Rh7! Resigns. White has 4.Rh8 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12820,7 +12820,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7! Kxg7 2.Rg1+ Kh7 (Or 2...Kh8 2.Nxf6 Bxf6 3.Ne4! Bxb2 4.Qxb2+ f6 5.Nxf6 winning.) 3.Nxf6+ Bxf6 4.Be4+ Kh8 5.Qh5 Bg7 6.Rxg7!  Resigns. If 6...Kxg7, 7.Nd5+ leads to mate. *
+1.Rxg7! Kxg7 2.Rg1+ Kh7 3.Nxf6+ Bxf6 4.Be4+ Kh8 5.Qh5 Bg7 6.Rxg7!  Resigns. If 6...Kxg7, 7.Nd5+ leads to mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12834,7 +12834,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf6! Bxf6 2.e5! (Threatens 3.Qxh7 mate.) 2...Nxd3 3.exf6 Resigns.  Black is helpless against Qg7 mate. *
+1.Bf6! Bxf6 2.e5! 2...Nxd3 3.exf6 Resigns.  Black is helpless against Qg7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12862,7 +12862,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxh6! Rxh4+ (If l...Nxh6, 2.hxg5 wins easily.) 2.Qxh4! gxh4 3.Nxf7+ Kh7 4.Bd1! Resigns, for B02 mate follows. *
+1.Nxh6! Rxh4+ 2.Qxh4! gxh4 3.Nxf7+ Kh7 4.Bd1! Resigns, for B02 mate follows. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12918,7 +12918,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh7+! Kf8(If1...Kxh7, 2.Qh4+ Kg7 3.Qh6 mate.) 2.Qa8+ Nc8 3.Qxc8+ Resigns. *
+1.Rh7+! Kf82.Qa8+ Nc8 3.Qxc8+ Resigns. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12932,7 +12932,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf7! Rxf7 2.ng6+ Kf8 3.Bxh6+ Bg7 4.Qh7! (Threatens 5.Qh8 mate.) 4...Ne7 5.Qh8+ Ng8 6.Bh7 Re- signs. *
+1.Nxf7! Rxf7 2.ng6+ Kf8 3.Bxh6+ Bg7 4.Qh7! 4...Ne7 5.Qh8+ Ng8 6.Bh7 Re- signs. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12988,7 +12988,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7! Kxh7 2.Rh1+ Kg6 3.Qg4 Bd7 (Or 3...f6 4.Qh5+ KfS 5.Nd4+ with a mating attack.) 4.f5+! Bfo 5.Qh5 mate. *
+1.Rxh7! Kxh7 2.Rh1+ Kg6 3.Qg4 Bd7 4.f5+! Bfo 5.Qh5 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13016,7 +13016,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe6! Nf6 (If 1...fxe6, 2.ng6+ and mate next move.) 2.Ne5 05 3.Bxh6+! Kxh6 4.Nxf7+! Resigns. If 4...Rxf7, 5.ng6 mate. *
+1.Rxe6! Nf6 2.Ne5 05 3.Bxh6+! Kxh6 4.Nxf7+! Resigns. If 4...Rxf7, 5.ng6 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13044,7 +13044,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg6+! fxg6 2.Rf7+! Kxf7 3.Qxh7+ Ke6 (If 3...Kf8, 4.Nf4 with mate to follow.) 4.ng6+ Ke5 5.Qg7+ Kxe4 (Or 5...Ke6 6.Nf4 mate.) 6.Nf6+ Resigns. White wins the queen. *
+1.Rxg6+! fxg6 2.Rf7+! Kxf7 3.Qxh7+ Ke6 4.ng6+ Ke5 5.Qg7+ Kxe4 6.Nf6+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13058,7 +13058,7 @@ White threatens Bch or ng4 in addition to Qxh7 mate. 1...Ndf6! 2.Bxb7 (If 2.Bch,
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf5+! gxf5 (If 1...Kh8, 2.Rxh7+! Kxh7 3.Qh1+ wins.)  2.Rxh7+! Kxh7 3.Qh5+ Nh6 (If3...Kg7, 4.g6 forces mate.) 4.Qxh6+ Kg8 5.Qg6+ Kh8 6.Be3, followed by 7.Rh1 mate. *
+1.Nf5+! gxf5  2.Rxh7+! Kxh7 3.Qh5+ Nh6 4.Qxh6+ Kg8 5.Qg6+ Kh8 6.Be3, followed by 7.Rh1 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13100,7 +13100,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf6! h6 (If 1...gxf6, 2.Rd3! d5 [or 2...Nxc4 3.Rh3] 3.Rg3+ Kh8 4.Qh6 forces mate; if 1...Nxc4, 2.Qg5 g6 3.Qh6 with the same result.) 2.Qg6!, followed by 2.ng7 mate. *
+1.Bf6! h6 2.Qg6!, followed by 2.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13128,7 +13128,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7+! Kxh7 2.Qh5+ Kg8 3.Bh6 (Threatening 4.Qg5+ and mate next move.) 3...Ne7 4.e6! Nxf5 5.Rg3+!  Resigns. If5...ng3, 6.Qg5+ and 7.Qg7 mate. *
+1.Rxh7+! Kxh7 2.Qh5+ Kg8 3.Bh6 3...Ne7 4.e6! Nxf5 5.Rg3+!  Resigns. If5...ng3, 6.Qg5+ and 7.Qg7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13170,7 +13170,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+ Kf8 (If 1 ...Kh8, 2.Rxh7+ Kg8 3.Rh8 mate.) 2.Rg8+! Kxg8 3.Rg1+ Kf8 4.Bg7+! Kg8 5.Bf6+ Kf8 6.Rg8+! Kxg8 7.Qg2+ Kf8 8.Qg7 mate. *
+1.Rxg7+ Kf8 2.Rg8+! Kxg8 3.Rg1+ Kf8 4.Bg7+! Kg8 5.Bf6+ Kf8 6.Rg8+! Kxg8 7.Qg2+ Kf8 8.Qg7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13184,7 +13184,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7! Kxh7 (If 1...Bxd4, 2.ng6+ Bg7 3.Rh8+! Kxh8 4.Qh7 mate. Or 2...Rg7 3.Qe6+, forcing mate.)  2.ng6+ Kg8 3.Rhl! Resigns, because of 4.Rh8+! *
+1.Rxh7! Kxh7  2.ng6+ Kg8 3.Rhl! Resigns, because of 4.Rh8+! *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13198,7 +13198,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf5!! Bf7(If1...gxf5,2.Qxf5+ Kh8 3.Ng6+ winning the queen.)  2.Bxg6+ Resigns. If2...Bxg6, 3.ng6!, winning the rook with discovered check. *
+1.Bxf5!! Bf7 2.Bxg6+ Resigns. If2...Bxg6, 3.ng6!, winning the rook with discovered check. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13212,7 +13212,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg4+ Qg6 (If 1...Kh8 2.Qg7 mate.) 2.Ne7+ Resigns. White wins the queen. *
+1.Qg4+ Qg6 2.Ne7+ Resigns. White wins the queen. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13226,7 +13226,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6! fxg6 2.ng6 e6 (If 2...Be8, 3.Bd5+ wins. Or 2...Rf6 3.Rxf6 exf6 4.Bd5+, etc.) 3.Be4! Rf5 4.Rxf5!  exf5 5.Bd5+ Resigns. *
+1.ng6! fxg6 2.ng6 e6 3.Be4! Rf5 4.Rxf5!  exf5 5.Bd5+ Resigns. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13240,7 +13240,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxh7+ Kxh7 2.Rf7+ Kh6 (If 2...Kg8, 3.Rg7+ Kf8 4.Qf1+ Ke8 5.Qf7+, followed by mate. Also 2...Kg6 3.Rg7+ leads to mate.) 3.Be3+! Rxe3 (If 3...Kh5, 4.g4+ wins easily.) 4.Qf6+ Resigns. White mates quickly. *
+1.Bxh7+ Kxh7 2.Rf7+ Kh6 3.Be3+! Rxe3 4.Qf6+ Resigns. White mates quickly. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13296,7 +13296,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1’.Rxg7! Kxg7 2.Be5+ Kh6 3.Nf7+ Kh5 4.Be2+ Kh4 (4...Bf3 5.Bxf3+ adds one more move.) 5.Bg3+ Kh3 6.Ng5 mate. *
+1’.Rxg7! Kxg7 2.Be5+ Kh6 3.Nf7+ Kh5 4.Be2+ Kh4 5.Bg3+ Kh3 6.Ng5 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13324,7 +13324,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7! Rxh7 2.Rxh7 Rf7 (If 2...Kxh7, 3.Qh5+ and mate in two more moves.) 3.Rh6 Nc4 4.Rxg6+ Resigns.  White has won two pawns and main- tains the attack. *
+1.Rxh7! Rxh7 2.Rxh7 Rf7 3.Rh6 Nc4 4.Rxg6+ Resigns.  White has won two pawns and main- tains the attack. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13352,7 +13352,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe8+! Kxg7 (If 1...Nxe8, 2.Rg8 mate.) 2.Qf7+ Kh8 3.Bh6 Resigns.  Black is helpless against Q[B]g7 mate. *
+1.Qe8+! Kxg7 2.Qf7+ Kh8 3.Bh6 Resigns.  Black is helpless against Q[B]g7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13366,7 +13366,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.c6! bxc6 (If 1...Rdd8, 2.Qxb7 mate.) 2.Ba6+ Kd8 3.Qb8 mate. *
+1.c6! bxc6 2.Ba6+ Kd8 3.Qb8 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13380,7 +13380,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh5! Rd7 (If 1...gxh5, 2.Bh6+ Kh8 3.Qg5 forces mate. And if 1...Nxh5, 2.Qxf7+ and mate next move.) 2.Rh8!  Resigns. If 1...Kxh8, 2.Nxf7+ wins the queen. Meanwhile, White threatens 3.Bxf6+ and 4.Qh6 mate. *
+1.Rxh5! Rd7 2.Rh8!  Resigns. If 1...Kxh8, 2.Nxf7+ wins the queen. Meanwhile, White threatens 3.Bxf6+ and 4.Qh6 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13394,7 +13394,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg4. (Not 1.Qd4 Qg5.) 1...g6 2.Qd4 Resigns. Black cannot stop mate, as 2...f6 is impossible. *
+1.Qg4. 1...g6 2.Qd4 Resigns. Black cannot stop mate, as 2...f6 is impossible. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13408,7 +13408,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxh7+! Kxh7 2.Ng5+ Kg8 (2...Bxg5 3.hxg5+ wins quickly.) 3.Qh5 Bxg5 4.hxg5 Kf8 5.Qh8+ Ke7 6.Ng6+!  fxg6 7.ng7 mate. *
+1.Bxh7+! Kxh7 2.Ng5+ Kg8 3.Qh5 Bxg5 4.hxg5 Kf8 5.Qh8+ Ke7 6.Ng6+!  fxg6 7.ng7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13422,7 +13422,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+! Kxg7 (After 1...Kf8 2.Rg5, Black cannot hold out very long.)  2.Qg3+ Kf7 3.Rh7+ Ke8 4.Qb8+ Kd7 5.Qxb7+ Kd8 6.Qxe7+ Kc8 7.Qc7 mate. *
+1.Rxg7+! Kxg7  2.Qg3+ Kf7 3.Rh7+ Ke8 4.Qb8+ Kd7 5.Qxb7+ Kd8 6.Qxe7+ Kc8 7.Qc7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13464,7 +13464,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxb5! cxb5 (White threatened 2.Ra8 mate.) 2.Qc5 Nc6 3.Qd6+ Qc7 4.Ra8 mate. *
+1.Nxb5! cxb5 2.Qc5 Nc6 3.Qd6+ Qc7 4.Ra8 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13478,7 +13478,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf6! Bxf6(If1...Rxb7,2.Qg5!  Bc5 3.Bf8! and White forces mate.)  2.Qg5! Bf3+ (If2...Bxg5, 3.Bg7 mate.)  3.Kgl! Rxb7 4.Qxf6+. *
+1.Rxf6! Bxf6 2.Qg5! Bf3+  3.Kgl! Rxb7 4.Qxf6+. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13534,7 +13534,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7! Qxd7 2.Qxh5!. (Without White’s ﬁrst move, Black could now save himself with ...Qxh2+) 2...gxh5 3.Bh7 mate. *
+1.Rd7! Qxd7 2.Qxh5!. 2...gxh5 3.Bh7 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13548,7 +13548,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng7! Kxg7 2.Qe5+ (If now 2...f6, 3.Nxe6+ Kh8 4.Qg3 winning Black’s queen because of the mate threat. Or 2...Bf6 3.Nh5+ Kg6 4.Nxf6 Q§f6 5-Qg3+ Kh5 6.Qh3+ Qh4 7_g4+, w1nning the queen.) 2...Kg8 3.Nh5 Re- signs. If3...f6, 4.Qg3+ wins. *
+1.ng7! Kxg7 2.Qe5+ 2...Kg8 3.Nh5 Re- signs. If3...f6, 4.Qg3+ wins. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13562,7 +13562,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6+ Kxg6 (Or 1...Kg8 2.Bf5 and wins.) 2.Bf5+ KgS 3.h4 mate. *
+1.ng6+ Kxg6 2.Bf5+ KgS 3.h4 mate. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13604,7 +13604,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+! Kxg7 2.Nh5+ Kf8 (If 2...Kg6, 3.Qe3! forces a quick mate; if 2...Kh8, 3.Nxf6 Qe5 4.Bb2! is decisive.)  3.Nxf6 Nxf6 4.Qxf6 Ke8 5.Bb5+ Re— signs. If 5...Kd8, 6.Qh8+ Kc7 7.Bf4+ wins. Or 5...Rd7 6.Qh8+ Ke7 7.Bg5+ Kd6 8.Bf4+. *
+1.Rxg7+! Kxg7 2.Nh5+ Kf8  3.Nxf6 Nxf6 4.Qxf6 Ke8 5.Bb5+ Re— signs. If 5...Kd8, 6.Qh8+ Kc7 7.Bf4+ wins. Or 5...Rd7 6.Qh8+ Ke7 7.Bg5+ Kd6 8.Bf4+. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13632,7 +13632,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh4! Re8 (If 1...hxg5, 2.ng5 with a mating attack.) 2.Bxh6! gxh6 3.Qxh6 Ng6 4.Ng5 Nf8 5.Re1! d5 (If 5...Ne6, 6.Ne4! wins.) 6.Bxe8 Qxe8 7.Re3 Be6 8.Nh7! Resigns. There’s no defense to the coming Rg3+ *
+1.Qh4! Re8 2.Bxh6! gxh6 3.Qxh6 Ng6 4.Ng5 Nf8 5.Re1! d5 6.Bxe8 Qxe8 7.Re3 Be6 8.Nh7! Resigns. There’s no defense to the coming Rg3+ *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13674,7 +13674,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng5! Bxf4 (If 1.--hxg5, 2.Rxg5+ Wins the queen.) 2003+! R8f6 (If 2...Be5, 3.Nf3+ and winS-) 3-Ne4+!  Bxg3 4.Rxg3+ Kh8 (If4...Kf8, 5.Qb4+ wins.) 5.Qxf6+! Rxf6 6.Rg8+! Kxg8 7.Nxf6+ Kf8 8.Nxh5 Resigns. *
+1.ng5! Bxf4 2003+! R8f6 3-Ne4+!  Bxg3 4.Rxg3+ Kh8 5.Qxf6+! Rxf6 6.Rg8+! Kxg8 7.Nxf6+ Kf8 8.Nxh5 Resigns. *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13716,7 +13716,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxg3! (Ifnow 2.fxg3, 2...Qe3+ wins the queen.) 2.Bxg4 Bxf2+ 3.Kxf2 Qxh4+ 4.Kfl Bxg4 Resigns. *
+1...Bxg3! 2.Bxg4 Bxf2+ 3.Kxf2 Qxh4+ 4.Kfl Bxg4 Resigns. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13730,7 +13730,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.....Be3+! (Ifnow 2.Khl, 2...Rh2 mate or 2...Bg2 mate.) 2.Rxe3 Rd1+ 3.Rel Rxel mate. *
+1.....Be3+! 2.Rxe3 Rd1+ 3.Rel Rxel mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13772,7 +13772,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nt3+! (If now 2.Khl, 2...Rh5 3.h3 Bxh3 4.gxh3 Rxh3+ 5.Kg2 Ne1+!, and mates in two more moves.) 2.gxf3 Rg5+ 3.Kh1 Qxf3 mate. *
+1...Nt3+! 2.gxf3 Rg5+ 3.Kh1 Qxf3 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13786,7 +13786,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! 2.gxf3 (If 2.Kfl, the most effective is 2...Nxh2+!.) 2...Rg5+ (If now 2.Kh1, 2...Qxf2 leads to mate.)  3.Kf1 Qh3+ 4.Ke2 Re5 mate. *
+1...Nf3+! 2.gxf3 2...Rg5+  3.Kf1 Qh3+ 4.Ke2 Re5 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13828,7 +13828,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxf3! (If now 2.Nxe6, 2...Rxh2+! 3.Kxh2 Qd2+ 4.Kh3 Qh6+, followed by mate.) 2.Qc3 g5! (If now 3.Rc8, 3...g4 mate.) 3.g4 gxf4! (If now 4.Rc8, 4. . .Bg2 mate.) 4.g5 Bb7! 5.Kg4 Qd5 Resigns. If 6.Rxb7, 6...Qf5+, etc. *
+1...Bxf3! 2.Qc3 g5! 3.g4 gxf4! 4.g5 Bb7! 5.Kg4 Qd5 Resigns. If 6.Rxb7, 6...Qf5+, etc. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13856,7 +13856,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxf4+! 2.Qxf4 Rg3! (If now 3.Qxd6, 3...Rxh3 mate.) 3.Qxf5 Rg2+ and mate next move. The same goes for 3...Rxh3 double check. *
+1...Bxf4+! 2.Qxf4 Rg3! 3.Qxf5 Rg2+ and mate next move. The same goes for 3...Rxh3 double check. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13870,7 +13870,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qf‘3+ 2.Bg3 g5! (Threatens ...Qf1 mate. If now 3.Rd2, 3...Qf1+ 4.Rg2 h5 5.gxh5 Qxf5 mate.) 3.fxg6 e.p.  Kg5! (Again threatening ...Qf1 mate.)  4.Rd2 h5! 5.gxh5 Qf1+ 6.Rg2 Qf5 mate.  Editor: 4.Rf7 is a better defense. *
+1...Qf‘3+ 2.Bg3 g5! 3.fxg6 e.p.  Kg5!  4.Rd2 h5! 5.gxh5 Qf1+ 6.Rg2 Qf5 mate.  Editor: 4.Rf7 is a better defense. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13884,7 +13884,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rh5! (If now 2.g3, 2...ng3 3.Be4 Rxdl 4.Rxdl Nxe4 5.fxe4 Be4+, etc.) 2.h3 Ng4! 3.fxg4 Rxh3+ 4.Kg1 Qh2+ 5.Kf1 Qh1+, followed by 6...ng2 mate. *
+1...Rh5! 2.h3 Ng4! 3.fxg4 Rxh3+ 4.Kg1 Qh2+ 5.Kf1 Qh1+, followed by 6...ng2 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13940,7 +13940,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! 2.gxf3 Bxf3+ 3.Bg3 ng3+! 4.hxg3 Rxg3+ 5.Kh2 (If5.Bg2, 5...Rxg2+ 6.Kf1 Rxf2+ and mate next move.) 5...Bxf2 6.Bh3 Rxh3+! 7.Kxh3 Rh8 mate. *
+1...Nf3+! 2.gxf3 Bxf3+ 3.Bg3 ng3+! 4.hxg3 Rxg3+ 5.Kh2 5...Bxf2 6.Bh3 Rxh3+! 7.Kxh3 Rh8 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13954,7 +13954,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+! (If now 2ng, Q[R]g5+ leads to mate.) 2.Kh1 Qh4 3.h3 Nel!  Resigns. Attacks the queen and also threatens 4...Qxh3+, followed by 5...ng2 mate. *
+1...Nf3+! 2.Kh1 Qh4 3.h3 Nel!  Resigns. Attacks the queen and also threatens 4...Qxh3+, followed by 5...ng2 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13968,7 +13968,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxh3 (If now 2.gxh3, 2...Qxh3+ 3.Kgl Rg3+ and mate in two more moves.) 2.gxf3 Nf2+ 3.Kg3 Qh3+!  (If now 4.Kxf2, 4...Qh2+ wins the queen.) 4.Kf4 Qh2+ 5.Ke3 Ng4+! Re- signs. If 6.Kd3, 6...Ne5+ wins the queen. And if 6.fxg4, 6...Qxc2 wins. *
+1...Nxh3 2.gxf3 Nf2+ 3.Kg3 Qh3+!  4.Kf4 Qh2+ 5.Ke3 Ng4+! Re- signs. If 6.Kd3, 6...Ne5+ wins the queen. And if 6.fxg4, 6...Qxc2 wins. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13996,7 +13996,7 @@ White opens the g-ﬁle with tell- ing effect. 1.Qxh5! Bxe4 2.Bxe4 gxh5 3.Rg1+ K
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.....Nf4! (Threatens 2...Nh3 mate; if 2.gxf4, 2...Bxf4 3.Be3 Bxh2+!, forcing mate.) 2.h4 Qxh4 Resigns. If 3.gxh4, 3...Nh3 mate. *
+1.....Nf4! 2.h4 Qxh4 Resigns. If 3.gxh4, 3...Nh3 mate. *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
