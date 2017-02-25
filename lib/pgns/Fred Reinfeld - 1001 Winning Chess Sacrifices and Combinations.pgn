@@ -1354,7 +1354,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Kh7 2.Be1 Kh6 3.Bc3 Kh5 4.Be1 Kg4 5.Bc3 hxg2+ 6.Rxg2+ Kh3 7.any Bxg2 *
+1...Kh7 2.Be1 Kh6 3.Bc3 Kh5 4.Be1 Kg4 5.Bc3 hxg2+ 6.Rxg2+ Kh3 7.Be1 Bxg2 *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1368,7 +1368,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...ng3+ 2.Kxg3 gxf6 *
+1...Qxg3+ 2.Kxg3 gxf6 *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1410,7 +1410,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd5 2.Rxd5 Qb7 3.Qg2 le+  4.le Qe4+l 5.Qg2 ng2+ 6.Kxg2 Nf4 *
+1...Rxd5 2.Rxd5 Qb7 3.Qg2 Qb1+ 4.Qg1 Qe4+ 5.Qg2 Qxg2+ 6.Kxg2 Nf4 *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1438,7 +1438,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bg4 2.ng4 Nxf2 *
+1...Bg4 2.Qxg4 Nxf2 *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1494,7 +1494,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...dxe4.  Instead, by playing l...Qe7, he pins  *
+1...Qe7 *
 
 [Event "Black to move & win"]
 [Site "Pinning"]
@@ -1550,7 +1550,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf8 Kxf8 2.Bxf7 Kxf7 3.Nd6+, and after 4.Nxc8 *
+1.Bxf8 Kxf8 2.Bxf7 Kxf7 3.Nd6+ *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1564,7 +1564,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd6+ Bxd6 2.Nxd6+ K moves 3.Nxf7 *
+1.Nd6+ Bxd6 2.Nxd6+ Kb8 3.Nxf7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1578,7 +1578,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
+1.Rxf8+ Rxf8 2.Rxf8+ Qxf8 3.Nxg6 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1592,7 +1592,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nc7+ Ke7  2.Rxd8 Rxd8 3.Rxd8 de8 4.Ne6+  *
+1.Nc7+ Ke7  2.Rxd8 Rxd8 3.Rxd8 Kxd8 4.Ne6+  *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1606,7 +1606,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd5 Qfo 2.Rxb7+ Kxb7 3.Qb4+ K08 4.Ne7 *
+1.Nd5 Qxf5 2.Rxb7+ Kxb7 3.Qb4+ Kc8 4.Ne7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1620,7 +1620,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nd6 Bd7 2.Re7+ Kf6 3.Rxd7 Ke6 4.Rd8, and White keeps the extra piece: if 4...Ke7, 5.Nf5+ and if 4...Rh4+, 5.Kg3 *
+1.Nd6 Bd7 2.Re7+ Kf6 3.Rxd7 Ke6 4.Rd8 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1662,7 +1662,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5 Bde  2.Nd7+ and White wins the queen.  1.Nd7 *
+1.Nxd5 Bxd5 2.Nd7+ *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1690,7 +1690,7 @@ White wins the queen: LRxfB+ Rxf8 2.Rxf8+ QxfB 3.ng6 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K moves 3.Nxd7 *
+1.fxg8 Rxf6+ 2.Nxf6+ Kg6 3.Nxd7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1704,7 +1704,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh7 Black must move his queen, allowing 2.Nxf8. If instead 1...Kxh7, 2.Qxh5+ and 3.Qh7 *
+1.Nh7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1746,7 +1746,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh5+ Kf62.Rxf5 *
+1.Rh5+ Kf6 2.Rxf5 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1802,7 +1802,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxc8 Rxc8 2.Nd7+ K moves 3.Nxb6 *
+1.Qxc8 Rxc8 2.Nd7+ Kg8 3.Nxb6 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1816,7 +1816,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc6 Bxc6 2.Ne7+ K moves 3.Nxc6 *
+1.Nxc6 Bxc6 2.Ne7+ Kh8 3.Nxc6 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1844,7 +1844,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf7+ Kg8  2.Nh6+ Kh8 3.ng7+ Kxg7 4.Nxf5 *
+1.Nf7+ Kg8  2.Nh6+ Kh8 3.Qxg7+ Kxg7 4.Nxf5 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1886,7 +1886,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf6+ Bxf6 2.ng6+ any 3.Qh7 *
+1.Nf6+ Bxf6 2.Qxg6+ Kh8 3.Qh7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1928,7 +1928,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf8 Qxf8 2.Rd8 Qxd8 3.Nxf7+ K moves 4.Nxd8 *
+1.Rxf8 Qxf8 2.Rd8 Qxd8 3.Nxf7+ Kh7 4.Nxd8 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1984,7 +1984,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7+Kg82.Ng5 Nf6 3.Rxg7 *
+1.Rxf7+ Kg8 2.Ng5 Nf6 3.Rxg7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -1998,7 +1998,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6+ fxg6 2.Nf7+  *
+1.Qxg6+ fxg6 2.Nf7+  *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2012,7 +2012,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng8 Rng 2.Nf6+ K67 3.ng8+ Ke8 4.Nf6+ K67 5.Nxd7  *
+1.Qxg8 Rxg8 2.Nf6+ Ke7 3.Nxg8+ Ke8 4.Nf6+ Ke7 5.Nxd7  *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2026,7 +2026,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7 Bxf7 2.Qf3. 2...Bxd5 3.cxd5 *
+1.Rxf7 Bxf7 2.Qf3 Bxd5 3.cxd5 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2054,7 +2054,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8 Qg52.Qe3. 2...h5 3.Qe5 *
+1.Re8 Qg5 2.Qe3 h5 3.Qe5 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2082,7 +2082,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxd4 cxd4 2.Nxf6+ Kh8 3.Rxe8+ Rxe8 4.Bg7+ Kxg7 5.Nxe8+ K moves 6.Nxc7 *
+1.Qxd4 cxd4 2.Nxf6+ Kh8 3.Rxe8+ Rxe8 4.Bg7+ Kxg7 5.Nxe8+ Kh8 6.Nxc7 *
 
 [Event "White to move & win"]
 [Site "Knight Forks"]
@@ -2110,7 +2110,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...N2d4+ 2.cxd4 Nxd4+ 3.K moves Nxc2 *
+1...N2d4+ 2.cxd4 Nxd4+ 3.Kg2 Nxc2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2152,7 +2152,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxe4 2.Nxe4 Ne2+ followed by 3...Nxc3 *
+1...Qxe4 2.Nxe4 Ne2+ *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2194,7 +2194,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...RdZ 2.Qc4.  2...Nf3+ 3.Kf1 Qd7 and mates shortly, as the queen cannot be kept from h3. For ex— ample, 3.Qe2 Qh3+ 4.Kf2 Qxh2+ 5.Kxf3 Qxe2 *
+1...Rd2 2.Qc4 Nf3+ 3.Kf1 Qd7 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2208,7 +2208,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d2+ 2.de2 Nxe4+ 3.K— moves Nxd6 *
+1...d2+ 2.Kxd2 Nxe4+ 3.Ke1 Nxd6 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2222,7 +2222,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxd4 2.Nxc7 Ne2+ 3 *
+1...Nxd4 2.Nxc7 Ne2+ 3. Kh1 Nxc1 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2250,7 +2250,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxe4 2.Bxe4 Nc5+ 3.K moves Nxe4 *
+1...Rxe4 2.Bxe4 Nc5+ 3.Kc4 Nxe4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2264,7 +2264,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rcl+ 2.Rxcl Rxc1+ 3.Kxc1 Nb3+ 4.K moves Nxd4 *
+1...Rc1+ 2.Rxc1 Rxc1+ 3.Kxc1 Nb3+ 4.Kd1 Nxd4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2278,7 +2278,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd4 2.Qxd4 Nf3+ 3.K moves Nxd4 *
+1...Qxd4 2.Qxd4 Nf3+ 3.Kh1 Nxd4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2306,7 +2306,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.Kdl 2...e2+ 3.Kxe2 Nd4+, fol- lowed by 4...Nxf5 *
+1...Nf3+ 2.Kd1 e2+ 3.Kxe2 Nd4+ *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2320,7 +2320,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxg3+ 2.fxg3 Ne3+ 3.K moves Nxc4 *
+1...Rxg3+ 2.fxg3 Ne3+ 3.Kf1 Nxc4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2334,7 +2334,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxe3 2.fxe3 N02, winning the Exchange, as he threatens ...Nxe3 *
+1...Bxe3 2.fxe3 Nc2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2362,7 +2362,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...d4. White is lost, for ifthe at- tacked knight moves, 2...Nb3 *
+1...d4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2376,7 +2376,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxb1 2.Rxb1 Bxe2 3.Kxe2 Nxc3+. Black wins a pawn and the Ex- change. Another way is 1...Rxe2+ 2.Rxe2 Bxe2 *
+1...Rxb1 2.Rxb1 Bxe2 3.Kxe2 Nxc3+ *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2390,7 +2390,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxh2+ 2.Kxh2 Nxf3+ 3.K moves Nxd2 *
+1...Rxh2+ 2.Kxh2 Nxf3+ 3.Kg2 Nxd2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2432,7 +2432,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...ng3+ 2.Kxg3 Ne4+ 3.K moves Nxd2 *
+1...Qxg3+ 2.Kxg3 Ne4+ 3.Kf2 Nxd2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2446,7 +2446,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bh3 2.Kh1 Bxg2+ 3.Kxg2 Qf3+ 4.Kg1 4...Qg4+ 5.Kh1Nf3 6.Qd1 Qh3 *
+1...Bh3 2.Kh1 Bxg2+ 3.Kxg2 Qf3+ 4.Kg1 Qg4+ 5.Kh1 Nf3 6.Qd1 Qh3 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2460,7 +2460,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxe2+ 2.Kxe2 Nxd4+ 3.K moves Nxf5 *
+1...Qxe2+ 2.Kxe2 Nxd4+ 3.Ke1 Nxf5 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2474,7 +2474,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxc1 2.h3 Nf3+l 3.Kf2 *
+1...Rxc1 2.h3 Nf3+ 3.Kf2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2488,7 +2488,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxf3 2.gxf3 Ne2+ 3.K moves Nxd4 *
+1...Qxf3 2.gxf3 Ne2+ 3.Kh1 Nxd4 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2502,7 +2502,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1..,Nf2 *
+1...Nf2 *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2586,7 +2586,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8+ Rxe8 2.dxe8/Q+ Kxe8 3.Re3+  *
+1.Re8+ Rxe8 2.dxe8+ Kxe8 3.Re3+  *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2614,7 +2614,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc3+ K moves 2.Qe1 *
+1.Qc3+ Kh6 2.Qe1 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2810,7 +2810,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Na7 Rxa7 2.de8/Q+ Bxd8 3.Qxd8+ Kg7 4.Bxf5 gfo 5.Qd4 *
+1.Na7 Rxa7 2.e8 Bxd8 3.Qxd8+ Kg7 4.Bxf5 gxf5 5.Qd4+ *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2950,7 +2950,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe4 Rxe4 2.QC6 *
+1.Rxe4 Rxe4 2.Qc6 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -2964,7 +2964,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.h3 Nh6 2.Qe4 wins the rock; Black must guard against Qxh7 *
+1.h3 Nh6 2.Qe4 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3006,7 +3006,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.NgS hng 2.ng5+  *
+1.Ng5 hxg5 2.Qxg5+  *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3020,7 +3020,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nde cde 2.Rxd6 Qxd6 3.Qe8. 3...Rf8 4.Nxf8+ Qxf8  5.Qxf8 *
+1.Nxd5 cxd5 2.Rxd6 Qxd6 3.Qe8 Rf8 4.Nxf8+ Qxf8  5.Qxf8 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3034,7 +3034,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.NxeS Nxe5 2.Qh5+ Ng6 3.Qd5 *
+1.Nxe5 Nxe5 2.Qh5+ Ng6 3.Qd5 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3076,7 +3076,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nfo wins a piece for White as the recaptures don’t work: 1...Rxf5 2.Bxf5 or 1...Bxf5 2.Qd5 *
+1.Nxf5 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3202,7 +3202,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe7+ Kfo 2.g4 *
+1.Qe7+ Kxf5 2.g4 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3216,7 +3216,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe5 fxeS+ 2.Kxe5 *
+1.Rxe5 fxe5+ 2.Kxe5 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3300,7 +3300,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7 Kxg72.Bf6+ Qxf6 3.Nh5 *
+1.Rxg7 Kxg7 2.Bf6+ Qxf6 3.Nh5 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3356,7 +3356,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.g5 hxg5. 2.Rxd6  Rxd6 3.Rxd6 Qxd6 4.Qc8 *
+1.g5 hxg5 2.Rxd6 Rxd6 3.Rxd6 Qxd6 4.Qc8 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3398,7 +3398,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf7 Kxf72.Rxd8 Qxd8 3.Qb7 *
+1.Bf7 Kxf7 2.Rxd8 Qxd8 3.Qb7 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3468,7 +3468,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nh4 Bxh4 2.d6.  2...cxd6 3.Bxb7 Nc6 4.Bxa8 Rxa8 5.gxh4 *
+1.Nh4 Bxh4 2.d6 cxd6 3.Bxb7 Nc6 4.Bxa8 Rxa8 5.gxh4 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3482,7 +3482,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxd6 Rxd6 2.Qe5. The threat of 3.ng7 *
+1.Rxd6 Rxd6 2.Qe5 *
 
 [Event "White to move & win"]
 [Site "Double Attack"]
@@ -3524,7 +3524,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe6 fxe6 2.Bxf6 gxf6 3.Rxd6 Rxd6 4.Qg3+. This is the whole point. White continues 5.Qxd6 *
+1.Nxe6 fxe6 2.Bxf6 gxf6 3.Rxd6 Rxd6 4.Qg3+ *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3664,7 +3664,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...foe4 2.Nxe4 Qh4+  *
+1...Nfxe4 2.Nxe4 Qh4+  *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3678,7 +3678,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd5+ 2.Qxd5 Bg6+ 3.Qe4.  3...Bxe4 *
+1...Rxd5+ 2.Qxd5 Bg6+ 3.Qe4 Bxe4 *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3706,7 +3706,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxf2l 2.Kxf2 Nxh5 3.Bxh5 Qh4+. Black continues 4...Qxh5 *
+1...Nxf2 2.Kxf2 Nxh5 3.Bxh5 Qh4+ *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3720,7 +3720,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4 2.Rxd4 Qa3+ 3.Kb1 Qxa2+ 4.Kc1 Qa1+, followed by 5...Qxd4+,  *
+1...Rxd4 2.Rxd4 Qa3+ 3.Kb1 Qxa2+ 4.Kc1 Qa1+ *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3734,7 +3734,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxe4 2.fxe4 Rxh3 3.gxh3 Qxe4+ 4.Kgl. Now 4...Qe3+ 5.Kf1 5...Qf3+, and Black mates on e2 *
+1...Bxe4 2.fxe4 Rxh3 3.gxh3 Qxe4+ 4.Kg1 Qe3+ 5.Kf1 Qf3+ *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3762,7 +3762,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...c6 2.Bc4 Qa5+. Black wins the knight. If 2.Nc4 , 2...Ng6 3.Ba4 b5 *
+1...c6 2.Bc4 Qa5+ *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
@@ -3776,7 +3776,7 @@ After l.fxg8/Q Rxf6+, Black can still ﬁght on. So: l.fxg8/N Rxf6+ 2.Nxf6+ K mo
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qc7+ 2.g3 Qe7. Black wins the rook because of the simultaneous threat of ...Qe2 *
+1...Qc7+ 2.g3 Qe7 *
 
 [Event "Black to move & win"]
 [Site "Double Attack"]
