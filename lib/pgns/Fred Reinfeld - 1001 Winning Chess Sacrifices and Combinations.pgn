@@ -12680,7 +12680,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nd7 2.Bxd4 exd4 3. Any Nb6 *
+1...Nd7 2.Bxd4 exd4 3. Ba4 Nb6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12694,7 +12694,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxh7+ Kxh7 2.Qh5+ Kg8 3.Bxg7 Kxg7 4.Qg5+ Kh8 5.Rd4 Re— signs. Black has no good defense to the threat of Rh4 *
+1.Bxh7+ Kxh7 2.Qh5+ Kg8 3.Bxg7 Kxg7 4.Qg5+ Kh8 5.Rd4 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12708,7 +12708,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5 Qde 2.Qh6 Bf6  3.Rxe8 Rxe8 4.Bxf6 *
+1.Nxd5 Qxd5 2.Qh6 Bf6 3.Rxe8 Rxe8 4.Bxf6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12778,7 +12778,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf6 gxh42.Rxg7+ Kf8 3.Rh7 *
+1.Bxf6 gxh4 2.Rxg7+ Kf8 3.Rh7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12792,7 +12792,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7+ Kxh7 2.Rxf7+ Rxf7 3.ng6+ Kh8 4.Qxf7 *
+1.Rxh7+ Kxh7 2.Rxf7+ Rxf7 3.Qxg6+ Kh8 4.Qxf7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12918,7 +12918,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh7+ Kf82.Qa8+ Nc8 3.Qxc8 *
+1.Rh7+ Kf8 2.Qa8+ Nc8 3.Qxc8 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12932,7 +12932,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxf7 Rxf7 2.ng6+ Kf8 3.Bxh6+ Bg7 4.Qh7 4...Ne7 5.Qh8+ Ng8 6.Bh7 *
+1.Nxf7 Rxf7 2.Qxg6+ Kf8 3.Bxh6+ Bg7 4.Qh7 Ne7 5.Qh8+ Ng8 6.Bh7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -12988,7 +12988,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7 Kxh7 2.Rh1+ Kg6 3.Qg4 Bd7 4.f5+ Bfo 5.Qh5 *
+1.Rxh7 Kxh7 2.Rh1+ Kg6 3.Qg4 Bd7 4.f5+ Bxf5 5.Qh5 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13044,7 +13044,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg6+ fxg6 2.Rf7+ Kxf7 3.Qxh7+ Ke6 4.ng6+ Ke5 5.Qg7+ Kxe4 6.Nf6 *
+1.Rxg6+ fxg6 2.Rf7+ Kxf7 3.Qxh7+ Ke6 4.Qxg6+ Ke5 5.Qg7+ Kxe4 6.Nf6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13058,7 +13058,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf5+ gxf5  2.Rxh7+ Kxh7 3.Qh5+ Nh6 4.Qxh6+ Kg8 5.Qg6+ Kh8 6.Be3, followed by 7.Rh1 *
+1.Nf5+ gxf5  2.Rxh7+ Kxh7 3.Qh5+ Nh6 4.Qxh6+ Kg8 5.Qg6+ Kh8 6.Be3 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13100,7 +13100,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bf6 h6 2.Qg6, followed by 2.ng7 *
+1.Bf6 h6 2.Qg6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13114,7 +13114,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.th8+ ths 2.e7 *
+1.Qxf8+ Kxf8 2.e7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13128,7 +13128,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7+ Kxh7 2.Qh5+ Kg8 3.Bh6 3...Ne7 4.e6 Nxf5 5.Rg3+ *
+1.Rxh7+ Kxh7 2.Qh5+ Kg8 3.Bh6 Ne7 4.e6 Nxf5 5.Rg3+ *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13142,7 +13142,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.h6+ Kg8 2.Qf6 and 3.Qg7 *
+1.h6+ Kg8 2.Qf6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13156,7 +13156,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bc8 Rxc8 2.Ra8+ Kxa8 3.Qxc8+ Rb8 4.Qc6+ Rb7 5.Qa4+  Kb8 6.Qe8+. White mates next move *
+1.Bc8 Rxc8 2.Ra8+ Kxa8 3.Qxc8+ Rb8 4.Qc6+ Rb7 5.Qa4+ Kb8 6.Qe8+ *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13184,7 +13184,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7 Kxh7  2.ng6+ Kg8 3.Rh1 *
+1.Rxh7 Kxh7 2.Qxg6+ Kg8 3.Rh1 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13226,7 +13226,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6 fxg6 2.ng6 e6 3.Be4 Rf5 4.Rxf5  exf5 5.Bd5 *
+1.Nxg6 fxg6 2.Qxg6 e6 3.Be4 Rf5 4.Rxf5  exf5 5.Bd5 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13282,7 +13282,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7 Kxh7 2.Qf7+ Kh6 3.Bg7+ Kg5 4.f4+ Kh5 5.g3 Nh6 6.Ne5+ Nxf7 7.B62+ Bg4 8.Bxg4 *
+1.Rxh7 Kxh7 2.Qf7+ Kh6 3.Bg7+ Kg5 4.f4+ Kh5 5.g3 Nh6 6.Ne5+ Nxf7 7.Be2+ Bg4 8.Bxg4 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13296,7 +13296,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1’.Rxg7 Kxg7 2.Be5+ Kh6 3.Nf7+ Kh5 4.Be2+ Kh4 5.Bg3+ Kh3 6.Ng5 *
+1.Rxg7 Kxg7 2.Be5+ Kh6 3.Nf7+ Kh5 4.Be2+ Kh4 5.Bg3+ Kh3 6.Ng5 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13310,7 +13310,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6 Kxg6 2.Bh5+ Kxh5 3.Ng3+ Kh4 4.Qe4 *
+1.Nxg6 Kxg6 2.Bh5+ Kxh5 3.Ng3+ Kh4 4.Qe4 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13338,7 +13338,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7 Kxh7 2.Rh1+ Kg8 3.Rh8+ Kf7 4.Qf6+ Ke8 5.Qxf8+ Kd7 6.Qxd6 mate. Another way is 3.Qh8 *
+1.Rxh7 Kxh7 2.Rh1+ Kg8 3.Rh8+ Kf7 4.Qf6+ Ke8 5.Qxf8+ Kd7 6.Qxd6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13394,7 +13394,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg4. 1...g6 2.Qd4 *
+1.Qg4 g6 2.Qd4 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13408,7 +13408,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxh7+ Kxh7 2.Ng5+ Kg8 3.Qh5 Bxg5 4.hxg5 Kf8 5.Qh8+ Ke7 6.Ng6+  fxg6 7.ng7 *
+1.Bxh7+ Kxh7 2.Ng5+ Kg8 3.Qh5 Bxg5 4.hxg5 Kf8 5.Qh8+ Ke7 6.Ng6+  fxg6 7.Qxg7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13506,7 +13506,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxg6 fxg6 2.ng6 Nd7 3.Ng5 Qf6 4.Rh8+ Kxh8 5.Qh7 *
+1.Bxg6 fxg6 2.Qxg6 Nd7 3.Ng5 Qf6 4.Rh8+ Kxh8 5.Qh7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13520,7 +13520,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh5 h6 2.ng6 hng 3.Bxg5 Qe8 4.Bf6, followed by ng7 *
+1.Qh5 h6 2.Qxg6 hxg5 3.Bxg5 Qe8 4.Bf6 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13534,7 +13534,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7 Qxd7 2.Qxh5. 2...gxh5 3.Bh7 *
+1.Rd7 Qxd7 2.Qxh5 gxh5 3.Bh7 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13548,7 +13548,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng7 Kxg7 2.Qe5+ 2...Kg8 3.Nh5 *
+1.Nxg7 Kxg7 2.Qe5+ Kg8 3.Nh5 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13562,7 +13562,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6+ Kxg6 2.Bf5+ KgS 3.h4 *
+1.Qxg6+ Kxg6 2.Bf5+ Kg5 3.h4 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13604,7 +13604,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+ Kxg7 2.Nh5+ Kf8  3.Nxf6 Nxf6 4.Qxf6 Ke8 5.Bb5+ Re— signs. If 5...Kd8, 6.Qh8+ Kc7 7.Bf4+ wins. Or 5...Rd7 6.Qh8+ Ke7 7.Bg5+ Kd6 8.Bf4 *
+1.Rxg7+ Kxg7 2.Nh5+ Kf8  3.Nxf6 Nxf6 4.Qxf6 Ke8 5.Bb5+ *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13674,7 +13674,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng5 Bxf4 2003+ R8f6 3-Ne4+  Bxg3 4.Rxg3+ Kh8 5.Qxf6+ Rxf6 6.Rg8+ Kxg8 7.Nxf6+ Kf8 8.Nxh5 *
+1.Nxg5 Bxf4 2.Qc3+ R8f6 3.Ne4+ Bxg3 4.Rxg3+ Kh8 5.Qxf6+ Rxf6 6.Rg8+ Kxg8 7.Nxf6+ Kf8 8.Nxh5 *
 
 [Event "White to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13758,7 +13758,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ne2+ 2.Rxe2 Rf1+ 3.Kxf1 th+ 4.Kf2 Ng4 *
+1...Ne2+ 2.Rxe2 Rf1+ 3.Kxf1 Qh1+ 4.Kf2 Ng4 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13800,7 +13800,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxh2+ 2.Kxh2 Rh6+ 3.Kg3 Ne2+ 4.Kg4 Rf4+ 5.Kg5 Rffé 6.Kg4 ng6+ 7.Kf3 *
+1...Qxh2+ 2.Kxh2 Rh6+ 3.Kg3 Ne2+ 4.Kg4 Rf4+ 5.Kg5 Rff6 6.Kg4 Rfg6+ 7.Kf3 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13814,7 +13814,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxb2+ 2.Kxb2 Qxa3+ 3.Kb1 b3 4.c3 b2 5.K02 bl/Q+ 6.Rxb1 Qa2 *
+1...Bxb2+ 2.Kxb2 Qxa3+ 3.Kb1 b3 4.c3 b2 5.Kc2 b1=Q+ 6.Rxb1 Qa2 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13856,7 +13856,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxf4+ 2.Qxf4 Rg3 3.Qxf5 Rg2+ and next move. The same goes for 3...Rxh3 *
+1...Bxf4+ 2.Qxf4 Rg3 3.Qxf5 Rg2+ *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13870,7 +13870,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qf3+ 2.Bg3 g5 3.fxg6 e.p.  Kg5  4.Rd2 h5 5.gxh5 Qf1+ 6.Rg2 Qf5 mate.  Editor: 4.Rf7 *
+1...Qf3+ 2.Bg3 g5 3.fxg6 Kg5  4.Rd2 h5 5.gxh5 Qf1+ 6.Rg2 Qf5 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13884,7 +13884,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rh5 2.h3 Ng4 3.fxg4 Rxh3+ 4.Kg1 Qh2+ 5.Kf1 Qh1+, followed by 6...ng2 *
+1...Rh5 2.h3 Ng4 3.fxg4 Rxh3+ 4.Kg1 Qh2+ 5.Kf1 Qh1+ *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13926,7 +13926,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxb2+ 2.Kxb2 Qa3+ 3.Kbl Rb8+ 4.Nb3 Rxb3+ 5.cxb3 Bf5 *
+1...Rxb2+ 2.Kxb2 Qa3+ 3.Kb1 Rb8+ 4.Nb3 Rxb3+ 5.cxb3 Bf5 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13940,7 +13940,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.gxf3 Bxf3+ 3.Bg3 ng3+ 4.hxg3 Rxg3+ 5.Kh2 5...Bxf2 6.Bh3 Rxh3+ 7.Kxh3 Rh8 *
+1...Nf3+ 2.gxf3 Bxf3+ 3.Bg3 Qxg3+ 4.hxg3 Rxg3+ 5.Kh2 Bxf2 6.Bh3 Rxh3+ 7.Kxh3 Rh8 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -14010,7 +14010,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qf1+ 2.Bg1 Qf3+ 3.Bxf3 Bxf3 mate. This very beautiful combi- nation, played in a blindfold exhibition of 22 *
+1...Qf1+ 2.Bg1 Qf3+ 3.Bxf3 Bxf3 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -14024,4 +14024,4 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nxh3 2.gxh3 Bxh3+ 3.Kf2 Ng4+ 4.Bxg4 Bxg4 Resigns. After White saves his queen, the black queen enters with deadly effect: 5.Qd2 Qh4+ 6.Kf1 Qh1+ 7.Kf2 Qh2+ 8.Kf1 Bh3+ 9.Rxh3 Rgl mate. Editor: After 50 plus years the Law of Inﬂation allows us to add another position. ()
+1...Nxh3 2.gxh3 Bxh3+ 3.Kf2 Ng4+ 4.Bxg4 Bxg4 *
