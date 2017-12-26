@@ -8074,7 +8074,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ne2+ 2.Kh1 ng4 3.hxg4 Rh5+ 4.gxh5 Rh4 *
+1...Ne2+ 2.Kh1 Qxg4 3.hxg4 Rh5+ 4.gxh5 Rh4 *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8088,7 +8088,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Kg7 2.e6 Rh8+ 3.Kgl Qe8 4.g4 Rhl+ 5.Kxhl Qh8+ 6.Kg1 Qh3 *
+1...Kg7 2.e6 Rh8+ 3.Kg1 Qe8 4.g4 Rh1+ 5.Kxh1 Qh8+ 6.Kg1 Qh3 *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8102,7 +8102,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxh7 2.Rxh7 Nd3+. After 3 *
+1...Qxh7 2.Rxh7 Nd3+ *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8116,7 +8116,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qb8 2.dxc4 Ba3 3.cxd5+ Kd7 4.Qxa3 Rh8+ 5.Kgl Rhl+  6.Kxhl Rh8+ 7.Kgl Rhl+ 81(th Qh8+ 9.Kg1 Qh2+ 10.Kxf1 *
+1...Qb8 2.dxc4 Ba3 3.cxd5+ Kd7 4.Qxa3 Rh8+ 5.Kg1 Rh1+  6.Kxh1 Rh8+ 7.Kg1 Rh1+ 8. Kxh1 Qh8+ 9.Kg1 Qh2+ 10.Kxf1 *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8130,7 +8130,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.....e3 2.fxe3 dxe3 3.Nxe3 Nd3+ 4.exd3 ng3+ 5.K62 Nd4 *
+1.....e3 2.fxe3 dxe3 3.Nxe3 Nd3+ 4.exd3 Qxg3+ 5.Ke2 Nd4 *
 
 [Event "Black to move & win"]
 [Site "Clearance"]
@@ -8144,7 +8144,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bb5 2.axb5 Nhg3+ 3.ng3 ng3+ 4.hxg3 hxg3+ 5.Kg1 Rh1+  6.Kxh1 Rh8+ 7.Kg1 Bc5+ 8.Nxc5 Rh1+ 9.Kxh1 Qh8+ 10.Kg1 Qh2 *
+1...Bb5 2.axb5 Nhg3+ 3.Nxg3 Nxg3+ 4.hxg3 hxg3+ 5.Kg1 Rh1+  6.Kxh1 Rh8+ 7.Kg1 Bc5+ 8.Nxc5 Rh1+ 9.Kxh1 Qh8+ 10.Kg1 Qh2 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8228,7 +8228,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd7 Bxd7 2.Bkh7+ Nxh7 3.Qxf7+ Kh8 4.Ng6 *
+1.Rd7 Bxd7 2.Bxh7+ Nxh7 3.Qxf7+ Kh8 4.Ng6 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8256,7 +8256,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e7 Nxe7 2.Bxe7 Rxe7 3.ng5+ Kf8 4.Rxf4 *
+1.e7 Nxe7 2.Bxe7 Rxe7 3.Qxg5+ Kf8 4.Rxf4 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8284,7 +8284,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rg3+ Kf'7 2.Qxf4 *
+1.Rg3+ Kf7 2.Qxf4 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8354,7 +8354,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf8 Rxf8 2.Rg8+ Rxg8 3.Qxf6+ Rg7 4.ng7 *
+1.Nf8 Rxf8 2.Rg8+ Rxg8 3.Qxf6+ Rg7 4.Qxg7 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8368,7 +8368,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6+ fxg6 2.f'7+ Qxf'7 3.Rh8 *
+1.Qxg6+ fxg6 2.f7+ Qxf7 3.Rh8 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8424,7 +8424,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nf5 .  1...Bxf5 2.Qf6+ Kg8 3.ng5+ Bg6 4.Qf6 *
+1.Nf5 Bxf5 2.Qf6+ Kg8 3.Qxg5+ Bg6 4.Qf6 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8466,7 +8466,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rd6 Bxd6 2.ng6+ Kh8 3.Qxe8+ RfB 4.Bxe5 *
+1.Rd6 Bxd6 2.Qxg6+ Kh8 3.Qxe8+ Rf8 4.Bxe5 *
 
 [Event "White to move & win"]
 [Site "Interference"]
@@ -8480,7 +8480,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f6, apparently winning, Black has the resource l...Qc5+. 1.Kh1 elimi- nates the check while threatening 2.f6 0r 2.Bxa4. But here Black defends him— selfby 1...f6 2.Qh5 Bxel 3.Rxe1 Rg8, even though White gets the knight with Bxa4. So White blocks off this defense by: l.Re5 f6 2.Qxf6+ Kg8 3.Qg5+ Kh8 4.Re7 Qc5+ 5.Kh1 Rg8 6.f6  Rng  7.Rxh7+ Kg8 8.f7 *
+1.Re5 f6 2.Qxf6+ Kg8 3.Qg5+ Kh8 4.Re7 Qc5+ 5.Kh1 Rg8 6.f6  Rxg5 7.Rxh7+ Kg8 8.f7 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8522,7 +8522,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5  2.fxg6 e.p. Bxe4 *
+1...g5  2.fxg6 Bxe4 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8550,7 +8550,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Re3 2.fxe3 Qe2 3.Qxb7  3...Qxd1+ 4.Kf2 *
+1...Re3 2.fxe3 Qe2 3.Qxb7 Qxd1+ 4.Kf2 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8564,7 +8564,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd3+ 2.Qxd3. 2...ng1 *
+1...Bd3+ 2.Qxd3 Qxg1 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8578,7 +8578,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ne2+ 2.Bxe2. 2...Qxe3+, followed by 3...fxg4 *
+1...Ne2+ 2.Bxe2 Qxe3+ *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8606,7 +8606,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rd3 2.Qxd3 2...Nxd3 3.Bxd3 Qd6+, followed by 4...Qxd3 *
+1...Rd3 2.Qxd3 Nxd3 3.Bxd3 Qd6+ *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8620,7 +8620,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...f2+ 2.Qxf2 Rxh2  3.Qxh2 Bxg3 4.Qe2 4...Bf4+ 5.Kf1 Bxe3 6.Qh2 6...Bxd4 *
+1...f2+ 2.Qxf2 Rxh2  3.Qxh2 Bxg3 4.Qe2 Bf4+ 5.Kf1 Bxe3 6.Qh2 Bxd4 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8648,7 +8648,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rg3 2.ng3 EM  *
+1...Rg3 2.Qxg3 Bh4 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8662,7 +8662,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rc3 2.bxc3 Bxe3+, followed by ...Bxb6 *
+1...Rc3 2.bxc3 Bxe3+ *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8690,7 +8690,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Kf8, when he wins with 2.Rf4+, for if 2...exf4, 3.Qg7 mate. But Black has a beautiful blocking move: l...Qf7 2.Bxf7+ Kf8 *
+1...Qf7 2.Bxf7+ Kf8 *
 
 [Event "Black to move & win"]
 [Site "Interference"]
@@ -8732,7 +8732,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rc2 2.Qa5 Bc3 3.Rxe4 Qxe4 4.Qd8+ Kg7 5.Rg1 Bd4 6.Bd6 ng2+2 7.Rxg2 R0] + 8 *
+1...Rc2 2.Qa5 Bc3 3.Rxe4 Qxe4 4.Qd8+ Kg7 5.Rg1 Bd4 6.Bd6 Qxg2+ 7.Rxg2 Rc1+ 8. Rg1 Rxg1 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8746,7 +8746,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bc4+  1...Kh8  2.Bb5 *
+1.Bc4+ Kh8  2.Bb5 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8760,7 +8760,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxh6+ gxh6 2.g7+ Kh7 3.gxf8/ N+ Kh8 4.Rg8 *
+1.Qxh6+ gxh6 2.g7+ Kh7 3.gxf8+ Kh8 4.Rg8 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8788,7 +8788,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f4 Re3 2.f5 R65 3.Rd8 Ba5 4.f6 Bxd8 5.f7 *
+1.f4 Re3 2.f5 Re5 3.Rd8 Ba5 4.f6 Bxd8 5.f7 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8802,7 +8802,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc6 be- cause ofl...Rb1+2.Rxb1Qxb1+ 3.Kf2 Qc2+ 4.Kg3 Qg6+ with perpetual check. 1.Qxb6 axb6 2.Nxc6 *
+1.Qxb6 axb6 2.Nxc6 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8830,7 +8830,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e8/Q+ Kxe8 2.Ba4 *
+1.e8+ Kxe8 2.Ba4 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8844,7 +8844,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.f5+ gxf5 2.gxf5+ Kd6  3.Rxb4 Rxb4 4.BcS+ *
+1.f5+ gxf5 2.gxf5+ Kd6  3.Rxb4 Rxb4 4.Bc5+ *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -8886,7 +8886,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb5+ Qxb5 2.e8/Q+ Kf7 3.Qxe6+ Kxe6 4.Nc7+  *
+1.Qb5+ Qxb5 2.e8+ Kf7 3.Qxe6+ Kxe6 4.Nc7+  *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -9012,7 +9012,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc8 Rxc8 2.Re8+ Nxe8 3.d7  Nd6 4.dxc8/Q Nxc8 5.axb7 *
+1.Rc8 Rxc8 2.Re8+ Nxe8 3.d7  Nd6 4.dxc8 Nxc8 5.axb7 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -9054,7 +9054,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.h8/Q+ Rxh8 2.Nf5+ Kg8 3.Rxh8+ Kxh8 4.Qh6+ Kg8 5.Qg7 *
+1.h8+ Rxh8 2.Nf5+ Kg8 3.Rxh8+ Kxh8 4.Qh6+ Kg8 5.Qg7 *
 
 [Event "White to move & win"]
 [Site "Queening Combinations"]
@@ -9068,7 +9068,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxd7 de7 2.NCS+ Ke8 3.Ne6  Rdl+ 4.Kh2 Ra1 5.a8/Q+ Rxa8 6.Nc7 *
+1.Rxd7 Kxd7 2.Nc5+ Ke8 3.Ne6  Rd1+ 4.Kh2 Ra1 5.a8+ Rxa8 6.Nc7 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9082,7 +9082,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...e4+ 2.Bxe4 Nxe4 3.Kxe4 (:2 *
+1...e4+ 2.Bxe4 Nxe4 3.Kxe4 c2 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9138,7 +9138,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...R_xh7 2.Rb1 K03 *
+1...Rxh7 2.Rb1 Kc3 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9180,7 +9180,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...cxb3 2.Rch Qch 3.Rc1 Q02 *
+1...cxb3 2.Rxc5 Qxc5 3.Rc1 Qc2 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9194,7 +9194,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxf6?, then 2.Rb8+ leads to mate. But Black underpromotes to win: 1...f1/N+ 2.Kgl Ng3+ 3.Rxel+ Rxe1+ 4.Kh2 Nf1+ 5.Khl N63+ 6.Rgl Rxgl+ 7.Kxg1 Nxc4 *
+1...f1+ 2.Kg1 Ng3+ 3.Rxe1+ Rxe1+ 4.Kh2 Nf1+ 5.Kh1 Ne3+ 6.Rg1 Rxg1+ 7.Kxg1 Nxc4 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9208,7 +9208,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ra3+ 2.Kc2 Rxf3 1ng h3 *
+1...Ra3+ 2.Kc2 Rxf3 3. gxf3 h3 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9222,7 +9222,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ng3+ 2.hxg3 hxg3+ 3.Kg1 NfZ 4.Rxf2 Rhl+l 5.Kxh1 gxf2 *
+1...Ng3+ 2.hxg3 hxg3+ 3.Kg1 Nf2 4.Rxf2 Rh1+ 5.Kxh1 gxf2 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9264,7 +9264,7 @@
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalantly advances to queen. l...b2  2.Qc3 Bb4 3.Qxb4 Nxb4 *
+1...b2  2.Qc3 Bb4 3.Qxb4 Nxb4 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9306,7 +9306,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1,..Bxa2 2.Nxa2 b3 3.Nc3 3...b2 followed by 4...a2 *
+1...Bxa2 2.Nxa2 b3 3.Nc3 b2 *
 
 [Event "Black to move & win"]
 [Site "Queening Combinations"]
@@ -9320,7 +9320,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxg1+ 2.Kxg1 e2 3.Rfl exfl/ Q+ 4.Kxf1 *
+1...Rxg1+ 2.Kxg1 e2 3.Rf1 exf1+ 4.Kxf1 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9390,7 +9390,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxf8+ Kxf8 2Re8 *
+1.Qxf8+ Kxf8 2. Re8 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9418,7 +9418,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qc4+ Kh8 2.ng4 *
+1.Qc4+ Kh8 2.Qxg4 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9432,7 +9432,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb3+ 1...Kh8 2.Qf7 *
+1.Qb3+ Kh8 2.Qf7 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9516,7 +9516,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxd6 cxd6 2.Nf7+ Kg8 3.ng5 *
+1.Qxd6 cxd6 2.Nf7+ Kg8 3.Nxg5 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9530,7 +9530,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg7+ ng7 2.Qf7+ Kh8 3.Qf8+ Rxf8 4.Rxf8 *
+1.Rxg7+ Nxg7 2.Qf7+ Kh8 3.Qf8+ Rxf8 4.Rxf8 *
 
 [Event "White to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9614,7 +9614,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bh6 2.Rel Bxe3+ 3.Qxe3 Rf1+l 4.Rxf1 Qxe3 *
+1...Bh6 2.Re1 Bxe3+ 3.Qxe3 Rf1+ 4.Rxf1 Qxe3 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9628,7 +9628,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxc2 2.Rxc2 Rxc2  3 *
+1...Rxc2 2.Rxc2 Rxc2  3. Qd1 Qxa2 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9642,7 +9642,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rcl 2.Rxcl le+ 3 *
+1...Rc1 2.Rxc1 Qd1+ 3. Rxd1 Rxd1 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9656,7 +9656,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd1+ 2.Nxdl Nf3+ 3.Qxf3 Re1+ 4.Bf1 *
+1...Qxd1+ 2.Nxd1 Nf3+ 3.Qxf3 Re1+ 4.Bf1 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9670,7 +9670,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bf5 2.Nxf5 Qfo 3.Qxf5 Nxd2+ 4.Ka1 Rc1+ 5.Qb1 *
+1...Bf5 2.Nxf5 Qxf5 3.Qxf5 Nxd2+ 4.Ka1 Rc1+ 5.Qb1 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9698,7 +9698,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rc5 2.Rxc5  2...Qxb7 *
+1...Rc5 2.Rxc5 Qxb7 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9754,7 +9754,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qd6, attacking rook and knight. 2.Rxd6 Re1+ 3.Kh2 *
+1...Qd6 2.Rxd6 Re1+ 3.Kh2 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9768,7 +9768,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxf6?  2.Nxf6+ K moves 3.Nxd5, winning the king and pawn ending. 1...Qxe4 *
+1...Qxe4 *
 
 [Event "Black to move & win"]
 [Site "The Vulnerable First Rank"]
@@ -9852,7 +9852,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng7+ Bxg7 2.Rf7+ Kd6 3.Nb5+ Kd5 4.c4+ Ke4 5.Re1 *
+1.Qxg7+ Bxg7 2.Rf7+ Kd6 3.Nb5+ Kd5 4.c4+ Ke4 5.Re1 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9950,7 +9950,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxb7+ Kxb7 2.be1+ Kc8 3.Bxc6 Qa3 4.Rb8+l Kxb8 5.Rxa3, fol- lowed by Ra8 mate. Editor: After 2...Qb4 3.Rxb4+ Kc8 Black avoids and White has to settle for the win of the Exchange, 4.Bxc6 Kd8 5.Rb8+ Ke7 6.Rxh8 Rxd2, etc. So the simplest win comes from the prosaic 1.Bxc6 bxc6 2.Qxc6, for example, 2...Kd8 3.Ra8+ Bc8 4.Rxc8+ Kxc8 5.Ra1 Qb4 6.Ra8+ Qb8 7.Qe6 *
+1.Qxb7+ Kxb7 2.Rfb1+ Kc8 3.Bxc6 Qa3 4.Rb8+ Kxb8 5.Rxa3 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9964,7 +9964,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh7+ Kf8 2.Qh8+ Ke7 3.ng7 *
+1.Qh7+ Kf8 2.Qh8+ Ke7 3.Qxg7 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -9992,7 +9992,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rg5 Ng6  2.Qxe8+ Rxe8 3.Rxe8+ Bf8 4.h5 h6 5.Rd5. There’s nothing Black can do about the coming Rdd8. If 5...Qa4, 6.Rdd8 ng4 7.hxg6 *
+1.Rg5 Ng6  2.Qxe8+ Rxe8 3.Rxe8+ Bf8 4.h5 h6 5.Rd5 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10020,7 +10020,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nc7+ Qxc7 2.Bx17+ Kd7  3.Qf5+ Nxf5 4.e6 *
+1.Nc7+ Qxc7 2.Bxf7+ Kd7  3.Qf5+ Nxf5 4.e6 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10090,7 +10090,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng6 hxg6 2.Rf3, followed by 3.Rh3 *
+1.Qxg6 hxg6 2.Rf3 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10104,7 +10104,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bg7+ K17 2.Qe6+ Nxe6 3.dxe6 *
+1.Bg7+ Kf7 2.Qe6+ Nxe6 3.dxe6 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10146,7 +10146,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxf8+ QxfB 2.Rxh7 *
+1.Qxf8+ Qxf8 2.Rxh7 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10230,7 +10230,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg5+ hxg5 2.Bxg5 mate.  White has a less showy with 1.Bg5 *
+1.Qg5+ hxg5 2.Bxg5 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10244,7 +10244,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxc5 dch  2.Rxc7+ Kb8 3.Rxg7+ Kc8 4.Rxg6  *
+1.Qxc5 dxc5 2.Rxc7+ Kb8 3.Rxg7+ Kc8 4.Rxg6  *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10258,7 +10258,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg5 g6 2.Qh6 gxf5 3.Rg4+ fxg4 4.Bxh7+ Kh8 5.Bg6+ Kg8 6.Qh7+ KfB 7.Qxf7 *
+1.Qg5 g6 2.Qh6 gxf5 3.Rg4+ fxg4 4.Bxh7+ Kh8 5.Bg6+ Kg8 6.Qh7+ Kf8 7.Qxf7 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10342,7 +10342,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.ng7+ ng7 2.Rxg7+ Kh8 3.Rg8+ Kxg8 4.Rg1+ Qg5 5.Rxg5 *
+1.Qxg7+ Nxg7 2.Rxg7+ Kh8 3.Rg8+ Kxg8 4.Rg1+ Qg5 5.Rxg5 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10356,7 +10356,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg6 fxg6 2.ng6+ hxg6 3.Rh3+ Qh4 4.Rxh4 *
+1.Qg6 fxg6 2.Nxg6+ hxg6 3.Rh3+ Qh4 4.Rxh4 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10370,7 +10370,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxd7+ de7 2.Rd1+ K08 3.Rf8+ Qe8 4.Rxe8+ Bd8 5.Rxd8 *
+1.Qxd7+ Kxd7 2.Rd1+ Kc8 3.Rf8+ Qe8 4.Rxe8+ Bd8 5.Rxd8 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10398,7 +10398,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxh7+ Kxh7 2.Nxf6+ Kh6 3.Neg4+ Kg5 4.h4+ Kf4 5.g3+ Kf3 6.Be2+ Kg2 7.Rh2+ Kg] 8.Kd2 mate. Slightly faster is 6.Kf1 and 7.Nh2 *
+1.Qxh7+ Kxh7 2.Nxf6+ Kh6 3.Neg4+ Kg5 4.h4+ Kf4 5.g3+ Kf3 6.Be2+ Kg2 7.Rh2+ Kg1 8.Kd2 *
 
 [Event "White to move & win"]
 [Site "Queen Sacrifices"]
@@ -10412,7 +10412,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh8+ Kf7 2.ng7+ Kxg7 3.R1h7 *
+1.Rh8+ Kf7 2.Qxg7+ Kxg7 3.R1h7 *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10426,7 +10426,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd5 2.exd5 Bf5+ 3.Qc2 Ral+ 4.Kxa1 Bxc2. No matter what White does, there follows ...Ra8 *
+1...Qxd5 2.exd5 Bf5+ 3.Qc2 Ra1+ 4.Kxa1 Bxc2 *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10454,7 +10454,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxb3 2.Bb2 Nb4+ 3.Kcl Qxe5 and Black wins a piece because of the threat of...Nd3 *
+1...Bxb3 2.Bb2 Nb4+ 3.Kc1 Qxe5 *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10552,7 +10552,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4+ 2.Nxd4 Qxe1+  3.Qxe1 Bxd4+ 4.Kh1 N12+  *
+1...Rxd4+ 2.Nxd4 Qxe1+  3.Qxe1 Bxd4+ 4.Kh1 Nf2+  *
 
 [Event "Black to move & win"]
 [Site "Queen Sacrifices"]
@@ -10580,7 +10580,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qg3 2.ng3.  2...Ne2+ 3.Kh1 ng3+ 4.Kh1 Ne2 *
+1...Qg3 2.Qxg3 Ne2+ 3.Kh1 Nxg3+ 4.Kh1 Ne2 *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10594,7 +10594,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh8 Rxa7 2.Rh7+. White wins the rook. 1.Rg8 *
+1.Rh8 Rxa7 2.Rh7+ *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10608,7 +10608,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh8+ Kf72.Ng5+ Kg7 2.Rxa8 Qxa8 3.Qe7 *
+1.Rh8+ Kf7 2.Ng5+ Kg7 2.Rxa8 Qxa8 3.Qe7 *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10664,7 +10664,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Ra1 + Kb8 2.Ra8+ Kc7 3.Ra7 *
+1.Ra1+ Kb8 2.Ra8+ Kc7 3.Ra7 *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10706,7 +10706,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rac1 ch7  2.Rc8+ Kf7 3.Rxh8 *
+1.Rac1 Ncd7  2.Rc8+ Kf7 3.Rxh8 *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10762,7 +10762,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxh7+ Kxh7 2.Qe7+ Kg6 3.Rg8+ Kf5 4.Rxg5+ Kng 5.Qg7+ Kf5 6.Qd7 *
+1.Rxh7+ Kxh7 2.Qe7+ Kg6 3.Rg8+ Kf5 4.Rxg5+ Kxg5 5.Qg7+ Kf5 6.Qd7 *
 
 [Event "White to move & win"]
 [Site "X-Ray Attack"]
@@ -10832,7 +10832,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe8+ KgS 2.f4+ Kf6 3.Qh8 *
+1.Qe8+ Kg5 2.f4+ Kf6 3.Qh8 *
 
 [Event "Black to move & win"]
 [Site "X-Ray Attack"]
@@ -10916,7 +10916,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Q32 2.c3 Bf3 *
+1...Qa2 2.c3 Bf3 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -10930,7 +10930,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bb6 Bxb6 2.Kxb6 e1/Q 3.c7 *
+1.Bb6 Bxb6 2.Kxb6 e1 3.c7 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -10944,7 +10944,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxd5 Ne8 2.Nf6+ 2...gxf6  3.Rg1+ Kh8 4.Qxf6+ Nxf6 5.Bxf6 *
+1.Nxd5 Ne8 2.Nf6+ gxf6  3.Rg1+ Kh8 4.Qxf6+ Nxf6 5.Bxf6 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -10972,7 +10972,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe6 fxe6 2.Rxe6+ Qxe6 3.ng7 *
+1.Nxe6 fxe6 2.Rxe6+ Qxe6 3.Nxg7 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11014,7 +11014,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Kd6 d2 2.Kc7 d1/Q 3.Ra6+  bxa6 4.b6+ Ka8 5.b7+ Ka7 6.b8 *
+1.Kd6 d2 2.Kc7 d1 3.Ra6+  bxa6 4.b6+ Ka8 5.b7+ Ka7 6.b8 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11056,7 +11056,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Kf1, 1...sz mate; if1.Kg2, 1...Qf2+ 2.Kh3 Qxh2+ 3.Kxg4 Qh5 mate; if 1.Nd4 Rxd4 with a devastating discov- ered check to come. But... 1.Nb6  Qxb6+ 2.Qd4+ Rxd4 3.Rxb6 *
+1.Nb6  Qxb6+ 2.Qd4+ Rxd4 3.Rxb6 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11070,7 +11070,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxh7 Kxh7 2.Bxh6 g6 3.ng6+ fxg6 4.Bxf8 *
+1.Nxh7 Kxh7 2.Bxh6 g6 3.Qxg6+ fxg6 4.Bxf8 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11098,7 +11098,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxc6 bxc6 2.Bxg7 Kxg7 3.Qxc6 Nc7 4.Rc1 Re7 5.RcS Qb6 6.Qxb6 axb6 7.Rxc7  Rxc7 8.Bxa8. After 8...Ra7 *
+1.Nxc6 bxc6 2.Bxg7 Kxg7 3.Qxc6 Nc7 4.Rc1 Re7 5.Rc5 Qb6 6.Qxb6 axb6 7.Rxc7  Rxc7 8.Bxa8 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11140,7 +11140,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.e4 Bxe5  2.Bh6+ K68 3.dxe5 Qxe5 4.Qg8+ Kd7 5.Rd1 *
+1.e4 Bxe5  2.Bh6+ Ke8 3.dxe5 Qxe5 4.Qg8+ Kd7 5.Rd1 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11154,7 +11154,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bxf7+ Kxf7 2.Ne6 NdeS  3.Nxd8 *
+1.Bxf7+ Kxf7 2.Ne6 Nde5  3.Nxd8 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11182,7 +11182,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nb5 abe 2.Nd6+ Qxd6 3.Rxd6 *
+1.Nb5 axb5 2.Nd6+ Qxd6 3.Rxd6 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11196,7 +11196,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rc7 R338 2.Rbc3 Rxc7 3.Nxc7 Ra1 4.Ne6 *
+1.Rc7 Raa8 2.Rbc3 Rxc7 3.Nxc7 Ra1 4.Ne6 *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11266,7 +11266,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bd3 2.Bxd3 2...Qe3+ 3.Kh1 3 *
+1...Bd3 2.Bxd3 Qe3+ 3.Kh1 Qe1+*
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11280,7 +11280,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Na4 2.bxa4. 2...Rxb6 *
+1...Na4 2.bxa4 Rxb6 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11294,7 +11294,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxg3 2.Qxe8+. 2...Kh7 *
+1...Bxg3 2.Qxe8+ Kh7 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11308,7 +11308,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ba6 2.Qxa6 Qd2 3.Ne2 Qe3+ 4.Khl Q13+ 5.Bg2 Net2+ 6.Kg1 Nh3+ 7.Bxh3 Qf2+ 8.Kh1 Qxh2 *
+1...Ba6 2.Qxa6 Qd2 3.Ne2 Qe3+ 4.Kh1 Qf3+ 5.Bg2 Nef2+ 6.Kg1 Nh3+ 7.Bxh3 Qf2+ 8.Kh1 Qxh2 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11336,7 +11336,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rcl+ 2.Kxcl Re1+ 3 *
+1...Rc1+ 2.Kxc1 Re1+ 3 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11350,7 +11350,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ng4 2.Bxd8 Bxﬂ+ 3.Rxf2 gxf2+ 4.Kf1 Rh1+ 5.Ke2 Rxdl 6.Nfd2 Nd4+ 7.de1 Ne3+ 8.Kc1 Ne2 *
+1...Ng4 2.Bxd8 Bxf1+ 3.Rxf2 gxf2+ 4.Kf1 Rh1+ 5.Ke2 Rxd1 6.Nfd2 Nd4+ 7.Kxd1 Ne3+ 8.Kc1 Ne2 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11364,7 +11364,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.Kc1 Qg5+3.Kb1Nd2+ 4.Kc1 Nb3+ 5.Kb1 ch+ 6.Rxc1 Nd2 *
+1...Nf3+ 2.Kc1 Qg5+ 3.Kb1 Nd2+ 4.Kc1 Nb3+ 5.Kb1 Qc1+ 6.Rxc1 Nd2 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11392,7 +11392,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ndxc5 2.dxc5 Bch+ 3.Kh1 ng3+ 4.hxg3 Qh5 *
+1...Ndxc5 2.dxc5 Bxc5+ 3.Kh1 Nxg3+ 4.hxg3 Qh5 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11406,7 +11406,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxd4 2.cxd4 Bxd4+  3.Kf1 ng2+ 4.Kxg2 Bh3 *
+1...Rxd4 2.cxd4 Bxd4+  3.Kf1 Qxg2+ 4.Kxg2 Bh3 *
 
 [Event "Black to move & win"]
 [Site "Surprise Moves"]
@@ -11420,7 +11420,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5 2.13 QcS+ 3.Kg2 Qf2+ 4.Kh3 Qxh2+ 5.Kxg4 Rxf4+ 6.gxf4 Qh4 *
+1...g5 2.f3 Qc5+ 3.Kg2 Qf2+ 4.Kh3 Qxh2+ 5.Kxg4 Rxf4+ 6.gxf4 Qh4 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11448,7 +11448,7 @@ White has just played QxQ at a5.  Instead of replying l...Nxa5, Black nonchalant
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Black, who was a piece down, has just played ...g3+, winning Whites queen. But... l.Ke3 Qxdl 2.c3. Now Black must give back his queen, for if 3...Qh5?, 4.Nf6+ wins. White will win the weak g3 *
+1.Ke3 Qxd1 2.c3  *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11476,7 +11476,7 @@ Black, who was a piece down, has just played ...g3+, winning Whites queen. But..
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nt3 Qxh1 2.Ne5. 2...Qxc6 3.Nxc6 *
+1.Nf3 Qxh1 2.Ne5 Qxc6 3.Nxc6 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11490,7 +11490,7 @@ Black, who was a piece down, has just played ...g3+, winning Whites queen. But..
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc6 2.Nxc6 Rxdl 3.fod1 bxc6 4.c5 Rg8 5.Rabl *
+1.dxc6  Bxc6 2.Nxc6 Rxd1 3.Rfxd1 bxc6 4.c5 Rg8 5.Rab1 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11504,7 +11504,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qa2+ Bva 2.Rb2+ Kxc1 3.Rxf2 *
+1.Qa2+ Bxa2 2.Rb2+ Kxc1 3.Rxf2 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11546,7 +11546,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re8+ B18 2.Rxf8+ Kxf8 3.Nf5+ Kg8 4.Qf8 *
+1.Re8+ Bf8 2.Rxf8+ Kxf8 3.Nf5+ Kg8 4.Qf8 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11560,7 +11560,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Re4+ Kf8 2.Nxd6  Qxd6 3.Re8+ Rxe8 4.ng7+ Kxg7  5.fxe8/N+ Kf8 6.Nxd6 *
+1.Re4+ Kf8 2.Nxd6  Qxd6 3.Re8+ Rxe8 4.Qxg7+ Kxg7  5.fxe8+ Kf8 6.Nxd6 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11588,7 +11588,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rh6 Rxh6 2.h8/Q+ Rxh8 3.b5 *
+1.Rh6 Rxh6 2.h8+ Rxh8 3.b5 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11602,7 +11602,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qd8+ Ka7 2.Rd3 Qel  3.Rd1 Qxd1 4.Qa5 *
+1.Qd8+ Ka7 2.Rd3 Qe1  3.Rd1 Qxd1 4.Qa5 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11616,7 +11616,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qf2 Drawn. After 1...Qxf2 *
+1.Qf2 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11630,7 +11630,7 @@ Despite Black’s threat to win rap— idly with ...Rh6, White plays l.dxc6  Bxc
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-Black is just about to checkmate.  l.Rf6+ gxf6 2.Qxf6+ Kh7 3.Qh8 *
+1.Rf6+ gxf6 2.Qxf6+ Kh7 3.Qh8 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11658,7 +11658,7 @@ Black is just about to checkmate.  l.Rf6+ gxf6 2.Qxf6+ Kh7 3.Qh8 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qxe1 because of 1...Qf5+ and next move. Yet he draws: 1.Qg8+ Kxg8 2.Qe8+ Kh7 3.Qg8+ Kh6 4.Qh7+ Kg5 5.Qh6+  Drawn. After 5...Kxh6 *
+1.Qg8+ Kxg8 2.Qe8+ Kh7 3.Qg8+ Kh6 4.Qh7+ Kg5 5.Qh6+ *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11672,7 +11672,7 @@ Black is just about to checkmate.  l.Rf6+ gxf6 2.Qxf6+ Kh7 3.Qh8 *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-White’s queen is apparently lost, for if the queen moves, Black check- mates. l.Rb5. l...ReS 2.Rb1 Rg8  3.Rb5 Re8 *
+1.Rb5 Re5 2.Rb1 Rg8  3.Rb5 Re8 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11700,7 +11700,7 @@ White’s queen is apparently lost, for if the queen moves, Black check- mates. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.Kh1 2...Ng4 3.Qxb5 3...Qxf2. The queen cannot be captured, and meanwhile Black threat- ens ...le+ *
+1...Nf3+ 2.Kh1 Ng4 3.Qxb5 Qxf2 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11714,7 +11714,7 @@ White’s queen is apparently lost, for if the queen moves, Black check- mates. 
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.Rxd5 Rxd5 3.exd5 exf4 4.Rbl Rc2+ 5 *
+1...e5 2.Rxd5 Rxd5 3.exd5 exf4 4.Rb1 Rc2+ 5 Ke1 Rc1+*
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11728,7 +11728,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxh2 2.Rxh2 Qxa3 3.bxa3 3...Bxa3+ 4.Kbl Nc3+ 5.Kal Bb2+ 6.Kxb2 Nxd1+, followed by ...Nxe3 *
+1...Rxh2 2.Rxh2 Qxa3 3.bxa3 Bxa3+ 4.Kb1 Nc3+ 5.Ka1 Bb2+ 6.Kxb2 Nxd1+ *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11756,7 +11756,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...g5 2.fxg5 2...fxg5 3.ng5 *
+1...g5 2.fxg5 fxg5 3.Qxg5 Rxf1 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11770,7 +11770,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qe1+ 2.Kxf4 Qh4+ 3.Kf5 Qh5+ 4.Ke6 Q68 *
+1...Qe1+ 2.Kxf4 Qh4+ 3.Kf5 Qh5+ 4.Ke6 Qe8 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11784,7 +11784,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Qxd1+2,Qxd1Bg4   *
+1...Qxd1+ 2. Qxd1 Bg4 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11798,7 +11798,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...e2 2.Rxe2 2...Rxe2 3.Qxe2 Nxd4 *
+1...e2 2.Rxe2 Rxe2 3.Qxe2 Nxd4 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11812,7 +11812,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rxa2 2.hxg6 Rxb2+ 3.Kc1 Rxc2+ 4.Kch Qf2+ 5.Kd3 Nb2 *
+1...Rxa2 2.hxg6 Rxb2+ 3.Kc1 Rxc2+ 4.Kxc2 Qf2+ 5.Kd3 Nb2 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11924,7 +11924,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.BgS BXB 2.Qd2 Qxd4 3.Bb5 *
+1.Bg5 Bxf3 2.Qd2 Qxd4 3.Bb5 *
 
 [Event "Black to move & win"]
 [Site "Trapped Man"]
@@ -12064,7 +12064,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qe7+ Qg52.Qe4+ Qg4 3.Qe3 *
+1.Qe7+ Qg5 2.Qe4+ Qg4 3.Qe3 *
 
 [Event "White to move & win"]
 [Site "Zugzwang"]
@@ -12120,7 +12120,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bf4 Now Black can win in many ways, for example, 2.Kb4 Kd5 3.Ka4 Kc4 *
+1...Bf4 2.Kb4 Kd5 3.Ka4 Kc4 *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12134,7 +12134,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Ke3  2.Rxg5 Rdl+ 3.Rg1 Kﬂ 4.Rxd1 Bg2 *
+1...Ke3  2.Rxg5 Rd1+ 3.Rg1 Kf2 4.Rxd1 Bg2 *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12148,7 +12148,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Rg8 2.Rg1 2...Rxg5 3.ng5 Qd6 *
+1...Rg8 2.Rg1 Rxg5 3.Qxg5 Qd6 *
 
 [Event "Black to move & win"]
 [Site "Zugzwang"]
@@ -12190,7 +12190,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.b4+ Kxb4 2.Rb7+ Kc3 3.Ne4+ K02 4.Rbb1 *
+1.b4+ Kxb4 2.Rb7+ Kc3 3.Ne4+ Kc2 4.Rbb1 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12204,7 +12204,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qb5+ Nd7 2.Rfe1 2...Bb4 3.Nf6+ Kf8 4.Nxd7+ Rxd7 5.Qe5 *
+1.Qb5+ Nd7 2.Rfe1 Bb4 3.Nf6+ Kf8 4.Nxd7+ Rxd7 5.Qe5 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12218,7 +12218,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qg4+ Kd3 2.Qe2+ K02 3.d3+ Kxc1 4. 0-0 *
+1.Qg4+ Kd3 2.Qe2+ Kc2 3.d3+ Kxc1 4. 0-0 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12232,7 +12232,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bb5 Qbe 2.Qxf5 f6 3.Rae1 fxg5 4.Rxe7+ Kd8 5.ng5 K08 6.Qg4+ Kd8 7.a4 *
+1.Bb5 Qxb5 2.Qxf5 f6 3.Rae1 fxg5 4.Rxe7+ Kd8 5.Qxg5 Kc8 6.Qg4+ Kd8 7.a4 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12288,7 +12288,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rf7+ Kxf7 2.Qe6+ Kg7 3.Qe7+ Kh6 4.Nf5 mate. Or 4.Nf3 *
+1.Rf7+ Kxf7 2.Qe6+ Kg7 3.Qe7+ Kh6 4.Nf5 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12344,7 +12344,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxe6+ Kd7 2.Rxd6+ 2...de6 3.Nf5+ Ke6 4.Re3+ Kd7 5.Re7 *
+1.Rxe6+ Kd7 2.Rxd6+ Kxd6 3.Nf5+ Ke6 4.Re3+ Kd7 5.Re7 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12358,7 +12358,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.g4+ fxg4 2.hxg4+ Kh4 3-QXh6+ Qxh6 4.Kh2 *
+1.g4+ fxg4 2.hxg4+ Kh4 3.Qxh6+ Qxh6 4.Kh2 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12400,7 +12400,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxg6 fxg6 2.Qxe6 Rf8 3.ng6+ Kd7 4.Be6 *
+1.Rxg6 fxg6 2.Qxe6 Rf8 3.Qxg6+ Kd7 4.Be6 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12414,7 +12414,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Bg6+ Kf82.Qxe6 hxg6 3.hxg6 *
+1.Bg6+ Kf8 2.Qxe6 hxg6 3.hxg6 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12456,7 +12456,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Qh6+ Nxh6 2.Bxh6 mate. More pleasing than 1.Bh6 *
+1.Qh6+ Nxh6 2.Bxh6 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12526,7 +12526,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Nxe6 fxe6  2.R08+ Kf'7 3.Rxh8 gxf6 4.Qh5+ Ke7 5.Q05+ Kf7 6.Rxh7+ Kg8 7.Qe7 *
+1.Nxe6 fxe6  2.Rc8+ Kf7 3.Rxh8 gxf6 4.Qh5+ Ke7 5.Qc5+ Kf7 6.Rxh7+ Kg8 7.Qe7 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12540,7 +12540,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1.Rxf7 Kxf7 2.Rf1+ Kg7 3.Bh6+ Kxh6 4.Rf7 Qd8 5.Rxh7+  Kxh7 6.ng6 *
+1.Rxf7 Kxf7 2.Rf1+ Kg7 3.Bh6+ Kxh6 4.Rf7 Qd8 5.Rxh7+  Kxh7 6.Qxg6 *
 
 [Event "White to move & win"]
 [Site "The Helpless King"]
@@ -12638,7 +12638,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bxd3 2.cxb3 Rxd3 3.Qg4 Rxd2+ 4.de2 Bb4+ 5.Kcl Re 1+ 6.le Qc6 *
+1...Bxd3 2.cxb3 Rxd3 3.Qg4 Rxd2+ 4.Kxd2 Bb4+ 5.Kc1 Re1+ 6.Qd1 Qc6 *
 
 [Event "Black to move & win"]
 [Site "The Helpless King"]
@@ -12666,7 +12666,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Bb4+ 2.axb4 Qe3+ 3.K02 Nxb4 *
+1...Bb4+ 2.axb4 Qe3+ 3.Kc2 Nxb4 *
 
 [Event "Black to move & win"]
 [Site "The Helpless King"]
@@ -13772,7 +13772,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nt3+ 2.gxf3 Rg5+ 3.Kh1 Qxf3 *
+1...Nf3+ 2.gxf3 Rg5+ 3.Kh1 Qxf3 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
@@ -13786,7 +13786,7 @@ After the promising-looking l...Bb3, White has 2.Rxd8+ Rxd8 3.Rbl So: l...e5 2.R
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...Nf3+ 2.gxf3 2...Rg5+  3.Kf1 Qh3+ 4.Ke2 Re5 *
+1...Nf3+ 2.gxf3 Rg5+  3.Kf1 Qh3+ 4.Ke2 Re5 *
 
 [Event "Black to move & win"]
 [Site "The Weakened Castled Position"]
