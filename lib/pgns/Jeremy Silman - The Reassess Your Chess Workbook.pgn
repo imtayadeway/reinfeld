@@ -20,12 +20,12 @@
 [Black "Smyslov, Vassily"]
 [Result "0-1"]
 [ECO "C85"]
+[FEN "r1bb1rk1/1pp3pp/p1p5/2n2p2/4PB2/2N2N2/PPP2PPP/R3R1K1 w - f6 0 13"]
 [PlyCount "84"]
 [EventDate "1946.??.??"]
 [Source "ChessBase"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Re1 Nd7 8.
-d4 exd4 9. Qxd4 O-O 10. Bf4 Nc5 11. Qxd8 Bxd8 12. Nc3 f5 *
+1. Bg5 *
 
 [Event "Candidats sf1"]
 [Site "The Opening"]
@@ -35,41 +35,12 @@ d4 exd4 9. Qxd4 O-O 10. Bf4 Nc5 11. Qxd8 Bxd8 12. Nc3 f5 *
 [Black "Karpov, Anatoly"]
 [Result "1-0"]
 [ECO "C86"]
+[FEN "1r1q1rk1/2p1bppp/p5b1/3pP3/Bn1Pn3/2N1BN1P/1P2QPP1/R2R2K1 w - - 5 18"]
 [PlyCount "71"]
 [EventDate "1992.04.??"]
 [Source "ChessBase"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
-d6 9. d4 Bg4 10. Rd1 exd4 11. cxd4 d5 12. e5 Ne4 13. a4 bxa4 14. Bxa4 Nb4 15.
-h3 Bh5 16. Nc3 Bg6 17. Be3 Rb8 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "0041 Avance ...g5"]
-[Black "?"]
-[Result "*"]
-[ECO "B39"]
-[PlyCount "24"]
-[SourceDate "2001.07.31"]
-
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
-Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. Bd3 b6 12. O-O g5 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "0042 Avance ...g5"]
-[Black "?"]
-[Result "*"]
-[ECO "B99"]
-[PlyCount "22"]
-[SourceDate "2001.07.31"]
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
-Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
+1. Na2 *
 
 [Event "North Bay"]
 [Site "The Opening"]
@@ -79,10 +50,12 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 [Black "Rajlich"]
 [Result "*"]
 [ECO "A45"]
+[FEN "rnbqkb1r/pp1ppppp/8/2p5/3Pn2B/3Q4/PPP1PPPP/RN2KBNR b KQkq - 1 4"]
 [PlyCount "7"]
 [SourceDate "2001.07.31"]
 
-1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. Qd3 *
+1... Qb6 2. b3 Qh6 3. Nf3 Qc1+ 4. Qd1 Qb2 5. Nbd2 Nxd2 6. Nxd2 Qxd4 *
+
 
 [Event "?"]
 [Site "The Opening"]
@@ -92,10 +65,11 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 [Black "?"]
 [Result "*"]
 [ECO "B01"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 3"]
 [PlyCount "6"]
 [SourceDate "2001.07.31"]
 
-1. e4 d5 2. exd5 Nf6 3. c4 c6 *
+1... c6 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -105,10 +79,11 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 [Black "?"]
 [Result "*"]
 [ECO "A80"]
+[FEN "rn1qk2r/pbppb1pp/1p2pn2/5p2/3P1B2/3BPN2/PPPN1PPP/R2Q1RK1 b kq - 5 7"]
 [PlyCount "13"]
 [SourceDate "2001.07.31"]
 
-1. d4 f5 2. Nf3 Nf6 3. Bf4 e6 4. e3 b6 5. Bd3 Bb7 6. Nbd2 Be7 7. O-O *
+1... Nh5 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -118,52 +93,11 @@ Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 *
 [Black "?"]
 [Result "*"]
 [ECO "A56"]
+[FEN "rnbq1rk1/pp2bppp/3p1n2/2pPp3/2P1P3/2NB4/PP2NPPP/R1BQK2R b KQ - 4 7"]
 [PlyCount "13"]
 [SourceDate "2001.07.31"]
 
-1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Bd3 O-O 7. Nge2 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "009"]
-[Black "?"]
-[Result "*"]
-[ECO "E98"]
-[PlyCount "17"]
-[SourceDate "2001.07.31"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
-Ne7 9. Ne1 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "010"]
-[Black "?"]
-[Result "*"]
-[ECO "B06"]
-[PlyCount "7"]
-[SourceDate "2001.07.31"]
-
-1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "011"]
-[Black "?"]
-[Result "*"]
-[ECO "B08"]
-[PlyCount "29"]
-[SourceDate "2001.07.31"]
-
-1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 Nf6 5. Nc3 c6 6. a4 a5 7. Be3 O-O 8. Qd2 Na6
-9. Be2 Qc7 10. O-O e5 11. dxe5 dxe5 12. Rad1 Re8 13. Qc1 Nb4 14. Nd2 Be6 15.
-Nc4 *
+1... Ne8 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -173,24 +107,11 @@ Nc4 *
 [Black "?"]
 [Result "*"]
 [ECO "A26"]
+[FEN "r1bqk2r/ppp3bp/2np1np1/4pp2/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 w kq - 2 8"]
 [PlyCount "15"]
 [SourceDate "2001.07.31"]
 
-1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. d3 d6 6. Bg2 f5 7. O-O Nf6 8. Rb1 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "013"]
-[Black "?"]
-[Result "*"]
-[ECO "A41"]
-[PlyCount "15"]
-[SourceDate "2001.07.31"]
-
-1. d4 d6 2. c4 e5 3. d5 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e4 Nbd7 7. Nge2 Qe8 8. Ng3
-*
+1... Rb1 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -200,28 +121,11 @@ Nc4 *
 [Black "?"]
 [Result "1-0"]
 [ECO "E59"]
+[FEN "3r2k1/ppq2ppp/5n2/2p5/2P5/P3PP1b/1BQ1BP1P/3R2K1 w - - 1 19"]
 [PlyCount "55"]
 [SourceDate "2001.07.31"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d5 6. Bd3 O-O 7. O-O Nc6 8. a3
-Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Be2 e5 12. Bb2 Rd8 13. Qc2 Bg4 14. dxe5 Nxe5
-15. c4 Nxf3+ 16. gxf3 Bh3 17. Rfd1 Rxd1+ 18. Rxd1 Rd8 19. Rb1 Qd7 20. Kh1 Bf5
-21. e4 Bg6 22. Qc3 Ne8 23. Qe5 Qd2 24. Rd1 Qa5 25. Rd7 Ra8 26. Kg2 b6 27. Qd5
-Qa4 28. Bd1 1-0
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "015"]
-[Black "?"]
-[Result "*"]
-[ECO "B58"]
-[PlyCount "22"]
-[SourceDate "2001.07.31"]
-
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 h6 8. O-O
-Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
+1. Rb1 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -245,11 +149,11 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 [Black "?"]
 [Result "*"]
 [ECO "E91"]
+[FEN "rn1q1rk1/pppnppbp/3p2p1/8/2PPP1b1/2N1BN2/PP2BPPP/R2QK2R w KQ - 6 8"]
 [PlyCount "15"]
 [SourceDate "2001.07.31"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nfd7 8. Ng1
-*
+1. Ng1 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -273,11 +177,11 @@ Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 *
 [Black "?"]
 [Result "*"]
 [ECO "E41"]
+[FEN "r1bqk2r/pp3ppp/2nppn2/2p5/2PPP3/2PB1N2/P4PPP/R1BQK2R b KQkq - 0 8"]
 [PlyCount "16"]
 [SourceDate "2001.07.31"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6 8. e4
-e5 *
+1. e5 *
 
 [Event "Corr Golden knights"]
 [Site "The Opening"]
@@ -287,12 +191,11 @@ e5 *
 [Black "Cook"]
 [Result "*"]
 [ECO "A80"]
+[FEN "rnbqk2r/pp4pp/4pn2/2pp1p2/1b1P1B2/2NBPN2/PPP2PPP/R2QK2R w KQkq c6 0 7"]
 [PlyCount "29"]
 [SourceDate "2001.07.31"]
 
-1. d4 f5 2. Nc3 d5 3. Bf4 Nf6 4. e3 e6 5. Nf3 Bb4 6. Bd3 c5 7. dxc5 Nbd7 8. O-O
-Bxc3 9. bxc3 Nxc5 10. Nd4 Qe7 11. Be5 Ng4 12. Bg3 O-O 13. c4 Nxd3 14. cxd3 e5
-15. Nf3 *
+1. dxc5 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -302,25 +205,11 @@ Bxc3 9. bxc3 Nxc5 10. Nd4 Qe7 11. Be5 Ng4 12. Bg3 O-O 13. c4 Nxd3 14. cxd3 e5
 [Black "?"]
 [Result "*"]
 [ECO "C90"]
+[FEN "r2qk2r/2p1bppp/p1np1n2/1p2p3/4P1b1/1BP2N2/PP1P1PPP/RNBQR1K1 w kq - 1 9"]
 [PlyCount "27"]
 [SourceDate "2001.07.31"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-Bg4 9. d3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. Nf1 Qc7 13. Ng3 Nc6 14. h3 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "023"]
-[Black "?"]
-[Result "*"]
-[ECO "C30"]
-[PlyCount "28"]
-[SourceDate "2001.07.31"]
-
-1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 a6 5. d4 exd4 6. cxd4 Ba7 7. Nc3 Nf6 8. Be3
-O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
+1. d3 O-O 2. Nbd2 Na5 3. Bc2 c5 4. Nf1 Qc7 5. Ng3 Nc6 6x. h3 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -330,23 +219,11 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 [Black "?"]
 [Result "*"]
 [ECO "A84"]
+[FEN "rnbqk1nr/pp2p1bp/3p2p1/2pP1p2/2P5/6P1/PP2PPBP/RNBQK1NR w KQkq c6 0 6"]
 [PlyCount "11"]
 [SourceDate "2001.07.31"]
 
-1. c4 g6 2. g3 f5 3. d4 Bg7 4. Bg2 d6 5. d5 c5 6. Nh3 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "025 Caro-Kann"]
-[Black "?"]
-[Result "*"]
-[ECO "B13"]
-[PlyCount "7"]
-[SourceDate "2001.07.31"]
-
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 *
+1. Nh3 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -356,36 +233,11 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 [Black "?"]
 [Result "*"]
 [ECO "B22"]
+[FEN "rnbqkbnr/pp2pppp/8/2pp4/4P3/2PP4/PP3PPP/RNBQKBNR b KQkq - 0 3"]
 [PlyCount "6"]
 [SourceDate "2001.07.31"]
 
-1. e4 c5 2. c3 d5 3. d3 Nc6 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "027 Queen Indian"]
-[Black "?"]
-[Result "*"]
-[ECO "E12"]
-[PlyCount "6"]
-[SourceDate "2001.07.31"]
-
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "028 Colle"]
-[Black "?"]
-[Result "*"]
-[ECO "D05"]
-[PlyCount "14"]
-[SourceDate "2001.07.31"]
-
-1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Nbd2 c5 5. c3 Nc6 6. Bd3 Be7 7. O-O O-O *
+1... Nc6 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -409,39 +261,11 @@ O-O 9. Bd3 Re8 10. h3 Bf5 11. e5 Bxd3 12. Qxd3 Nc6 13. Qd2 Nb4 14. O-O Nfd5 *
 [Black "?"]
 [Result "*"]
 [ECO "A30"]
+[FEN "rnbqkb1r/pp1ppp1p/5np1/2p5/2P5/1P6/PB1PPPPP/RN1QKBNR w KQkq - 0 4"]
 [PlyCount "17"]
 [SourceDate "2001.07.31"]
 
-1. c4 c5 2. b3 Nf6 3. Bb2 g6 4. Bxf6 exf6 5. Nc3 Bg7 6. g3 Nc6 7. Bg2 f5 8. e3
-O-O 9. Nge2 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "031"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r2q1rk1/ppp1npbp/2npb1p1/4p3/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w - - 0 1"]
-[PlyCount "0"]
-[SourceDate "2001.07.31"]
-
- *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "0321"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/pp2pp1p/3p2p1/2pP4/2P5/6P1/PP2PP1P/4K3 b - - 0 1"]
-[PlyCount "0"]
-[SourceDate "2001.07.31"]
-
- *
+1. Bxf6 exf6 2. Nc3 Bg7 3. g3 Nc6 4. Bg2 f5 5. e3 O-O 6. Nge2 *
 
 [Event "?"]
 [Site "The Opening"]
@@ -457,66 +281,6 @@ O-O 9. Nge2 *
 
 1... Na6 2. O-O Nc7 *
 
-[Event "Munich"]
-[Site "The Opening"]
-[Date "1991.??.??"]
-[Round "3"]
-[White "033 Beliavsky, Alexander"]
-[Black "Anand, Viswanathan"]
-[Result "0-1"]
-[ECO "B09"]
-[PlyCount "56"]
-[EventDate "1991.05.??"]
-[Source "ChessBase"]
-
-1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 7. e5 Ng4 8. Bg1 c5
-9. h3 Nh6 10. d5 Bb7 11. Qd2 Nf5 12. Bh2 dxe5 13. fxe5 e6 14. O-O-O exd5 15.
-Nxd5 Nc6 16. c3 Ncd4 17. Nf6+ Bxf6 18. cxd4 Bg7 19. d5 c4 20. Be2 Rc8 21. Kb1
-Bh6 22. Bf4 Bxf4 23. Qxf4 Bxd5 24. h4 c3 25. bxc3 Rxc3 26. h5 Ne3 27. Ng5 Qc7
-28. Nxh7 Rb3+ 0-1
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "034"]
-[Black "?"]
-[Result "*"]
-[ECO "D46"]
-[PlyCount "21"]
-[SourceDate "2001.07.31"]
-
-1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
-Qe7 9. c5 Bc7 10. e4 dxe4 11. Nxe4 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "035 Hedgedog Structure"]
-[Black "?"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/3k1ppp/pp1pp3/8/2P1P3/1P6/P4PPP/5K2 b - - 0 1"]
-[PlyCount "3"]
-[SourceDate "2001.07.31"]
-
-1... b5 2. cxb5 axb5 *
-
-[Event "?"]
-[Site "The Opening"]
-[Date "????.??.??"]
-[Round "?"]
-[White "036"]
-[Black "?"]
-[Result "*"]
-[ECO "E12"]
-[PlyCount "22"]
-[SourceDate "2001.07.31"]
-
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4
-Nc6 9. Nxc6 Bxc6 10. Bf4 Nh5 11. Be3 Bd6 *
-
 [Event "London m"]
 [Site "The Opening"]
 [Date "1872.??.??"]
@@ -525,17 +289,13 @@ Nc6 9. Nxc6 Bxc6 10. Bf4 Nh5 11. Be3 Bd6 *
 [Black "Steinitz, William"]
 [Result "0-1"]
 [ECO "C77"]
+[FEN "r1bqk2r/2p2pb1/p2p1npp/2p1p3/4P3/2NPBN1P/PPPQ1PP1/1R2K2R b Kkq - 1 11"]
 [PlyCount "70"]
 [EventDate "1872.??.??"]
 [Source "ChessBase"]
 [SourceDate "2000.11.22"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Bxc6+ bxc6 7. h3 g6 8. Nc3
-Bg7 9. Be3 c5 10. Qd2 h6 11. Rb1 Ng8 12. Nh2 Ne7 13. f4 exf4 14. Bxf4 g5 15.
-Be3 f5 16. O-O f4 17. Bf2 Nc6 18. Nd5 O-O 19. b4 cxb4 20. Nxb4 Nxb4 21. Rxb4
-Be6 22. Bd4 Bxd4+ 23. Rxd4 c5 24. Ra4 Qb6 25. c4 a5 26. Ra3 a4 27. Rc3 Rfb8 28.
-Rc2 Qc7 29. Rb2 a3 30. Rbb1 Qg7 31. Rxb8+ Rxb8 32. Qa5 Qd4+ 33. Kh1 Qxd3 34.
-Qc7 Rb1 35. Qd8+ Kf7 0-1
+1... Ng8 12. Nh2 Ne7 13. f4 exf4 14. Bxf4 g5 15. Be3 f5 16. O-O f4 17. Bf2 Nc6 *
 
 [Event "PROBLEMS MIDDLEGAME"]
 [Site "The Opening"]
