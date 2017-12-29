@@ -9,7 +9,7 @@
 #  updated_at :datetime         not null
 #
 
-class Puzzle < ActiveRecord::Base
+class Puzzle < ApplicationRecord
   belongs_to :chapter
   belongs_to :book
 
