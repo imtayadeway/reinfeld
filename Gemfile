@@ -15,6 +15,7 @@ gem 'pgn'
 
 group :development do
   gem 'annotate'
+  gem "listen"
 end
 
 group :development, :test do
