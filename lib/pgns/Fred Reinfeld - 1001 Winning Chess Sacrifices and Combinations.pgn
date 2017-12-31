@@ -5243,7 +5243,7 @@ Qxe8# *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1. Qxh5+ Bxh5 2. f6+ e5 3. Bxe5# *
+1. Qxh5+ Bxh5 2. f7+ e5 3. Bxe5# *
 
 [Event "White to move & win"]
 [Site "Discovered Check"]
@@ -11042,7 +11042,7 @@ Rxf2+ 8. Kg1 Rg2+ *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1. Kd6 d2 2. Kc7 d1=Q 3. Ra6+  bxa6 4. b6+ Ka8 5. b7+ Ka7 6. b8 *
+1. Kd6 d2 2. Kc7 d1=Q 3. Ra6+  bxa6 4. b6+ Ka8 5. b7+ Ka7 6. b8=Q# *
 
 [Event "White to move & win"]
 [Site "Surprise Moves"]
@@ -11590,7 +11590,7 @@ Qf2+ 8. Kh1 Qxh2# *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1. Re4+ Kf8 2. Nxd6  Qxd6 3. Re8+ Rxe8 4. Qxg7+ Kxg7  5. fxe8+ Kf8 6. Nxd6 *
+1. Re4+ Kf8 2. Nxd6  Qxd6 3. Re8+ Rxe8 4. Qxg7+ Kxg7 5. fxe8=N+ Kf8 6. Nxd6 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11618,7 +11618,7 @@ Qf2+ 8. Kh1 Qxh2# *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1. Rh6 Rxh6 2. h8+ Rxh8 3. b5 *
+1. Rh6 Rxh6 2. h8=Q+ Rxh8 3. b5 *
 
 [Event "White to move & win"]
 [Site "Defensive Combinations"]
@@ -11702,7 +11702,7 @@ Qf2+ 8. Kh1 Qxh2# *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1. Rb5 Re5 2. Rb1 Rg8  3. Rb5 Re8 *
+1. Rb5 Re8 2. Rb1 Rg8 3. Rb5 Re8 *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
@@ -11744,7 +11744,7 @@ Qf2+ 8. Kh1 Qxh2# *
 [PlyCount "0"]
 [EventDate "1998.??.??"]
 
-1...e5 2. Rxd5 Rxd5 3. exd5 exf4 4. Rb1 Rc2+ 5 Ke1 Rc1+*
+1...e5 2. Rxd5 Rxd5 3. exd5 exf4 4. Rb1 Rc2+ 5 Ke1 Rc1+ *
 
 [Event "Black to move & win"]
 [Site "Defensive Combinations"]
