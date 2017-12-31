@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby "2.4.2"
 
 gem 'rails', git: "https://github.com/rails/rails.git"
+gem "puma"
 gem 'pg'
 gem 'sass-rails'
 gem 'uglifier', '>= 1.3.0'
