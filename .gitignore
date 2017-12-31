@@ -14,3 +14,5 @@
 
 # Sensitive data in here
 /config/database.yml
+
+/.env
