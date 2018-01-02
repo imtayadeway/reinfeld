@@ -2171,7 +2171,7 @@ Qf4  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1... Ngf3+ 2. gxf3 Bh4 3. Qg2  *
+1... Ngf3+ 2. gxf3 Bh4 3. Qg2 Bxe1  *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2297,7 +2297,7 @@ Qf4  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1... Nb3 2. axb3  *
+1... Nb3 2. axb3 Qxa1  *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -2479,7 +2479,7 @@ Qf4  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1... Rxc1 2. h3 Nf3+ 3. Kf2  *
+1... Rxc1 2. h3 Nf3+ 3. Kf2 Rxf1+  *
 
 [Event "Black to move & win"]
 [Site "Knight Forks"]
@@ -4455,7 +4455,7 @@ Qf4  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1. Nd5 Nxd5 2. Qxf6 Nxf6 3. Bxh6 Nbd7 4. Bxf8 Kxf8 5. e5 Nd5 6. Bxd5 cxd5 7. e6 
+1. Nd5 Nxd5 2. Qxf6 Nxf6 3. Bxh6 Nbd7 4. Bxf8 Kxf8 5. e5 Nd5 6. Bxd5 cxd5 7. e6
 *
 
 [Event "White to move & win"]
@@ -12268,7 +12268,7 @@ Qe8+ Kb7 8. Qxf7+  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1. Bb5 Qxb5 2. Qxf5 f6 3. Rae1 fxg5 4. Rxe7+ Kd8 5. Qxg5 Kc8 6. Qg4+ Kd8 7. a4 
+1. Bb5 Qxb5 2. Qxf5 f6 3. Rae1 fxg5 4. Rxe7+ Kd8 5. Qxg5 Kc8 6. Qg4+ Kd8 7. a4
 *
 
 [Event "White to move & win"]
@@ -13846,7 +13846,7 @@ Rxf6  *
 [PlyCount "0"]
 [SetUp "1"]
 
-1... Qxh2+ 2. Kxh2 Rh6+ 3. Kg3 Ne2+ 4. Kg4 Rf4+ 5. Kg5 Rff6 6. Kg4 Rfg6+ 7. Kf3 
+1... Qxh2+ 2. Kxh2 Rh6+ 3. Kg3 Ne2+ 4. Kg4 Rf4+ 5. Kg5 Rff6 6. Kg4 Rfg6+ 7. Kf3
 *
 
 [Event "Black to move & win"]
@@ -14073,4 +14073,3 @@ Kxh3 Rh8#  *
 [SetUp "1"]
 
 1... Nxh3 2. gxh3 Bxh3+ 3. Kf2 Ng4+ 4. Bxg4 Bxg4  *
-
