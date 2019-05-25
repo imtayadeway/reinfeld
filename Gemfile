@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "2.4.2"
+ruby "2.6.3"
 
 gem 'rails', git: "https://github.com/rails/rails.git"
 gem "puma"
