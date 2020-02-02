@@ -77,3 +77,7 @@ var cfg = {
 };
 board = ChessBoard('board', cfg);
 game.load($("#board").attr("fen"));
+
+$('#board').on('scroll touchmove touchend touchstart contextmenu', function(e) {
+  e.preventDefault();
+});
