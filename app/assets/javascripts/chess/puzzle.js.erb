@@ -1,9 +1,39 @@
+var getCookie = function() {
+  let name = "score=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "0";
+}
+
+var setCookie = function(score) {
+  const d = new Date();
+  d.setTime(d.getTime() + (10 * 365 * 24 *60 *60 * 1000));
+  let expires = "expires="+ d.toUTCString();
+  document.cookie = "score=" + score + ";" + expires + ";path=/";
+}
+
 var board,
-  game = new Chess();
+    game = new Chess();
 
 var solution = $("#board").attr("solution").split(":");
 
-var score = 10;
+var score = 5;
+
+var decrementScore = function() {
+  if (score !== -5) {
+    score--;
+    score--;
+  }
+}
 
 // do not pick up pieces if the game is over
 // only pick up pieces for the side to move
@@ -44,7 +74,7 @@ var onDrop = function(source, target) {
   var correctMove = solution[0];
   if (move.san !== correctMove) {
     alert("Sorry, this is not the correct move!");
-    score--;
+    decrementScore();
     game.undo();
     return 'snapback';
   }
@@ -52,6 +82,9 @@ var onDrop = function(source, target) {
 
   // solved or move
   if (solution.length === 0) {
+    var totalScore = getCookie();
+    setCookie(Number(totalScore) + score);
+    $('#score').text("Score: " + (Number(totalScore) + score));
     alert("You have solved this puzzle and get " + score + " points!");
   } else {
     window.setTimeout(makeComputerMove, 250);
@@ -80,4 +113,8 @@ game.load($("#board").attr("fen"));
 
 $('#board').on('scroll touchmove touchend touchstart contextmenu', function(e) {
   e.preventDefault();
+});
+
+$(document).ready(function() {
+  $('#score').text("Score: " + getCookie());
 });
