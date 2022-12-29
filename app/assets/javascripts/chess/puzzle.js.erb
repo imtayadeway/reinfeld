@@ -56,6 +56,7 @@ var onDrop = function(source, target) {
   var promotion
   if (game.get(source).type === "p" && target.match(/1|8/)) {
     promotion = prompt("Enter promotion (q, r, b, n):");
+    promotion = promotion.toLowerCase();
   }
 
   // see if the move is legal
